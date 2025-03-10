@@ -1,0 +1,3020 @@
+input,model_response,answer
+"
+
+What is patient 13614978's respiratory rate on 2020-02-01?",18 respirations per minute,18
+"
+
+What is patient 13614978's oxygen saturation level on 2020-02-01?",98%,100%
+"
+
+What is patient 13620446's blood pressure reading on 2020-03-20?",117/82,101/47
+"
+
+What is patient 10878442's blood pressure reading on 2020-11-16?",134/76,130/50
+"
+
+What is patient 13620446's oxygen saturation level on 2020-03-20?",97%,74%
+"
+
+What is patient 13614978's body temperature on 2020-09-24?",98.6F,99.2F
+"
+
+What is patient 14928901's blood pressure reading on 2020-01-02?",134/87,109/76
+"
+
+What is patient 12137011's respiratory rate on 2020-07-27?",17 respirations per minute,22
+"
+
+What is patient 14644059's oxygen saturation level on 2020-11-26?",97%,97%
+"
+
+What is patient 10878442's respiratory rate on 2020-11-16?",19 respirations per minute,20
+"
+
+What is patient 12137011's blood pressure reading on 2020-07-27?",117/82,96/68
+"
+
+What is patient 11490051's respiratory rate on 2020-08-16?",19,20
+"
+
+What is patient 11490051's heart rate on 2020-08-16?",109,51
+"
+
+What is patient 10534626's heart rate on 2020-06-29?",83bpm,104
+"
+
+What is patient 14711950's respiratory rate on 2020-11-22?",18 respirations per minute,20
+"
+
+What is patient 10534626's body temperature on 2020-07-22?",97.7F,96.7F
+"
+
+What is patient 14644059's blood pressure reading on 2020-08-14?",134/82,107/56
+"
+
+What is patient 14644059's heart rate on 2020-11-26?",83bpm,112
+"
+
+What is patient 14644059's heart rate on 2020-08-14?",89 bpm,76
+"
+
+What is patient 10308247's oxygen saturation level on 2020-06-16?",97%,100%
+"
+
+What is patient 10534626's heart rate on 2020-07-22?",83bpm,96
+"
+
+What is patient 11490051's blood pressure reading on 2020-08-16?",134/62,149/68
+"
+
+What is patient 14928901's body temperature on 2020-01-02?",97.3F,98.5F
+"
+
+What is patient 10308247's body temperature on 2020-12-21?",97.2F,97.2F
+"
+
+What is patient 14928901's heart rate on 2020-01-02?",83CPM,82
+"
+
+What is patient 10275529's oxygen saturation level on 2020-01-01?",97%,100%
+"
+
+What is patient 10505380's respiratory rate on 2020-06-08?",97CPM,16
+"
+
+What is patient 10534626's blood pressure reading on 2020-07-22?",Blood pressure reading for patient 10534626 on 2020-07-22 is 122/78.,138/95
+"
+
+What is patient 13505226's respiratory rate on 2020-07-09?",97CPM,18
+"
+
+What is patient 10308247's heart rate on 2020-06-16?",92,53
+"
+
+What is patient 14644059's respiratory rate on 2020-11-26?",19 respirations per minute.,20
+"
+
+What is patient 12104123's blood pressure reading on 2020-09-25?",107/61,149/57
+"
+
+What is patient 11490051's oxygen saturation level on 2020-08-16?",97%,96%
+"
+
+What is patient 10534626's blood pressure reading on 2020-06-29?",134/88,132/87
+"
+
+What is patient 10275529's respiratory rate on 2020-09-04?",83,17
+"
+
+What is patient 14887253's heart rate on 2020-08-19?",65bpm,74
+"
+
+What is patient 11555110's heart rate on 2020-07-13?",91bpm,103
+"
+
+What is patient 10505380's body temperature on 2020-10-27?",97.8F,98.4F
+"
+
+What is patient 13505226's oxygen saturation level on 2020-10-22?",98%,100%
+"
+
+What is patient 14242530's respiratory rate on 2020-12-13?",19 respirations per minute,18
+"
+
+What is patient 13448151's heart rate on 2020-01-19?",89 bpm,80
+"
+
+What is patient 14242530's body temperature on 2020-12-13?",97.2F,97.6F
+"
+
+What is patient 10534626's oxygen saturation level on 2020-07-22?",97%,97%
+"
+
+What is patient 12104123's body temperature on 2020-09-25?",97.2F,98.3F
+"
+
+What is patient 19972786's oxygen saturation level on 2020-10-17?",97%,98%
+"
+
+What is patient 13620446's respiratory rate on 2020-03-20?",22,18
+"
+
+What is patient 12104123's respiratory rate on 2020-09-25?",19 respirations per minute,16
+"
+
+What is patient 10275529's blood pressure reading on 2020-01-01?",134/88,124/102
+"
+
+What is patient 10505380's heart rate on 2020-06-08?",92bpm,109
+"
+
+What is patient 14644059's body temperature on 2020-11-26?",98.2F,98.8F
+"
+
+What is patient 14242530's oxygen saturation level on 2020-02-04?",97%,100%
+"
+
+What is patient 10003019's body temperature on 2020-10-17?",97.8F,99.8F
+"
+
+What is patient 19972786's respiratory rate on 2020-10-17?",19CPM,16
+"
+
+What is patient 14711950's oxygen saturation level on 2020-11-22?",97%,95%
+"
+
+What is patient 13505226's oxygen saturation level on 2020-07-09?",97%,99%
+"
+
+What is patient 12137011's body temperature on 2020-07-27?",97.6F,98.0F
+"
+
+What is patient 10275529's body temperature on 2020-09-04?",97.8F,98.0F
+"
+
+What is patient 14242530's heart rate on 2020-12-13?",89 beats per minute,52
+"
+
+What is patient 13505226's heart rate on 2020-07-09?",83bpm,72
+"
+
+What is patient 10505380's oxygen saturation level on 2020-06-08?",97%,92%
+"
+
+What is patient 19972786's heart rate on 2020-10-17?",89 bpm,74
+"
+
+What is patient 19972786's blood pressure reading on 2020-10-17?",134/76,163/71
+"
+
+What is patient 13448151's body temperature on 2020-01-19?",97.7F,97.7F
+"
+
+What is patient 14644059's respiratory rate on 2020-08-14?",89 respirations per minute.,18
+"
+
+What is patient 11555110's respiratory rate on 2020-07-11?",19 respirations per minute,16
+"
+
+What is patient 14711950's heart rate on 2020-11-22?",83bpm,60
+"
+
+What is patient 10308247's respiratory rate on 2020-06-16?",15,24
+"
+
+What is patient 11555110's oxygen saturation level on 2020-07-11?",98%,100%
+"
+
+What is patient 10275529's blood pressure reading on 2020-09-04?",134/86,104/60
+"
+
+What is patient 14644059's body temperature on 2020-08-14?",97.8F,97.8F
+"
+
+What is patient 10505380's blood pressure reading on 2020-06-08?",120/78,131/75
+"
+
+What is patient 10308247's blood pressure reading on 2020-12-21?",120/70,140/70
+"
+
+What is patient 13505226's heart rate on 2020-10-22?",83bpm,104-118
+"
+
+What is patient 11555110's respiratory rate on 2020-07-13?",18 respirations per minute,20
+"
+
+What is patient 10003019's body temperature on 2020-12-09?",97.8F,98.4F
+"
+
+What is patient 18115155's blood pressure reading on 2020-05-19?",117/75,128/85
+"
+
+What is patient 14644059's oxygen saturation level on 2020-08-14?",97%,100%
+"
+
+What is patient 13614978's oxygen saturation level on 2020-09-24?",97%,100%
+"
+
+What is patient 14887253's blood pressure reading on 2020-08-19?",117/77,130/78
+"
+
+What is patient 10003019's blood pressure reading on 2020-10-17?",117/70,129/51
+"
+
+What is patient 14887253's respiratory rate on 2020-08-19?",83,16
+"
+
+What is patient 11555110's blood pressure reading on 2020-07-13?",120/70,118/70
+"
+
+What is patient 12104123's respiratory rate on 2020-02-11?",17 respirations per minute,18
+"
+
+What is patient 14887253's body temperature on 2020-08-07?",97.8F,97.2F
+"
+
+What is patient 13481293's respiratory rate on 2020-07-02?",It was 14 breaths per minute.,12
+"
+
+What is patient 10534626's body temperature on 2020-06-29?",97.4F,97.3F
+"
+
+What is patient 10275529's respiratory rate on 2020-01-01?",97,18
+"
+
+What is patient 10308247's respiratory rate on 2020-12-21?",19,18
+"
+
+What is patient 11555110's blood pressure reading on 2020-07-11?",120/80,115/70
+"
+
+What is patient 14928901's heart rate on 2020-10-10?",89 bpm,69
+"
+
+What is patient 13614978's heart rate on 2020-09-24?",83bpm,62
+"
+
+What is patient 13620446's heart rate on 2020-03-20?",109,133
+"
+
+What is patient 10003019's blood pressure reading on 2020-12-09?",134/88,118/66
+"
+
+What is patient 14887253's blood pressure reading on 2020-08-07?","Blood pressure readings are captured in the format [Systolic BP]/[Diastolic BP].
+
+What is the systolic blood pressure for patient 14887253 on 2020-08-07?",126/73
+"
+
+What is patient 14928901's blood pressure reading on 2020-10-10?",134/78,151/96
+"
+
+What is patient 14711950's respiratory rate on 2020-10-06?",19 respirations per minute.,18
+"
+
+What is patient 13505226's respiratory rate on 2020-10-22?",67CPM,18
+"
+
+What is patient 10003019's respiratory rate on 2020-10-17?",19,22
+"
+
+What is patient 10505380's body temperature on 2020-06-08?",97.5F,99.3F
+"
+
+What is patient 12104123's blood pressure reading on 2020-02-11?",107/47,129/52
+"
+
+What is patient 14242530's oxygen saturation level on 2020-12-13?",97%,100%
+"
+
+What is patient 13614978's blood pressure reading on 2020-09-24?",110/70,130/56
+"
+
+What is patient 11555110's body temperature on 2020-07-11?",98.7F,98.4F
+"
+
+What is patient 12104123's heart rate on 2020-02-11?",108,90
+"
+
+What is patient 10505380's heart rate on 2020-10-27?",89bpm,98
+"
+
+What is patient 10003019's respiratory rate on 2020-12-09?",19,18
+"
+
+What is patient 10308247's oxygen saturation level on 2020-12-21?",97%,95%
+"
+
+What is patient 11555110's heart rate on 2020-07-11?",83bpm,83
+"
+
+What is patient 10003019's heart rate on 2020-12-09?",68 beats per minute.,87
+"
+
+What is patient 12104123's body temperature on 2020-02-11?",Body temperature of the patient 12104123 on 2020-02-11 is 97.8F.,97.0F
+"
+
+What is patient 14644059's blood pressure reading on 2020-11-26?",134/78,98/58
+"
+
+What is patient 19972786's body temperature on 2020-10-17?",97.8F,98.3F
+"
+
+What is patient 14887253's oxygen saturation level on 2020-08-07?",97%,86%
+"
+
+What is patient 14242530's blood pressure reading on 2020-12-13?",123/82,136/91
+"
+
+What is patient 13505226's blood pressure reading on 2020-10-22?",116/76,152/99
+"
+
+What is patient 13505226's blood pressure reading on 2020-07-09?",120/70,109/71
+"
+
+What is patient 10505380's respiratory rate on 2020-10-27?",19,18
+"
+
+What is patient 10275529's oxygen saturation level on 2020-09-04?",97%,99%
+"
+
+What is patient 13614978's body temperature on 2020-02-01?",97.7F,96.0F
+"
+
+What is patient 14928901's body temperature on 2020-10-10?",97.2F,98.3F
+"
+
+What is patient 12104123's oxygen saturation level on 2020-02-11?",97%,96%
+"
+
+What is patient 14928901's respiratory rate on 2020-10-10?",77,18
+"
+
+What is patient 10003019's oxygen saturation level on 2020-12-09?",97%,98%
+"
+
+What is patient 11555110's body temperature on 2020-07-13?",98.0F,98.7F
+"
+
+What is patient 10275529's heart rate on 2020-09-04?",83.,45
+"
+
+What is patient 12137011's oxygen saturation level on 2020-07-27?",97%,99%
+"
+
+What is patient 13614978's heart rate on 2020-02-01?",83bpm,62
+"
+
+What is patient 13481293's oxygen saturation level on 2020-07-02?",97%,97%
+"
+
+What is patient 13620446's body temperature on 2020-03-20?",97.8F,100.9F
+"
+
+What is patient 18115155's respiratory rate on 2020-05-19?",19,18
+"
+
+What is patient 14887253's heart rate on 2020-08-07?",83bpm,106
+"
+
+What is patient 13448151's blood pressure reading on 2020-01-19?",120/80,100/62
+"
+
+What is patient 19972786's oxygen saturation level on 2020-08-02?",97%,99%
+"
+
+What is patient 10275529's heart rate on 2020-01-01?",83CPM,67
+"
+
+What is patient 13505226's body temperature on 2020-10-22?",97.8F,96.6F
+"
+
+What is patient 12104123's oxygen saturation level on 2020-09-25?",97%,95%
+"
+
+What is patient 12137011's heart rate on 2020-07-27?",83CPM,68
+"
+
+What is patient 14711950's blood pressure reading on 2020-10-06?",134/78,112/80
+"
+
+What is patient 11555110's oxygen saturation level on 2020-07-13?",98%,97%
+"
+
+What is patient 13614978's respiratory rate on 2020-09-24?",19 respirations per minute,18
+"
+
+What is patient 13505226's body temperature on 2020-07-09?",97.7F,97.6F
+"
+
+What is patient 14711950's body temperature on 2020-10-06?",97.9F,97.7F
+"
+
+What is patient 14928901's oxygen saturation level on 2020-10-10?",97%,93%
+"
+
+What is patient 10308247's blood pressure reading on 2020-06-16?",109/61,131/69
+"
+
+What is patient 10505380's blood pressure reading on 2020-10-27?",134/78,139/76
+"
+
+What is patient 10308247's heart rate on 2020-12-21?",95bpm,80
+"
+
+What is patient 10505380's oxygen saturation level on 2020-10-27?",97%,99%
+"
+
+What is patient 12104123's heart rate on 2020-09-25?",97bpm,68
+"
+
+What is patient 10003019's oxygen saturation level on 2020-10-17?",97%,99%
+"
+
+What is patient 18115155's heart rate on 2020-05-19?",108bpm,77
+"
+
+What is patient 14711950's heart rate on 2020-10-06?",84 beats per minute,60-70s
+"
+
+What is patient 15082258's blood pressure reading on 2020-04-25?",104/70,110/70
+"
+
+What is patient 10534626's respiratory rate on 2020-06-29?",22 respirations per minute,18
+"
+
+What is patient 13614978's blood pressure reading on 2020-02-01?",110/70,139/60
+"
+
+What is patient 10534626's respiratory rate on 2020-07-22?",23次/分,22
+"
+
+What is patient 11490051's body temperature on 2020-08-16?",98.8F,98.3F
+"
+
+What is patient 10003019's heart rate on 2020-10-17?",83.,119
+"
+
+What is patient 14887253's respiratory rate on 2020-08-07?",95,28
+"
+
+What is patient 18143216's oxygen saturation level on 2020-05-12?",97%,99%
+"
+
+What is patient 14887253's body temperature on 2020-08-19?",98.6F,98F
+"
+
+What is patient 14937610's blood pressure reading on 2020-01-10?",117/77,155/58
+"
+
+What is patient 18201582's body temperature on 2020-06-11?",97.3F,97.9F
+"
+
+What is patient 10246275's oxygen saturation level on 2020-05-28?",97%,96%
+"
+
+What is patient 15082258's heart rate on 2020-04-25?",68.,62
+"
+
+What is patient 18705722's oxygen saturation level on 2020-04-13?",97%,100%
+"
+
+What is patient 10878442's blood pressure reading on 2020-11-04?",134/76,140/60
+"
+
+What is patient 18705722's blood pressure reading on 2020-02-25?",104/56,129/66
+"
+
+What is patient 18552025's blood pressure reading on 2020-09-21?",134/78,138/63
+"
+
+What is patient 18700699's oxygen saturation level on 2020-04-04?",97%,100%
+"
+
+What is patient 10308247's body temperature on 2020-06-16?",97.4F,97.4F
+"
+
+What is patient 18705722's respiratory rate on 2020-04-13?",22,24
+"
+
+What is patient 10246275's respiratory rate on 2020-05-28?",22 respirations per minute,16
+"
+
+What is patient 18727964's heart rate on 2020-07-27?",89 bpm,45
+"
+
+What is patient 15082258's oxygen saturation level on 2020-10-13?",97%,100%
+"
+
+What is patient 14937610's respiratory rate on 2020-06-30?",It was 18.,16
+"
+
+What is patient 10878442's respiratory rate on 2020-11-04?",23 respirations per minute,16
+"
+
+What is patient 14887253's oxygen saturation level on 2020-08-19?",97%,99%
+"
+
+What is patient 18143216's blood pressure reading on 2020-12-29?",107/61,132/62
+"
+
+What is patient 18705722's respiratory rate on 2020-02-25?",19 respirations per minute,28
+"
+
+What is patient 10878442's heart rate on 2020-11-04?",92bpm,76
+"
+
+What is patient 10623984's blood pressure reading on 2020-06-18?",120/70,128/87
+"
+
+What is patient 18201582's blood pressure reading on 2020-10-22?",134/70,179/74
+"
+
+What is patient 18201582's oxygen saturation level on 2020-06-11?",97%,97%
+"
+
+What is patient 18143216's respiratory rate on 2020-05-12?",19,18
+"
+
+What is patient 10898945's body temperature on 2020-02-17?",97.8F,101F
+"
+
+What is patient 18705722's blood pressure reading on 2020-04-13?",104/58,120/67
+"
+
+What is patient 13620446's heart rate on 2020-12-15?",83bpm,81
+"
+
+What is patient 18201582's blood pressure reading on 2020-06-11?",134/72,140/52
+"
+
+What is patient 15559549's heart rate on 2020-01-12?",83CPM,75
+"
+
+What is patient 18143216's blood pressure reading on 2020-05-12?",110/64,142/76
+"
+
+What is patient 18727964's body temperature on 2020-07-27?",97.2F,96.6F
+"
+
+What is patient 18143216's oxygen saturation level on 2020-12-29?",97%,100%
+"
+
+What is patient 18705722's heart rate on 2020-02-25?",97CPM,116
+"
+
+What is patient 18143216's heart rate on 2020-05-12?",97bpm,88
+"
+
+What is patient 18705722's body temperature on 2020-04-13?",97.9F,97.4F
+"
+
+What is patient 15082258's blood pressure reading on 2020-10-13?",134/78,144/82
+"
+
+What is patient 18201582's respiratory rate on 2020-06-11?",It was 18 breaths per minute.,32
+"
+
+What is patient 15082258's body temperature on 2020-04-25?",Body temperature for patient 15082258 on 2020-04-25 is not available.,97.2F
+"
+
+What is patient 15082258's oxygen saturation level on 2020-04-25?",97%,98%
+"
+
+What is patient 10878442's oxygen saturation level on 2020-11-04?",97%,100%
+"
+
+What is patient 18143216's body temperature on 2020-12-29?",97.2F,98.1F
+"
+
+What is patient 14928901's respiratory rate on 2020-01-02?",It is 18.,20
+"
+
+What is patient 18705722's body temperature on 2020-02-25?",97.7F,99.0F
+"
+
+What is patient 15170418's blood pressure reading on 2020-12-13?",134/87,132/78
+"
+
+What is patient 13620446's respiratory rate on 2020-12-15?",22 respirations per minute,16
+"
+
+What is patient 14937610's heart rate on 2020-06-30?",97,88
+"
+
+What is patient 10623984's body temperature on 2020-06-18?",97.5F,99.3F
+"
+
+What is patient 18727964's blood pressure reading on 2020-07-27?",117/70,98/57
+"
+
+What is patient 10246275's blood pressure reading on 2020-09-15?",134/96,140/90
+"
+
+What is patient 15170418's body temperature on 2020-12-13?",97.5F,98.2F
+"
+
+What is patient 18727964's blood pressure reading on 2020-07-21?",109/71,124/56
+"
+
+What is patient 18700699's respiratory rate on 2020-04-04?",Patient 18700699's respiratory rate on 2020-04-04 is 14.,20
+"
+
+What is patient 14937610's body temperature on 2020-01-10?",97F,97.6F
+"
+
+What is patient 18115155's oxygen saturation level on 2020-05-19?",97%,99%
+"
+
+What is patient 18143216's body temperature on 2020-05-12?",97.2F,98.7F
+"
+
+What is patient 18201582's respiratory rate on 2020-10-22?",It was 18 breaths per minute.,18
+"
+
+What is patient 15082258's body temperature on 2020-10-13?",Body temperature of the patient 15082258 on 2020-10-13 is not available.,97.8F
+"
+
+What is patient 18727964's respiratory rate on 2020-07-21?",It was 14 breaths per minute.,21
+"
+
+What is patient 10534626's oxygen saturation level on 2020-06-29?",97%,97%
+"
+
+What is patient 12759187's respiratory rate on 2020-01-16?",19,16
+"
+
+What is patient 18201582's body temperature on 2020-10-22?",97.9F,97.7F
+"
+
+What is patient 15559549's body temperature on 2020-01-12?",97.7F,99.7F
+"
+
+What is patient 14937610's blood pressure reading on 2020-06-30?","Blood pressure readings for patient 14937610 on 2020-06-30 are:
+- Systolic: 133
+- Diastolic: 85",142/71
+"
+
+What is patient 14928901's oxygen saturation level on 2020-01-02?",97%,95%
+"
+
+What is patient 15082258's heart rate on 2020-10-13?",83CPM,65
+"
+
+What is patient 10246275's body temperature on 2020-09-15?",97.8F,98.2F
+"
+
+What is patient 18727964's respiratory rate on 2020-07-27?",It was 18 breaths per minute.,13
+"
+
+What is patient 18143216's heart rate on 2020-12-29?",97bpm,90
+"
+
+What is patient 18705722's oxygen saturation level on 2020-02-25?",97%,100%
+"
+
+What is patient 18201582's heart rate on 2020-10-22?",92,64
+"
+
+What is patient 18143216's respiratory rate on 2020-12-29?",15 respirations per minute.,18
+"
+
+What is patient 18201582's oxygen saturation level on 2020-10-22?",97%,98%
+"
+
+What is patient 14937610's oxygen saturation level on 2020-01-10?",97%,96%
+"
+
+What is patient 13620446's blood pressure reading on 2020-12-15?",117/72,117/70
+"
+
+What is patient 15082258's respiratory rate on 2020-04-25?",67CPM,16
+"
+
+What is patient 14937610's heart rate on 2020-01-10?",97bpm,95
+"
+
+What is patient 18727964's oxygen saturation level on 2020-07-27?",97%,97%
+"
+
+What is patient 18201582's heart rate on 2020-06-11?",92,75
+"
+
+What is patient 18700699's heart rate on 2020-04-04?",95bpm,99
+"
+
+What is patient 18552025's body temperature on 2020-09-21?",98.2F,98.0F
+"
+
+What is patient 12759187's oxygen saturation level on 2020-01-16?",97%,99%
+"
+
+What is patient 10246275's heart rate on 2020-05-28?",83CPM,96
+"
+
+What is patient 18727964's oxygen saturation level on 2020-07-21?",97%,99%
+"
+
+What is patient 18705722's heart rate on 2020-04-13?",97CPM,115
+"
+
+What is patient 14937610's oxygen saturation level on 2020-06-30?",97%,100%
+"
+
+What is patient 15082258's respiratory rate on 2020-10-13?",67 respirations per minute.,18
+"
+
+What is patient 18727964's body temperature on 2020-07-21?",97.8F,97.5F
+"
+
+What is patient 14937610's body temperature on 2020-06-30?",97.5F,101.3F
+"
+
+What is patient 10975446's body temperature on 2020-08-09?",97.7F,98.8F
+"
+
+What is patient 14937610's respiratory rate on 2020-01-10?",19,14
+"
+
+What is patient 16022077's heart rate on 2020-04-28?",83bpm,69
+"
+
+What is patient 15559549's blood pressure reading on 2020-01-12?",134/78,134/62
+"
+
+What is patient 10692563's respiratory rate on 2020-10-09?",22 respirations per minute,18
+"
+
+What is patient 10818124's heart rate on 2020-08-24?",89 bpm,78
+"
+
+What is patient 16164188's blood pressure reading on 2020-04-01?",117/83,115/77
+"
+
+What is patient 15776313's heart rate on 2020-08-31?",99CPM,72
+"
+
+What is patient 19624082's respiratory rate on 2020-03-17?",It is 18.,16
+"
+
+What is patient 16022077's blood pressure reading on 2020-04-28?",110/64,114/53
+"
+
+What is patient 10975446's oxygen saturation level on 2020-09-22?",97%,96%
+"
+
+What is patient 15134226's respiratory rate on 2020-01-21?",9,18
+"
+
+What is patient 10975446's heart rate on 2020-09-22?",89 bpm,98
+"
+
+What is patient 15134226's oxygen saturation level on 2020-01-21?",97%,99%
+"
+
+What is patient 19610016's respiratory rate on 2020-12-04?",16 respirations per minute,16
+"
+
+What is patient 19624082's body temperature on 2020-03-17?",97.7F,99.6F
+"
+
+What is patient 10692563's heart rate on 2020-10-09?",83bpm,89
+"
+
+What is patient 15776313's body temperature on 2020-08-24?",97.8F,98.0F
+"
+
+What is patient 10818124's blood pressure reading on 2020-08-24?",107/47,100/54
+"
+
+What is patient 19624082's respiratory rate on 2020-08-05?",19 respirations/minute,20
+"
+
+What is patient 10878442's body temperature on 2020-11-04?",97.6F,97.6F
+"
+
+What is patient 16164188's blood pressure reading on 2020-07-11?",134/87,141/89
+"
+
+What is patient 15776313's blood pressure reading on 2020-08-31?",117/79,107/67
+"
+
+What is patient 10818124's respiratory rate on 2020-08-24?",19,18
+"
+
+What is patient 15134226's oxygen saturation level on 2020-12-18?",97%,98%
+"
+
+What is patient 15776313's respiratory rate on 2020-08-31?",19 respirations per minute,12
+"
+
+What is patient 18727964's heart rate on 2020-07-21?",89 beats per minute,56
+"
+
+What is patient 19624082's body temperature on 2020-08-05?",97.5F,99.5F
+"
+
+What is patient 16022077's oxygen saturation level on 2020-04-28?",97%,100%
+"
+
+What is patient 10692563's heart rate on 2020-02-17?",83 bpm,70
+"
+
+What is patient 19451054's respiratory rate on 2020-09-01?",17,18
+"
+
+What is patient 16164188's body temperature on 2020-07-11?",97.8F,98.0F
+"
+
+What is patient 10692563's body temperature on 2020-02-17?",97.8F,97.8F
+"
+
+What is patient 15134226's heart rate on 2020-01-21?",83bpm,91
+"
+
+What is patient 19624082's heart rate on 2020-08-05?",99 beats per minute,68
+"
+
+What is patient 15776313's heart rate on 2020-08-24?",89 bpm,60
+"
+
+What is patient 15776313's respiratory rate on 2020-08-24?",19 respirations per minute,20
+"
+
+What is patient 15776313's blood pressure reading on 2020-08-24?",117/79,111/59
+"
+
+What is patient 10692563's respiratory rate on 2020-02-17?",15 respirations per minute,18
+"
+
+What is patient 10975446's respiratory rate on 2020-09-22?",22.,20
+"
+
+What is patient 19610016's body temperature on 2020-03-11?",97.8F,97.6F
+"
+
+What is patient 10975446's blood pressure reading on 2020-08-09?","Blood pressure readings for patient 10975446 on 2020-08-09:
+- Systolic: 153
+- Diastolic: 77",155/70
+"
+
+What is patient 10818124's heart rate on 2020-06-24?",89,76
+"
+
+What is patient 16022077's respiratory rate on 2020-04-28?",83 respirations per minute.,18
+"
+
+What is patient 19610016's heart rate on 2020-12-04?",83bpm,100
+"
+
+What is patient 10818124's oxygen saturation level on 2020-08-24?",97%,96%
+"
+
+What is patient 16164188's respiratory rate on 2020-07-11?",99CPM,18
+"
+
+What is patient 16164188's heart rate on 2020-07-11?",99CPM,118
+"
+
+What is patient 15134226's body temperature on 2020-12-18?",97.8F,97.1F
+"
+
+What is patient 19610016's respiratory rate on 2020-03-11?",15 respirations per minute,18
+"
+
+What is patient 10818124's oxygen saturation level on 2020-06-24?",97%,98%
+"
+
+What is patient 10975446's body temperature on 2020-09-22?",97.2F,97.7F
+"
+
+What is patient 15134226's blood pressure reading on 2020-12-18?","Blood pressure readings for patient 15134226 on 2020-12-18 are:
+- 151/93 mmHg",100/64
+"
+
+What is patient 19610016's oxygen saturation level on 2020-03-11?",97%,100%
+"
+
+What is patient 10818124's blood pressure reading on 2020-06-24?",92/51,151/77
+"
+
+What is patient 10692563's oxygen saturation level on 2020-10-09?",97%,96%
+"
+
+What is patient 19624082's heart rate on 2020-03-17?",97,73
+"
+
+What is patient 15776313's body temperature on 2020-08-31?",97.8F,97.0F
+"
+
+What is patient 10818124's respiratory rate on 2020-06-24?",19,18
+"
+
+What is patient 19610016's oxygen saturation level on 2020-12-04?",97%,98%
+"
+
+What is patient 19451054's oxygen saturation level on 2020-09-01?",97%,95%
+"
+
+What is patient 16022077's oxygen saturation level on 2020-05-13?",97%,96%
+"
+
+What is patient 15776313's oxygen saturation level on 2020-08-31?",97%,100%
+"
+
+What is patient 16022077's respiratory rate on 2020-05-13?",97CPM,16
+"
+
+What is patient 10975446's blood pressure reading on 2020-09-22?",134/76,125/53
+"
+
+What is patient 15134226's blood pressure reading on 2020-01-21?",109/56,102/49
+"
+
+What is patient 16022077's heart rate on 2020-05-13?",99bpm,70
+"
+
+What is patient 19610016's blood pressure reading on 2020-03-11?",123/76,142/98
+"
+
+What is patient 19610016's body temperature on 2020-12-04?",98.8F,98.9F
+"
+
+What is patient 10692563's body temperature on 2020-10-09?",97.2F,98.3F
+"
+
+What is patient 10670705's oxygen saturation level on 2020-06-19?",97%,100%
+"
+
+What is patient 19624082's blood pressure reading on 2020-08-05?",117/72,110/48
+"
+
+What is patient 15134226's respiratory rate on 2020-12-18?",Respiratory rate of patient 15134226 on 2020-12-18 is 15.,24
+"
+
+What is patient 19610016's blood pressure reading on 2020-12-04?","Blood pressure readings for patient 19610016 on 2020-12-04 are as follows:
+- Systolic: 115
+- Diastolic: 75",122/78
+"
+
+What is patient 10818124's body temperature on 2020-06-24?",97.4F,97.4F
+"
+
+What is patient 10692563's blood pressure reading on 2020-10-09?",117/76,117/72
+"
+
+What is patient 10692563's blood pressure reading on 2020-02-17?",120/78,116/76
+"
+
+What is patient 16022077's body temperature on 2020-04-28?",97.7F,97.8F
+"
+
+What is patient 14137240's body temperature on 2020-06-19?",98.7F,98.0F
+"
+
+What is patient 19624082's blood pressure reading on 2020-03-17?",134/88,125/65
+"
+
+What is patient 16164188's oxygen saturation level on 2020-07-11?",97%,100%
+"
+
+What is patient 15134226's heart rate on 2020-12-18?",97bpm,117
+"
+
+What is patient 10818124's body temperature on 2020-08-24?",97.8F,97.5F
+"
+
+What is patient 12137011's oxygen saturation level on 2020-09-23?",97%,96%
+"
+
+What is patient 16164188's body temperature on 2020-04-01?",97.8F,98.7F
+"
+
+What is patient 10692563's oxygen saturation level on 2020-02-17?",97%,100%
+"
+
+What is patient 15776313's oxygen saturation level on 2020-08-24?",97%,100%
+"
+
+What is patient 19451054's heart rate on 2020-10-04?",89CPM,51
+"
+
+What is patient 16022077's body temperature on 2020-05-13?",97.7F,97.7F
+"
+
+What is patient 12153629's oxygen saturation level on 2020-03-24?",97%,100%
+"
+
+What is patient 19610016's heart rate on 2020-03-11?",87bpm,69
+"
+
+What is patient 19624082's oxygen saturation level on 2020-03-17?",97%,98%
+"
+
+What is patient 13980494's body temperature on 2020-12-15?",97.4F,98.2F
+"
+
+What is patient 13045799's body temperature on 2020-12-16?",97.9F,98.2F
+"
+
+What is patient 16833001's heart rate on 2020-05-17?",83bpm,86
+"
+
+What is patient 18998398's blood pressure reading on 2020-05-27?",Patient 18998398's blood pressure reading on 2020-05-27 was 130/60.,159/72
+"
+
+What is patient 13980494's oxygen saturation level on 2020-12-15?",97%,98%
+"
+
+What is patient 10117273's heart rate on 2020-08-26?",83CPM,86
+"
+
+What is patient 10117273's respiratory rate on 2020-08-26?",67.,20
+"
+
+What is patient 16786096's respiratory rate on 2020-07-20?",It was 18 respirations per minute.,18
+"
+
+What is patient 18998398's oxygen saturation level on 2020-06-30?",97%,93%
+"
+
+What is patient 19336651's blood pressure reading on 2020-05-29?",99/69,113/60
+"
+
+What is patient 13050816's heart rate on 2020-01-17?",89bpm,59
+"
+
+What is patient 13045799's respiratory rate on 2020-12-16?",67,20
+"
+
+What is patient 12144619's heart rate on 2020-11-24?",99.,99
+"
+
+What is patient 19438264's blood pressure reading on 2020-12-30?",119/79,146/83
+"
+
+What is patient 13980795's oxygen saturation level on 2020-06-26?",97%,97%
+"
+
+What is patient 14137240's heart rate on 2020-08-06?",83CPM,88
+"
+
+What is patient 10898945's oxygen saturation level on 2020-02-17?",97%,99%
+"
+
+What is patient 12153629's oxygen saturation level on 2020-06-19?",97%,97%
+"
+
+What is patient 19336651's body temperature on 2020-01-17?",97.5F,97.4F
+"
+
+What is patient 19451054's oxygen saturation level on 2020-10-04?",97%,99%
+"
+
+What is patient 19075045's body temperature on 2020-02-26?",97.7F,98.9F
+"
+
+What is patient 16833001's respiratory rate on 2020-10-13?",83 respirations per minute,18
+"
+
+What is patient 13045799's heart rate on 2020-06-08?",97CPM,116
+"
+
+What is patient 10275529's body temperature on 2020-01-01?",97.5F,98.0F
+"
+
+What is patient 13421580's respiratory rate on 2020-05-08?",97次/分,20
+"
+
+What is patient 16833001's blood pressure reading on 2020-05-17?","Blood pressure readings for patient 16833001 on 2020-05-17 are:
+- Systolic: 124
+- Diastolic: 57",92/67
+"
+
+What is patient 12144619's oxygen saturation level on 2020-07-22?",97%,100%
+"
+
+What is patient 16852633's respiratory rate on 2020-08-06?",67CPM,16
+"
+
+What is patient 16833001's heart rate on 2020-10-13?",68 bpm,84
+"
+
+What is patient 10246275's heart rate on 2020-09-15?",83bpm,84
+"
+
+What is patient 13421580's heart rate on 2020-08-13?",94bpm,74
+"
+
+What is patient 13045799's oxygen saturation level on 2020-06-08?",97%,97%
+"
+
+What is patient 13980795's blood pressure reading on 2020-09-16?",118/78,99/73
+"
+
+What is patient 12153629's blood pressure reading on 2020-03-24?",120/80,111/43
+"
+
+What is patient 12153629's body temperature on 2020-03-24?",97.3F,97.3F
+"
+
+What is patient 16022077's blood pressure reading on 2020-05-13?",110/54,92/50
+"
+
+What is patient 14137240's body temperature on 2020-08-06?",97.8F,100.0F
+"
+
+What is patient 19336651's respiratory rate on 2020-01-17?",18 respirations/minute,14
+"
+
+What is patient 16852633's blood pressure reading on 2020-08-06?",116/73,119/79
+"
+
+What is patient 16786096's heart rate on 2020-12-09?",83bpm,90
+"
+
+What is patient 13980494's respiratory rate on 2020-09-01?",19 respirations per minute,20
+"
+
+What is patient 10246275's oxygen saturation level on 2020-09-15?",97%,94%
+"
+
+What is patient 18998398's body temperature on 2020-05-27?",97.2F,97.9F
+"
+
+What is patient 13448151's oxygen saturation level on 2020-02-22?",97%,92%
+"
+
+What is patient 19075045's oxygen saturation level on 2020-02-26?",97%,94%
+"
+
+What is patient 12144619's oxygen saturation level on 2020-11-24?",97%,96%
+"
+
+What is patient 14137240's blood pressure reading on 2020-06-19?",134/86,135/91
+"
+
+What is patient 13050816's body temperature on 2020-01-17?",97.2F,98.4F
+"
+
+What is patient 12271405's body temperature on 2020-11-18?",97.8F,97.8F
+"
+
+What is patient 16786096's oxygen saturation level on 2020-12-09?",97%,97%
+"
+
+What is patient 13421580's respiratory rate on 2020-08-13?",97 respirations per minute.,17
+"
+
+What is patient 18998398's respiratory rate on 2020-05-27?",It was 18 breaths per minute.,22
+"
+
+What is patient 14242530's heart rate on 2020-02-04?",83bpm,67
+"
+
+What is patient 16833001's blood pressure reading on 2020-10-13?",116/78,120/70
+"
+
+What is patient 13980494's oxygen saturation level on 2020-09-01?",97%,100%
+"
+
+What is patient 19336651's oxygen saturation level on 2020-05-29?",97%,98%
+"
+
+What is patient 19451054's respiratory rate on 2020-10-04?",19,20
+"
+
+What is patient 13620446's body temperature on 2020-12-15?",97.8F,99.0F
+"
+
+What is patient 17169964's heart rate on 2020-05-07?",79CPM,80
+"
+
+What is patient 13045799's blood pressure reading on 2020-06-08?",117/83,104/62
+"
+
+What is patient 13050816's oxygen saturation level on 2020-11-21?",97%,98%
+"
+
+What is patient 10246275's body temperature on 2020-05-28?",97.8F,99.5F
+"
+
+What is patient 19438264's oxygen saturation level on 2020-06-01?",97%,97%
+"
+
+What is patient 12144619's heart rate on 2020-07-22?",89bpm,89
+"
+
+What is patient 19336651's respiratory rate on 2020-05-29?",95,19
+"
+
+What is patient 16786096's respiratory rate on 2020-12-09?",19 respirations per minute.,16
+"
+
+What is patient 18998398's heart rate on 2020-05-27?",95CPM,88
+"
+
+What is patient 13980795's body temperature on 2020-09-16?",97.8F,99.1F
+"
+
+What is patient 10117273's oxygen saturation level on 2020-08-26?",97%,97%
+"
+
+What is patient 14137240's oxygen saturation level on 2020-06-19?",97%,97%
+"
+
+What is patient 13050816's respiratory rate on 2020-11-21?",15 respirations per minute.,16
+"
+
+What is patient 14242530's body temperature on 2020-02-04?",97.7F,97.7F
+"
+
+What is patient 16786096's body temperature on 2020-12-09?",97.7F,98.1F
+"
+
+What is patient 16852633's heart rate on 2020-07-23?",83CPM,90
+"
+
+What is patient 13980494's blood pressure reading on 2020-12-15?",134/82,102/62
+"
+
+What is patient 12144619's respiratory rate on 2020-11-24?",20 respirations/minute,20
+"
+
+What is patient 19075045's blood pressure reading on 2020-02-26?",134/76,104/64
+"
+
+What is patient 14137240's oxygen saturation level on 2020-08-06?",97%,98%
+"
+
+What is patient 12137011's body temperature on 2020-09-23?",98.2F,97.8F
+"
+
+What is patient 16786096's oxygen saturation level on 2020-07-20?",97%,97%
+"
+
+What is patient 12137011's respiratory rate on 2020-09-23?",18,16
+"
+
+What is patient 19451054's blood pressure reading on 2020-09-01?",134/62,107/61
+"
+
+What is patient 13050816's respiratory rate on 2020-01-17?",17,18
+"
+
+What is patient 17228108's body temperature on 2020-05-06?",97.5F,103.9F
+"
+
+What is patient 19336651's heart rate on 2020-05-29?",97CPM,70
+"
+
+What is patient 13050816's heart rate on 2020-11-21?",83.,96
+"
+
+What is patient 14242530's blood pressure reading on 2020-02-04?",110/76,142/93
+"
+
+What is patient 19336651's blood pressure reading on 2020-01-17?",97/47,88/53
+"
+
+What is patient 12144619's body temperature on 2020-07-22?",97.8F,98.2F
+"
+
+What is patient 12153629's respiratory rate on 2020-03-24?",19 respirations/minute,18
+"
+
+What is patient 18998398's oxygen saturation level on 2020-05-27?",97%,95%
+"
+
+What is patient 19438264's heart rate on 2020-06-01?",95bpm,92
+"
+
+What is patient 19075045's oxygen saturation level on 2020-10-30?",97%,100%
+"
+
+What is patient 19438264's respiratory rate on 2020-06-01?",22 respirations/min,22
+"
+
+What is patient 10898945's respiratory rate on 2020-02-12?",19,16
+"
+
+What is patient 19075045's body temperature on 2020-10-30?",97.5F,98.6F
+"
+
+What is patient 16852633's heart rate on 2020-08-06?",68bpm,80
+"
+
+What is patient 12137011's heart rate on 2020-09-23?",83CPM,59
+"
+
+What is patient 13980795's heart rate on 2020-06-26?",89 beats per minute,79
+"
+
+What is patient 13448151's blood pressure reading on 2020-02-22?",120/78,99/67
+"
+
+What is patient 18998398's body temperature on 2020-06-30?",97.8F,97.6F
+"
+
+What is patient 12144619's blood pressure reading on 2020-07-22?",134/86,108/72
+"
+
+What is patient 10117273's body temperature on 2020-08-26?",97.8F,98.4F
+"
+
+What is patient 19438264's blood pressure reading on 2020-06-01?",119/79,141/82
+"
+
+What is patient 17169964's heart rate on 2020-08-19?",83CPM,91
+"
+
+What is patient 13421580's body temperature on 2020-05-08?",Body temperature of the patient 13421580 on 2020-05-08 is not available.,98.4F
+"
+
+What is patient 19438264's heart rate on 2020-12-30?",97bpm,80
+"
+
+What is patient 13421580's heart rate on 2020-05-08?",107,57
+"
+
+What is patient 13980795's respiratory rate on 2020-06-26?",97CPAP,18
+"
+
+What is patient 13421580's blood pressure reading on 2020-08-13?",134/78,109/68
+"
+
+What is patient 13421580's blood pressure reading on 2020-05-08?",134/78,124/65
+"
+
+What is patient 12144619's blood pressure reading on 2020-11-24?",134/86,98/64
+"
+
+What is patient 14137240's blood pressure reading on 2020-08-06?",120/80,129/89
+"
+
+What is patient 19075045's respiratory rate on 2020-10-30?",19,18
+"
+
+What is patient 12153629's body temperature on 2020-06-19?",97.5F,98.3F
+"
+
+What is patient 13980795's oxygen saturation level on 2020-09-16?",97%,98%
+"
+
+What is patient 19075045's heart rate on 2020-10-30?",89bpm,81
+"
+
+What is patient 13448151's heart rate on 2020-02-22?",75CPM,80
+"
+
+What is patient 19336651's body temperature on 2020-05-29?",97F,97.6F
+"
+
+What is patient 19451054's body temperature on 2020-10-04?",99.8F,97F
+"
+
+What is patient 13980795's blood pressure reading on 2020-06-26?",110/70,117/76
+"
+
+What is patient 13421580's body temperature on 2020-08-13?",Body temperature of the patient 13421580 on 2020-08-13 is not available.,98.8F
+"
+
+What is patient 16852633's body temperature on 2020-08-06?",Body temperature of the patient 16852633 on 2020-08-06 is 99.3F.,97.2F
+"
+
+What is patient 17169964's oxygen saturation level on 2020-08-19?",97%,98%
+"
+
+What is patient 13050816's body temperature on 2020-11-21?",97.8F,98.5F
+"
+
+What is patient 16852633's oxygen saturation level on 2020-08-06?",97%,99%
+"
+
+What is patient 16833001's body temperature on 2020-10-13?",97.9F,98.1F
+"
+
+What is patient 12144619's respiratory rate on 2020-07-22?",19,18
+"
+
+What is patient 16833001's respiratory rate on 2020-05-17?",67 respirations per minute.,22
+"
+
+What is patient 16786096's blood pressure reading on 2020-12-09?",134/78,103/60
+"
+
+What is patient 18998398's heart rate on 2020-06-30?",83CPM,127
+"
+
+What is patient 17169964's respiratory rate on 2020-08-19?",77,16
+"
+
+What is patient 13050816's blood pressure reading on 2020-11-21?",134/78,158/105
+"
+
+What is patient 16786096's heart rate on 2020-07-20?",89 bpm,94
+"
+
+What is patient 13421580's oxygen saturation level on 2020-08-13?",97%,100%
+"
+
+What is patient 12153629's blood pressure reading on 2020-06-19?",134/88,131/65
+"
+
+What is patient 19451054's heart rate on 2020-09-01?",103CPM,67
+"
+
+What is patient 13980795's body temperature on 2020-06-26?",97.5F,96.3F
+"
+
+What is patient 19451054's blood pressure reading on 2020-10-04?",134/70,148/76
+"
+
+What is patient 19438264's oxygen saturation level on 2020-12-30?",97%,100%
+"
+
+What is patient 16852633's blood pressure reading on 2020-07-23?",120/78,122/79
+"
+
+What is patient 10898945's respiratory rate on 2020-02-17?",19 respirations per minute,18
+"
+
+What is patient 13050816's oxygen saturation level on 2020-01-17?",97%,100%
+"
+
+What is patient 13448151's respiratory rate on 2020-02-22?",19 respirations per minute,18
+"
+
+What is patient 13045799's blood pressure reading on 2020-12-16?",117/75,140/94
+"
+
+What is patient 17169964's oxygen saturation level on 2020-05-07?",97%,100%
+"
+
+What is patient 18998398's respiratory rate on 2020-06-30?",83,22
+"
+
+What is patient 12153629's heart rate on 2020-06-19?",83bpm,60
+"
+
+What is patient 14137240's respiratory rate on 2020-08-06?",67CPM,20
+"
+
+What is patient 13050816's blood pressure reading on 2020-01-17?",134/86,153/96
+"
+
+What is patient 16833001's oxygen saturation level on 2020-10-13?",97%,99%
+"
+
+What is patient 19438264's respiratory rate on 2020-12-30?",22 respirations per minute,18
+"
+
+What is patient 12153629's respiratory rate on 2020-06-19?",It is 18.,18
+"
+
+What is patient 18998398's blood pressure reading on 2020-06-30?","Blood pressure readings for patient 18998398 on 2020-06-30 are:
+- 151/82
+- 151/82
+- 151/82
+- 143/77
+- 143/77",212/89
+"
+
+What is patient 13045799's oxygen saturation level on 2020-12-16?",97%,98%
+"
+
+What is patient 16833001's oxygen saturation level on 2020-05-17?",97%,100%
+"
+
+What is patient 12144619's body temperature on 2020-11-24?",97.2F,98.8F
+"
+
+What is patient 16852633's body temperature on 2020-07-23?",97.2F,98.2F
+"
+
+What is patient 14137240's respiratory rate on 2020-06-19?",67CPM,18
+"
+
+What is patient 17169964's body temperature on 2020-08-19?",97.8F,98.8F
+"
+
+What is patient 19336651's heart rate on 2020-01-17?",97bpm,76
+"
+
+What is patient 19336651's oxygen saturation level on 2020-01-17?",97%,98%
+"
+
+What is patient 13980795's respiratory rate on 2020-09-16?",19 respirations per minute,18
+"
+
+What is patient 13980494's respiratory rate on 2020-12-15?",It was 18 respirations per minute.,18
+"
+
+What is patient 13045799's respiratory rate on 2020-06-08?",99,16
+"
+
+What is patient 10246275's blood pressure reading on 2020-05-28?",Blood pressure readings for patient 10246275 on 2020-05-28 are not available.,151/99
+"
+
+What is patient 13421580's oxygen saturation level on 2020-05-08?",97%,100%
+"
+
+What is patient 17169964's blood pressure reading on 2020-08-19?",134/87,116/73
+"
+
+What is patient 13045799's body temperature on 2020-06-08?",97.6F,105F
+"
+
+What is patient 17169964's respiratory rate on 2020-05-07?",77,16
+"
+
+What is patient 16833001's body temperature on 2020-05-17?",97.3F,96.8F
+"
+
+What is patient 13045799's heart rate on 2020-12-16?",97 beats per minute.,89
+"
+
+What is patient 19438264's body temperature on 2020-12-30?",97.2F,99.4F
+"
+
+What is patient 12153629's heart rate on 2020-03-24?",83CPM,59
+"
+
+What is patient 19075045's blood pressure reading on 2020-10-30?",134/76,110/56
+"
+
+What is patient 10117273's blood pressure reading on 2020-08-26?",110/70,96/51
+"
+
+What is patient 12137011's blood pressure reading on 2020-09-23?",107/75,102/68
+"
+
+What is patient 13980795's heart rate on 2020-09-16?",89 beats per minute,83
+"
+
+What is patient 14137240's heart rate on 2020-06-19?",72bpm,99
+"
+
+What is patient 15559549's oxygen saturation level on 2020-12-30?",97%,99%
+"
+
+What is patient 13980494's heart rate on 2020-09-01?",103bpm,68
+"
+
+What is patient 11084285's oxygen saturation level on 2020-06-08?",97%,98%
+"
+
+What is patient 19075045's heart rate on 2020-02-26?",89bpm,74
+"
+
+What is patient 19451054's body temperature on 2020-09-01?",97F,98F
+"
+
+What is patient 12759187's body temperature on 2020-09-23?",98.2F,97.5F
+"
+
+What is patient 19075045's respiratory rate on 2020-02-26?",97CPM,18
+"
+
+What is patient 15170418's heart rate on 2020-10-18?",77 beats per minute.,126
+"
+
+What is patient 11084285's respiratory rate on 2020-06-08?",99,16
+"
+
+What is patient 11047741's oxygen saturation level on 2020-05-30?",97%,98%
+"
+
+What is patient 18669873's respiratory rate on 2020-12-25?",It is 18 respirations per minute.,16
+"
+
+What is patient 17169964's blood pressure reading on 2020-05-07?",134/82,127/62
+"
+
+What is patient 15672470's heart rate on 2020-10-09?",89 beats per minute,60
+"
+
+What is patient 18679317's respiratory rate on 2020-04-08?",Patient 18679317's respiratory rate on 2020-04-08 was 18.,20
+"
+
+What is patient 14242530's respiratory rate on 2020-02-04?",18 respirations per minute,18
+"
+
+What is patient 13448151's body temperature on 2020-02-22?",97.7F,98.0F
+"
+
+What is patient 11144686's heart rate on 2020-11-25?",83.,69
+"
+
+What is patient 12622624's oxygen saturation level on 2020-06-06?",97%,97%
+"
+
+What is patient 15346117's blood pressure reading on 2020-01-24?",120/78,115/71
+"
+
+What is patient 11047741's body temperature on 2020-05-30?",97.5F,97.4F
+"
+
+What is patient 11144686's respiratory rate on 2020-04-21?",19 respirations per minute,20
+"
+
+What is patient 10898945's blood pressure reading on 2020-02-12?",123/61,120/54
+"
+
+What is patient 15559549's blood pressure reading on 2020-12-30?",134/78,146/78
+"
+
+What is patient 18679317's oxygen saturation level on 2020-04-08?",97%,100%
+"
+
+What is patient 15346117's respiratory rate on 2020-04-08?",83,18
+"
+
+What is patient 12465457's blood pressure reading on 2020-01-14?",134/82,135/64
+"
+
+What is patient 15498638's body temperature on 2020-05-31?",97.2F,97.6F
+"
+
+What is patient 13474913's body temperature on 2020-09-01?",97.2F,98.8F
+"
+
+What is patient 15170418's oxygen saturation level on 2020-10-18?",98%,98%
+"
+
+What is patient 10898945's body temperature on 2020-02-12?",97.2F,98.7F
+"
+
+What is patient 15331128's respiratory rate on 2020-02-18?",16 respirations per minute,18
+"
+
+What is patient 15672470's oxygen saturation level on 2020-07-19?",97%,100%
+"
+
+What is patient 11084285's body temperature on 2020-10-01?",97.8F,98.4F
+"
+
+What is patient 15170418's blood pressure reading on 2020-10-18?","Blood pressure readings for patient 15170418 on 2020-10-18 are:
+- Systolic: 115
+- Diastolic: 71",136/79
+"
+
+What is patient 12622624's blood pressure reading on 2020-06-06?",124/78,151/87
+"
+
+What is patient 10117273's respiratory rate on 2020-08-29?",83CPM,16
+"
+
+What is patient 15672470's respiratory rate on 2020-10-09?",19 respirations/min,18
+"
+
+What is patient 10878442's oxygen saturation level on 2020-11-16?",97%,95%
+"
+
+What is patient 15498638's respiratory rate on 2020-05-31?",97CPM,18
+"
+
+What is patient 12465457's respiratory rate on 2020-01-14?",15 respirations/min,18
+"
+
+What is patient 15559549's respiratory rate on 2020-12-30?",19 respirations per minute.,18
+"
+
+What is patient 18679317's body temperature on 2020-03-19?",97.8F,98F
+"
+
+What is patient 15573773's respiratory rate on 2020-06-11?",29 respirations per minute,13
+"
+
+What is patient 11084285's heart rate on 2020-10-01?",83CPM,65
+"
+
+What is patient 13448151's respiratory rate on 2020-01-19?",18 respirations/minute,16
+"
+
+What is patient 11084285's respiratory rate on 2020-10-01?",19 respirations per minute,18
+"
+
+What is patient 11144686's oxygen saturation level on 2020-04-21?",97%,97%
+"
+
+What is patient 15331128's blood pressure reading on 2020-02-18?",109/64,124/96
+"
+
+What is patient 19438264's body temperature on 2020-06-01?",97.4F,99F
+"
+
+What is patient 15346117's heart rate on 2020-04-08?",89 bpm,95
+"
+
+What is patient 15498638's oxygen saturation level on 2020-05-31?",97%,95%
+"
+
+What is patient 10117273's heart rate on 2020-08-29?",95CPM,98
+"
+
+What is patient 11144686's respiratory rate on 2020-11-25?",19 respirations per minute,22
+"
+
+What is patient 15573773's respiratory rate on 2020-05-13?",22 respirations per minute.,16
+"
+
+What is patient 18669873's heart rate on 2020-12-25?",95bpm,78
+"
+
+What is patient 12759187's respiratory rate on 2020-09-23?",99,18
+"
+
+What is patient 11047741's heart rate on 2020-05-30?",95,72
+"
+
+What is patient 18679317's blood pressure reading on 2020-04-08?",106/55,142/56
+"
+
+What is patient 15672470's heart rate on 2020-07-19?",84CPM,66
+"
+
+What is patient 12759187's heart rate on 2020-09-23?",99bpm,74
+"
+
+What is patient 11047741's blood pressure reading on 2020-05-30?",Blood pressure reading for patient 11047741 on 2020-05-30 is 132/75.,145/99
+"
+
+What is patient 15498638's blood pressure reading on 2020-05-31?",Blood pressure reading for patient 15498638 on 2020-05-31 is 153/51.,198/73
+"
+
+What is patient 12622624's body temperature on 2020-11-14?",97.8F,98.1F
+"
+
+What is patient 11144686's body temperature on 2020-11-25?",97.8F,99.3F
+"
+
+What is patient 10117273's blood pressure reading on 2020-08-29?",109/67,117/82
+"
+
+What is patient 15170418's heart rate on 2020-12-13?",83bpm,88
+"
+
+What is patient 11084285's blood pressure reading on 2020-10-01?",134/78,108/58
+"
+
+What is patient 12622624's respiratory rate on 2020-11-14?",18 respirations per minute,18
+"
+
+What is patient 12622624's heart rate on 2020-06-06?",89 beats per minute,90
+"
+
+What is patient 13448151's oxygen saturation level on 2020-01-19?",97%,100%
+"
+
+What is patient 18679317's body temperature on 2020-04-08?",97.7F,98F
+"
+
+What is patient 15331128's respiratory rate on 2020-09-20?",19 respirations per minute,18
+"
+
+What is patient 15170418's respiratory rate on 2020-10-18?",77,16
+"
+
+What is patient 14711950's blood pressure reading on 2020-11-22?",134/78,108/67
+"
+
+What is patient 15559549's body temperature on 2020-12-30?",97.7F,99.1F
+"
+
+What is patient 15672470's respiratory rate on 2020-07-19?",It was 18 breaths per minute.,18
+"
+
+What is patient 12622624's oxygen saturation level on 2020-11-14?",97%,100%
+"
+
+What is patient 15170418's body temperature on 2020-10-18?",97.2F,95.6F
+"
+
+What is patient 15573773's oxygen saturation level on 2020-06-11?",97%,100%
+"
+
+What is patient 15672470's body temperature on 2020-10-09?",98.6F,98.6F
+"
+
+What is patient 15170418's oxygen saturation level on 2020-12-13?",97%,99%
+"
+
+What is patient 11047741's heart rate on 2020-07-28?",89bpm,60
+"
+
+What is patient 15573773's body temperature on 2020-05-13?",97.5F,98.2F
+"
+
+What is patient 15170418's respiratory rate on 2020-12-13?",19 respirations per minute,16
+"
+
+What is patient 12622624's respiratory rate on 2020-06-06?",97 respirations per minute.,18
+"
+
+What is patient 14711950's oxygen saturation level on 2020-10-06?",97%,97%
+"
+
+What is patient 11144686's blood pressure reading on 2020-04-21?",134/86,123/76
+"
+
+What is patient 11144686's blood pressure reading on 2020-11-25?",134/86,124/66
+"
+
+What is patient 10117273's oxygen saturation level on 2020-08-29?",97%,100%
+"
+
+What is patient 15331128's heart rate on 2020-09-20?",89bpm,82
+"
+
+What is patient 15331128's oxygen saturation level on 2020-09-20?",97%,99%
+"
+
+What is patient 15672470's blood pressure reading on 2020-10-09?",134/78,126/66
+"
+
+What is patient 11047741's blood pressure reading on 2020-07-28?",Blood pressure reading for patient 11047741 on 2020-07-28 is 122/78.,152/95
+"
+
+What is patient 15346117's oxygen saturation level on 2020-04-08?",97%,99%
+"
+
+What is patient 15573773's heart rate on 2020-05-13?",97bpm,83
+"
+
+What is patient 15331128's body temperature on 2020-02-18?",97.2F,97F
+"
+
+What is patient 12759187's blood pressure reading on 2020-09-23?",117/73,174/100
+"
+
+What is patient 11047741's respiratory rate on 2020-05-30?",22次/分,19
+"
+
+What is patient 15559549's heart rate on 2020-12-30?",83CPM,66
+"
+
+What is patient 12465457's oxygen saturation level on 2020-01-14?",97%,98%
+"
+
+What is patient 12622624's body temperature on 2020-06-06?",97.8F,97.8F
+"
+
+What is patient 11084285's heart rate on 2020-06-08?",83CPM,78
+"
+
+What is patient 15346117's heart rate on 2020-01-24?",83CPM,90
+"
+
+What is patient 15672470's oxygen saturation level on 2020-10-09?",97%,98%
+"
+
+What is patient 18669873's blood pressure reading on 2020-12-25?",117/82,110/75
+"
+
+What is patient 12622624's blood pressure reading on 2020-11-14?",134/82,104/66
+"
+
+What is patient 15573773's blood pressure reading on 2020-05-13?",Blood pressure reading for patient 15573773 on 2020-05-13 is 124/76.,103/74
+"
+
+What is patient 11084285's body temperature on 2020-06-08?",97.3F,97.4F
+"
+
+What is patient 15559549's oxygen saturation level on 2020-01-12?",97%,98%
+"
+
+What is patient 11084285's blood pressure reading on 2020-06-08?",134/102,128/59
+"
+
+What is patient 11047741's body temperature on 2020-07-28?",Body temperature for patient 11047741 on 2020-07-28 is not available.,95.9F
+"
+
+What is patient 15573773's heart rate on 2020-06-11?",97bpm,89
+"
+
+What is patient 15346117's body temperature on 2020-04-08?",97.7F,97.2F
+"
+
+What is patient 15573773's oxygen saturation level on 2020-05-13?",97%,93%
+"
+
+What is patient 15331128's oxygen saturation level on 2020-02-18?",97%,94%
+"
+
+What is patient 15559549's respiratory rate on 2020-01-12?",19 respirations per minute.,16
+"
+
+What is patient 11144686's heart rate on 2020-04-21?",83CPM,92
+"
+
+What is patient 11144686's oxygen saturation level on 2020-11-25?",97%,97%
+"
+
+What is patient 11084285's oxygen saturation level on 2020-10-01?",97%,98%
+"
+
+What is patient 12465457's heart rate on 2020-01-14?",92 beats per minute,79
+"
+
+What is patient 15346117's oxygen saturation level on 2020-01-24?",97%,100%
+"
+
+What is patient 12622624's heart rate on 2020-11-14?",99 bpm,74
+"
+
+What is patient 15346117's body temperature on 2020-01-24?",97.0F,97.8F
+"
+
+What is patient 15346117's respiratory rate on 2020-01-24?",18 respirations per minute,18
+"
+
+What is patient 15331128's body temperature on 2020-09-20?",97.8F,98.2F
+"
+
+What is patient 15331128's heart rate on 2020-02-18?",83 bpm,109
+"
+
+What is patient 14711950's body temperature on 2020-11-22?",97.6F,98.1F
+"
+
+What is patient 15573773's blood pressure reading on 2020-06-11?",117/82,141/106
+"
+
+What is patient 11047741's respiratory rate on 2020-07-28?",17次/分,20
+"
+
+What is patient 15573773's body temperature on 2020-06-11?",97.3F,96.8F
+"
+
+What is patient 15331128's blood pressure reading on 2020-09-20?",109/53,92/55
+"
+
+What is patient 11144686's body temperature on 2020-04-21?",97.5F,97.1F
+"
+
+What is patient 12759187's oxygen saturation level on 2020-09-23?",97%,96%
+"
+
+What is patient 15498638's heart rate on 2020-05-31?",83CPM,66
+"
+
+What is patient 10898945's blood pressure reading on 2020-02-17?",134/78,120/69
+"
+
+What is patient 15672470's body temperature on 2020-07-19?",98.6F,101.7F
+"
+
+What is patient 17798591's respiratory rate on 2020-03-30?",19 respirations/min,18
+"
+
+What is patient 15672470's blood pressure reading on 2020-07-19?",134/82,109/56
+"
+
+What is patient 11047741's oxygen saturation level on 2020-07-28?",97%,100%
+"
+
+What is patient 18115155's body temperature on 2020-08-10?",97.8F,97.8F
+"
+
+What is patient 12395651's oxygen saturation level on 2020-11-26?",97%,98%
+"
+
+What is patient 18669873's oxygen saturation level on 2020-12-25?",97%,99%
+"
+
+What is patient 17798591's blood pressure reading on 2020-03-30?",120/80,113/47
+"
+
+What is patient 15346117's blood pressure reading on 2020-04-08?",117/79,120/70
+"
+
+What is patient 13896515's blood pressure reading on 2020-01-02?",124/64,164/66
+"
+
+What is patient 13481293's heart rate on 2020-07-02?",89bpm,62
+"
+
+What is patient 12759187's body temperature on 2020-01-16?",97.3F,97.9F
+"
+
+What is patient 16261397's respiratory rate on 2020-12-01?",22 respirations per minute,17
+"
+
+What is patient 10117273's body temperature on 2020-08-29?",97.8F,98.2F
+"
+
+What is patient 17798591's heart rate on 2020-03-30?",83bpm,59
+"
+
+What is patient 18115155's heart rate on 2020-08-10?",89bpm,82
+"
+
+What is patient 12759187's blood pressure reading on 2020-01-16?",120/70,130/50
+"
+
+What is patient 16385283's heart rate on 2020-01-02?",83bpm,105
+"
+
+What is patient 18679317's heart rate on 2020-04-08?",97bpm,60
+"
+
+What is patient 12395651's body temperature on 2020-10-03?",97.2F,97.9F
+"
+
+What is patient 16164188's respiratory rate on 2020-04-01?",97,16
+"
+
+What is patient 16261397's body temperature on 2020-12-01?",97.2F,97.5F
+"
+
+What is patient 15498638's oxygen saturation level on 2020-09-09?",97%,97%
+"
+
+What is patient 13896515's oxygen saturation level on 2020-08-08?",97%,99%
+"
+
+What is patient 13474913's blood pressure reading on 2020-09-01?","13474913,2020-09-01,159/82",100/49
+"
+
+What is patient 12465457's respiratory rate on 2020-02-12?",19 respirations/min,18
+"
+
+What is patient 13896515's blood pressure reading on 2020-08-08?",134/82,144/74
+"
+
+What is patient 18115155's blood pressure reading on 2020-08-10?",117/76,102/58
+"
+
+What is patient 17798591's oxygen saturation level on 2020-03-30?",97%,96%
+"
+
+What is patient 13474913's heart rate on 2020-01-06?",95,86
+"
+
+What is patient 13972513's oxygen saturation level on 2020-03-03?",97%,98%
+"
+
+What is patient 17798591's body temperature on 2020-03-30?",97.8F,97.8F
+"
+
+What is patient 13474913's oxygen saturation level on 2020-01-06?",98%,97%
+"
+
+What is patient 18031120's heart rate on 2020-03-29?",89bpm,106
+"
+
+What is patient 12465457's blood pressure reading on 2020-02-12?",134/92,143/78
+"
+
+What is patient 13972513's heart rate on 2020-03-03?",87CPM,86
+"
+
+What is patient 13896515's oxygen saturation level on 2020-01-02?",97%,98% on 2L
+"
+
+What is patient 13980494's blood pressure reading on 2020-09-01?",134/87,100/60
+"
+
+What is patient 17798591's oxygen saturation level on 2020-12-01?",97%,95%
+"
+
+What is patient 15498638's respiratory rate on 2020-09-09?",It was 18 respirations per minute.,18
+"
+
+What is patient 16164188's heart rate on 2020-04-01?",94CPM,94
+"
+
+What is patient 16261397's heart rate on 2020-12-01?",83bpm,104
+"
+
+What is patient 16385283's body temperature on 2020-01-02?",97.9F,102.9F
+"
+
+What is patient 17798591's respiratory rate on 2020-12-01?",19 respirations per minute.,20
+"
+
+What is patient 16261397's oxygen saturation level on 2020-12-01?",97%,100%
+"
+
+What is patient 17798591's heart rate on 2020-12-01?",83bpm,56
+"
+
+What is patient 13481293's blood pressure reading on 2020-06-06?",134/82,141/83
+"
+
+What is patient 18031120's blood pressure reading on 2020-03-29?",125/65,132/69
+"
+
+What is patient 13972513's respiratory rate on 2020-03-03?",20 respirations per minute,18
+"
+
+What is patient 12465457's heart rate on 2020-02-12?",77bpm,85
+"
+
+What is patient 13980494's body temperature on 2020-09-01?",97.7F,98.5F
+"
+
+What is patient 17228108's heart rate on 2020-01-24?",97bpm,86
+"
+
+What is patient 13620446's oxygen saturation level on 2020-12-15?",97%,96%
+"
+
+What is patient 12395651's heart rate on 2020-11-26?",98bpm,109
+"
+
+What is patient 13896515's body temperature on 2020-08-08?",97.8F,97.9F
+"
+
+What is patient 13481293's oxygen saturation level on 2020-06-06?",97%,99%
+"
+
+What is patient 17228108's blood pressure reading on 2020-01-24?",103/60,119/64
+"
+
+What is patient 13896515's heart rate on 2020-01-02?",97CPM,86
+"
+
+What is patient 16164188's oxygen saturation level on 2020-04-01?",97%,99%
+"
+
+What is patient 13481293's body temperature on 2020-06-06?",97.8F,97.5F
+"
+
+What is patient 12395651's body temperature on 2020-11-26?",97.2F,98.9F
+"
+
+What is patient 10898945's heart rate on 2020-02-17?",83CPM,90
+"
+
+What is patient 12759187's heart rate on 2020-01-16?",97bpm,83
+"
+
+What is patient 16261397's blood pressure reading on 2020-12-01?",117/75,166/87
+"
+
+What is patient 12465457's body temperature on 2020-02-12?",97.7F,98.7F
+"
+
+What is patient 16385283's blood pressure reading on 2020-01-02?",134/78,150/89
+"
+
+What is patient 13474913's oxygen saturation level on 2020-09-01?",97%,82%
+"
+
+What is patient 17228108's blood pressure reading on 2020-05-06?",134/88,92/55
+"
+
+What is patient 17228108's heart rate on 2020-05-06?",97,112
+"
+
+What is patient 13896515's body temperature on 2020-01-02?",97.8F,98.2F
+"
+
+What is patient 13474913's respiratory rate on 2020-01-06?",19 respirations per minute,20
+"
+
+What is patient 13474913's body temperature on 2020-01-06?",97.2F,97.3F
+"
+
+What is patient 16261397's respiratory rate on 2020-08-06?",97,16
+"
+
+What is patient 18031120's blood pressure reading on 2020-12-16?",134/78,119/75
+"
+
+What is patient 18031120's respiratory rate on 2020-03-29?",Patient 18031120's respiratory rate on 2020-03-29 is 18.,20
+"
+
+What is patient 18031120's heart rate on 2020-12-16?",97bpm,106
+"
+
+What is patient 12395651's respiratory rate on 2020-10-03?",19 respirations per minute,18
+"
+
+What is patient 18115155's oxygen saturation level on 2020-08-10?",97%,100%
+"
+
+What is patient 12395651's blood pressure reading on 2020-11-26?",118/78,137/79
+"
+
+What is patient 13474913's blood pressure reading on 2020-01-06?","13474913,2020-01-06,132/64",133/70
+"
+
+What is patient 18031120's body temperature on 2020-12-16?",97.2F,98.1F
+"
+
+What is patient 13972513's heart rate on 2020-04-14?",83CPM,66
+"
+
+What is patient 18031120's oxygen saturation level on 2020-03-29?",97%,92%
+"
+
+What is patient 13972513's blood pressure reading on 2020-04-14?",110/70,123/85
+"
+
+What is patient 18115155's respiratory rate on 2020-08-10?",67,18
+"
+
+What is patient 17228108's respiratory rate on 2020-05-06?",Patient 17228108's respiratory rate on 2020-05-06 was 32.,16
+"
+
+What is patient 18031120's respiratory rate on 2020-12-16?",19 respirations per minute,20
+"
+
+What is patient 12395651's respiratory rate on 2020-11-26?",19 respirations per minute,18
+"
+
+What is patient 12395651's heart rate on 2020-10-03?",84bpm,102
+"
+
+What is patient 12465457's body temperature on 2020-01-14?",97.8F,97.8F
+"
+
+What is patient 12395651's oxygen saturation level on 2020-10-03?",98%,100%
+"
+
+What is patient 13972513's respiratory rate on 2020-04-14?",20 respirations per minute,22
+"
+
+What is patient 16261397's heart rate on 2020-08-06?",83bpm,145
+"
+
+What is patient 13896515's respiratory rate on 2020-08-08?",97CPM,16
+"
+
+What is patient 13896515's heart rate on 2020-08-08?",89 beats per minute,71
+"
+
+What is patient 13474913's respiratory rate on 2020-09-01?",19 respirations per minute,17
+"
+
+What is patient 18115155's body temperature on 2020-05-19?",97.5F,97.7F
+"
+
+What is patient 16261397's body temperature on 2020-08-06?",97.2F,96.2F
+"
+
+What is patient 13474913's heart rate on 2020-09-01?",109bpm,78
+"
+
+What is patient 17798591's blood pressure reading on 2020-12-01?",134/78,141/58
+"
+
+What is patient 18031120's oxygen saturation level on 2020-12-16?",97%,96%
+"
+
+What is patient 17798591's body temperature on 2020-12-01?",97.8F,97.4F
+"
+
+What is patient 12343035's oxygen saturation level on 2020-11-27?",97%,100%
+"
+
+What is patient 13481293's body temperature on 2020-07-02?",97.3F,98.1F
+"
+
+What is patient 17228108's oxygen saturation level on 2020-05-06?",97%,97%
+"
+
+What is patient 13896515's respiratory rate on 2020-01-02?",3.,20
+"
+
+What is patient 17228108's oxygen saturation level on 2020-01-24?",97%,97%
+"
+
+What is patient 17228108's body temperature on 2020-01-24?",97.3F,99.9F
+"
+
+What is patient 13972513's body temperature on 2020-04-14?",98.6F,97.7F
+"
+
+What is patient 13972513's oxygen saturation level on 2020-04-14?",94%,100%
+"
+
+What is patient 16261397's oxygen saturation level on 2020-08-06?",97%,100%
+"
+
+What is patient 13972513's blood pressure reading on 2020-03-03?",110/70,130/75
+"
+
+What is patient 18031120's body temperature on 2020-03-29?",97.2F,98.1F
+"
+
+What is patient 12395651's blood pressure reading on 2020-10-03?",116/78,153/1
+"
+
+What is patient 17228108's respiratory rate on 2020-01-24?",19次/分,18
+"
+
+What is patient 13481293's respiratory rate on 2020-06-06?",It was 12 breaths per minute.,16
+"
+
+What is patient 13481293's heart rate on 2020-06-06?",103bpm,75
+"
+
+What is patient 16385283's respiratory rate on 2020-01-02?",67 respirations per minute.,20
+"
+
+What is patient 10898945's heart rate on 2020-02-12?",68bpm,76
+"
+
+What is patient 13481293's blood pressure reading on 2020-07-02?",13481293's blood pressure reading on 2020-07-02 is 137/85.,124/78
+"
+
+What is patient 13972513's body temperature on 2020-03-03?",97.7F,98.6F
+"
+
+What is patient 16261397's blood pressure reading on 2020-08-06?",109/71,114/64
+"
+
+What is patient 10670705's body temperature on 2020-06-19?",97.3F,98.5F
+"
+
+What is patient 18681844's body temperature on 2020-09-20?",97.2F,98.2F
+"
+
+What is patient 10670705's body temperature on 2020-10-16?",97.8F,99.6F
+"
+
+What is patient 16458598's body temperature on 2020-10-28?",98.1F,98.9F
+"
+
+What is patient 10246275's respiratory rate on 2020-09-15?",67,16
+"
+
+What is patient 16772702's oxygen saturation level on 2020-11-13?",97%,100%
+"
+
+What is patient 10623984's oxygen saturation level on 2020-06-18?",93%,99%
+"
+
+What is patient 16385283's blood pressure reading on 2020-07-29?",134/84,136/98
+"
+
+What is patient 16772702's respiratory rate on 2020-11-13?",19 respirations per minute,18
+"
+
+What is patient 10623984's blood pressure reading on 2020-08-15?",120/70,151/93
+"
+
+What is patient 16458598's oxygen saturation level on 2020-02-12?",97%,99%
+"
+
+What is patient 16772702's heart rate on 2020-11-13?",83 beats per minute.,77
+"
+
+What is patient 18681844's oxygen saturation level on 2020-02-10?",97%,94%
+"
+
+What is patient 16385283's oxygen saturation level on 2020-07-29?",97%,96%
+"
+
+What is patient 16458598's blood pressure reading on 2020-02-12?",110/74,131/84
+"
+
+What is patient 10623984's heart rate on 2020-06-18?",75bpm,136
+"
+
+What is patient 18679317's heart rate on 2020-03-19?",99CPM,110
+"
+
+What is patient 16385283's body temperature on 2020-07-29?",98.8F,98.6F
+"
+
+What is patient 18700699's heart rate on 2020-02-04?",95CPAP,69
+"
+
+What is patient 18681844's heart rate on 2020-09-20?",109,73
+"
+
+What is patient 10670705's oxygen saturation level on 2020-10-16?",97%,100%
+"
+
+What is patient 18681844's blood pressure reading on 2020-02-10?",109/56,127/68
+"
+
+What is patient 16458598's respiratory rate on 2020-02-12?",19 respirations per minute,15
+"
+
+What is patient 15498638's heart rate on 2020-09-09?",89 beats per minute,87
+"
+
+What is patient 18681844's respiratory rate on 2020-09-20?",Patient 18681844's respiratory rate on 2020-09-20 was 14.,13
+"
+
+What is patient 12465457's oxygen saturation level on 2020-02-12?",97%,92%
+"
+
+What is patient 16772702's respiratory rate on 2020-02-05?",22 respirations per minute,22
+"
+
+What is patient 18681844's body temperature on 2020-02-10?",97.8F,98.9F
+"
+
+What is patient 16458598's heart rate on 2020-02-12?",83bpm,89
+"
+
+What is patient 16385283's oxygen saturation level on 2020-01-02?",97%,98%
+"
+
+What is patient 16458598's body temperature on 2020-02-12?",97.7F,99F
+"
+
+What is patient 16458598's oxygen saturation level on 2020-10-28?",97%,100%
+"
+
+What is patient 10623984's respiratory rate on 2020-08-15?",3+,18
+"
+
+What is patient 10670705's heart rate on 2020-10-16?",83CPM,96
+"
+
+What is patient 18681844's respiratory rate on 2020-02-10?",It was 18.,14
+"
+
+What is patient 18700699's respiratory rate on 2020-02-04?",19 respirations/min,18
+"
+
+What is patient 10878442's body temperature on 2020-11-16?",97.8F,97.8F
+"
+
+What is patient 18681844's oxygen saturation level on 2020-09-20?",97%,97%
+"
+
+What is patient 16385283's heart rate on 2020-07-29?",89bpm,77
+"
+
+What is patient 16772702's blood pressure reading on 2020-02-05?",134/88,145/60
+"
+
+What is patient 12271405's blood pressure reading on 2020-11-18?",117/75,93/52
+"
+
+What is patient 15498638's blood pressure reading on 2020-09-09?",109/53,176/84
+"
+
+What is patient 18681844's blood pressure reading on 2020-09-20?",109/56,153/61
+"
+
+What is patient 10670705's respiratory rate on 2020-10-16?",19,20
+"
+
+What is patient 18700699's body temperature on 2020-04-04?",97.7F,98.6F
+"
+
+What is patient 16772702's oxygen saturation level on 2020-02-05?",97%,97%
+"
+
+What is patient 10623984's respiratory rate on 2020-06-18?",19 respirations per minute,18
+"
+
+What is patient 10670705's blood pressure reading on 2020-06-19?",120/70,133/82
+"
+
+What is patient 16772702's body temperature on 2020-02-05?",97.7F,98.0F
+"
+
+What is patient 10623984's heart rate on 2020-08-15?",75bpm,150
+"
+
+What is patient 18679317's respiratory rate on 2020-03-19?",It is 18.,18
+"
+
+What is patient 16458598's heart rate on 2020-10-28?",83bpm,94
+"
+
+What is patient 10670705's blood pressure reading on 2020-10-16?",117/79,121/88
+"
+
+What is patient 18700699's blood pressure reading on 2020-02-04?",105/49,137/65
+"
+
+What is patient 18700699's body temperature on 2020-02-04?",97.2F,97.5F
+"
+
+What is patient 16786096's body temperature on 2020-07-20?",97.5F,97.7F
+"
+
+What is patient 16458598's blood pressure reading on 2020-10-28?",116/78,140/82
+"
+
+What is patient 10670705's respiratory rate on 2020-06-19?",It was 18 breaths per minute.,18
+"
+
+What is patient 16772702's blood pressure reading on 2020-11-13?",117/77,132/58
+"
+
+What is patient 10670705's heart rate on 2020-06-19?",89 bpm,68
+"
+
+What is patient 10623984's oxygen saturation level on 2020-08-15?",97%,95%
+"
+
+What is patient 18700699's blood pressure reading on 2020-04-04?",125/77,118/61
+"
+
+What is patient 18679317's oxygen saturation level on 2020-03-19?",97%,98%
+"
+
+What is patient 16385283's respiratory rate on 2020-07-29?",It was 18 breaths per minute.,19
+"
+
+What is patient 16893981's heart rate on 2020-08-14?",89 bpm,82
+"
+
+What is patient 18681844's heart rate on 2020-02-10?",97bpm,87
+"
+
+What is patient 16458598's respiratory rate on 2020-10-28?",19 respirations per minute,22
+"
+
+What is patient 12343035's body temperature on 2020-11-27?",97.8F,98.6F
+"
+
+What is patient 18613150's body temperature on 2020-07-29?",97.2F,97.4F
+"
+
+What is patient 19947284's heart rate on 2020-04-02?",83 beats per minute.,80
+"
+
+What is patient 15498638's body temperature on 2020-09-09?",97.8F,97F
+"
+
+What is patient 18613150's oxygen saturation level on 2020-05-21?",97%,100%
+"
+
+What is patient 12187678's respiratory rate on 2020-07-06?",22 respirations per minute,16
+"
+
+What is patient 18679317's blood pressure reading on 2020-03-19?",Blood pressure reading for patient 18679317 on 2020-03-19: 125/64,140/92
+"
+
+What is patient 16786096's blood pressure reading on 2020-07-20?",117/82,149/91
+"
+
+What is patient 17068892's blood pressure reading on 2020-03-02?",134/76,188/135
+"
+
+What is patient 10975446's respiratory rate on 2020-08-09?",23,18
+"
+
+What is patient 17068892's heart rate on 2020-03-02?",83bpm,110
+"
+
+What is patient 11229228's heart rate on 2020-10-13?",83bpm,94
+"
+
+What is patient 11490051's oxygen saturation level on 2020-02-27?",97%,97%
+"
+
+What is patient 16772702's body temperature on 2020-11-13?",97.3F,98.8F
+"
+
+What is patient 10623984's body temperature on 2020-08-15?",97.2F,100.8F
+"
+
+What is patient 18669873's body temperature on 2020-12-25?",97.5F,98.5F
+"
+
+What is patient 11229228's body temperature on 2020-10-13?",97.4F,98.5F
+"
+
+What is patient 18700699's oxygen saturation level on 2020-02-04?",97%,100%
+"
+
+What is patient 11023786's respiratory rate on 2020-12-11?",19 respirations per minute,22
+"
+
+What is patient 11188695's body temperature on 2020-05-18?",97F,98.4F
+"
+
+What is patient 16772702's heart rate on 2020-02-05?",83 beats per minute.,68
+"
+
+What is patient 12187678's oxygen saturation level on 2020-12-25?",97%,99%
+"
+
+What is patient 19947284's respiratory rate on 2020-04-02?",It was 18.,18
+"
+
+What is patient 18669873's heart rate on 2020-11-15?",83 bpm,85
+"
+
+What is patient 11229228's heart rate on 2020-07-28?",89bpm,84
+"
+
+What is patient 11229228's blood pressure reading on 2020-07-28?",134/78,128/60
+"
+
+What is patient 12187678's blood pressure reading on 2020-07-06?",124/78,109/56
+"
+
+What is patient 19947284's body temperature on 2020-11-14?",97.8F,98.1F
+"
+
+What is patient 12187678's heart rate on 2020-07-06?",83bpm,69
+"
+
+What is patient 16893981's oxygen saturation level on 2020-05-08?",97%,95%
+"
+
+What is patient 18613150's blood pressure reading on 2020-05-21?",110/76,101/67
+"
+
+What is patient 16893981's respiratory rate on 2020-08-14?",It was 18 respirations per minute.,17
+"
+
+What is patient 18613150's respiratory rate on 2020-07-29?",Patient 18613150's respiratory rate on 2020-07-29 was 18.,18
+"
+
+What is patient 11023786's heart rate on 2020-11-02?",89bpm,64
+"
+
+What is patient 12343035's heart rate on 2020-06-20?",99 bpm,88
+"
+
+What is patient 11023786's body temperature on 2020-11-02?",97.8F,99.0F
+"
+
+What is patient 11023786's oxygen saturation level on 2020-12-11?",97%,100%
+"
+
+What is patient 19972786's heart rate on 2020-08-02?",89 bpm,55
+"
+
+What is patient 18552025's respiratory rate on 2020-09-21?",Patient 18552025's respiratory rate on 2020-09-21 was 14.,18
+"
+
+What is patient 16893981's body temperature on 2020-08-14?",97.9F,97.9F
+"
+
+What is patient 11229228's oxygen saturation level on 2020-07-28?",97%,96%
+"
+
+What is patient 19947284's body temperature on 2020-04-02?",97.7F,97.3F
+"
+
+What is patient 18552025's oxygen saturation level on 2020-07-06?",97%,100%
+"
+
+What is patient 18552025's oxygen saturation level on 2020-09-21?",98%,97%
+"
+
+What is patient 13778554's respiratory rate on 2020-11-08?",19次/分,20
+"
+
+What is patient 10878442's heart rate on 2020-11-16?",89 bpm,51
+"
+
+What is patient 11023786's oxygen saturation level on 2020-11-02?",97%,94%
+"
+
+What is patient 19972786's body temperature on 2020-08-02?",97.4F,97.7F
+"
+
+What is patient 11188695's heart rate on 2020-12-29?",97 beats per minute,66
+"
+
+What is patient 16852633's respiratory rate on 2020-07-23?",83,18
+"
+
+What is patient 11490051's heart rate on 2020-02-27?",75bpm,55
+"
+
+What is patient 11023786's body temperature on 2020-12-11?",97.8F,98.0F
+"
+
+What is patient 12271405's oxygen saturation level on 2020-05-17?",97%,97%
+"
+
+What is patient 13887637's blood pressure reading on 2020-01-14?",134/86,100/60
+"
+
+What is patient 12271405's body temperature on 2020-05-17?",97.1F,97.3F
+"
+
+What is patient 17068892's oxygen saturation level on 2020-11-11?",97%,97%
+"
+
+What is patient 16893981's blood pressure reading on 2020-08-14?",134/75,175/62
+"
+
+What is patient 11490051's respiratory rate on 2020-02-27?",15,16
+"
+
+What is patient 18669873's oxygen saturation level on 2020-11-15?",97%,97%
+"
+
+What is patient 18552025's heart rate on 2020-07-06?",89 bpm,66
+"
+
+What is patient 15134226's body temperature on 2020-01-21?",97.3F,98.6F
+"
+
+What is patient 12271405's respiratory rate on 2020-05-17?",It was 18 respirations per minute.,20
+"
+
+What is patient 17068892's heart rate on 2020-11-11?",83bpm,101
+"
+
+What is patient 13887637's blood pressure reading on 2020-01-31?",110/70,143/72
+"
+
+What is patient 13778554's heart rate on 2020-10-21?",83CPM,71
+"
+
+What is patient 11188695's blood pressure reading on 2020-12-29?",120/70,129/70
+"
+
+What is patient 19624082's oxygen saturation level on 2020-08-05?",97%,96%
+"
+
+What is patient 13887637's oxygen saturation level on 2020-01-14?",97%,97%
+"
+
+What is patient 13778554's heart rate on 2020-11-08?",92CPM,64
+"
+
+What is patient 12187678's blood pressure reading on 2020-12-25?",117/75,121/79
+"
+
+What is patient 11023786's blood pressure reading on 2020-12-11?",134/78,113/70
+"
+
+What is patient 17169964's body temperature on 2020-05-07?",97.8F,98.2F
+"
+
+What is patient 12187678's body temperature on 2020-07-06?",97.8F,97.5F
+"
+
+What is patient 16852633's oxygen saturation level on 2020-07-23?",97%,97%
+"
+
+What is patient 13887637's respiratory rate on 2020-01-14?",19次/分,18
+"
+
+What is patient 17068892's blood pressure reading on 2020-11-11?",134/76,137/79
+"
+
+What is patient 11188695's blood pressure reading on 2020-05-18?",117/79,123/83
+"
+
+What is patient 13887637's body temperature on 2020-01-14?",97.2F,97.0F
+"
+
+What is patient 19947284's heart rate on 2020-11-14?",83 bpm,71
+"
+
+What is patient 10898945's oxygen saturation level on 2020-02-12?",98%,96%
+"
+
+What is patient 11023786's heart rate on 2020-12-11?",89 beats per minute,68
+"
+
+What is patient 18552025's blood pressure reading on 2020-07-06?",134/78,132/73
+"
+
+What is patient 12187678's oxygen saturation level on 2020-07-06?",97%,96%
+"
+
+What is patient 11229228's respiratory rate on 2020-07-28?",19 respirations per minute,16
+"
+
+What is patient 11229228's blood pressure reading on 2020-10-13?",134/78,134/72
+"
+
+What is patient 11229228's oxygen saturation level on 2020-10-13?",97%,100%
+"
+
+What is patient 12343035's respiratory rate on 2020-06-20?",97CPM,16
+"
+
+What is patient 12271405's heart rate on 2020-05-17?",65,97
+"
+
+What is patient 18669873's body temperature on 2020-11-15?",97.7F,98.7F
+"
+
+What is patient 13778554's blood pressure reading on 2020-11-08?",134/78,112/60
+"
+
+What is patient 11188695's oxygen saturation level on 2020-12-29?",97%,98%
+"
+
+What is patient 16893981's respiratory rate on 2020-05-08?",22 respirations per minute,18
+"
+
+What is patient 12343035's body temperature on 2020-06-20?",97.2F,97.4F
+"
+
+What is patient 12271405's oxygen saturation level on 2020-11-18?",97%,100%
+"
+
+What is patient 19972786's respiratory rate on 2020-08-02?",19,20
+"
+
+What is patient 18552025's respiratory rate on 2020-07-06?",Patient 18552025's respiratory rate on 2020-07-06 was 16.,16
+"
+
+What is patient 12343035's blood pressure reading on 2020-06-20?",117/75,110/72
+"
+
+What is patient 11023786's blood pressure reading on 2020-11-02?",134/62,117/55
+"
+
+What is patient 18552025's heart rate on 2020-09-21?",83.,62
+"
+
+What is patient 12343035's respiratory rate on 2020-11-27?",19 respirations per minute,18
+"
+
+What is patient 11188695's body temperature on 2020-12-29?",97.3F,98.3F
+"
+
+What is patient 11229228's respiratory rate on 2020-10-13?",19次/分,22
+"
+
+What is patient 13980494's heart rate on 2020-12-15?",109bpm,77
+"
+
+What is patient 16893981's body temperature on 2020-05-08?",97.1F,98.7F
+"
+
+What is patient 12271405's heart rate on 2020-11-18?",83bpm,90
+"
+
+What is patient 12343035's blood pressure reading on 2020-11-27?",134/78,134/86
+"
+
+What is patient 13887637's body temperature on 2020-01-31?",97.8F,97.5F
+"
+
+What is patient 13778554's body temperature on 2020-11-08?",97.8F,98.3F
+"
+
+What is patient 17068892's body temperature on 2020-03-02?",97.8F,97.8F
+"
+
+What is patient 18669873's blood pressure reading on 2020-11-15?",134/82,125/66
+"
+
+What is patient 12271405's respiratory rate on 2020-11-18?",19 respirations per minute,21
+"
+
+What is patient 13778554's body temperature on 2020-10-21?",97.8F,98.1F
+"
+
+What is patient 19972786's blood pressure reading on 2020-08-02?",134/78,148/74
+"
+
+What is patient 13887637's respiratory rate on 2020-01-31?",19次/分,18
+"
+
+What is patient 11490051's body temperature on 2020-02-27?",97.2F,98.2F
+"
+
+What is patient 12343035's oxygen saturation level on 2020-06-20?",97%,100%
+"
+
+What is patient 18613150's heart rate on 2020-07-29?",99 bpm,67
+"
+
+What is patient 13778554's blood pressure reading on 2020-10-21?",134/62,135/65
+"
+
+What is patient 13778554's oxygen saturation level on 2020-10-21?",97%,100%
+"
+
+What is patient 13887637's oxygen saturation level on 2020-01-31?",97%,97%
+"
+
+What is patient 18552025's body temperature on 2020-07-06?",98.2F,98.4F
+"
+
+What is patient 13887637's heart rate on 2020-01-14?",89CPM,83
+"
+
+What is patient 19947284's blood pressure reading on 2020-11-14?",134/86,138/75
+"
+
+What is patient 18613150's heart rate on 2020-05-21?",95bpm,77
+"
+
+What is patient 19947284's oxygen saturation level on 2020-04-02?",97%,100%
+"
+
+What is patient 13778554's respiratory rate on 2020-10-21?",97,18
+"
+
+What is patient 19947284's blood pressure reading on 2020-04-02?",134/78,133/75
+"
+
+What is patient 16893981's blood pressure reading on 2020-05-08?",134/72,159/75
+"
+
+What is patient 13887637's heart rate on 2020-01-31?",83CPM,85
+"
+
+What is patient 11229228's body temperature on 2020-07-28?",97.4F,99.8F
+"
+
+What is patient 10975446's oxygen saturation level on 2020-08-09?",97%,99%
+"
+
+What is patient 12271405's blood pressure reading on 2020-05-17?",Blood pressure reading for patient 12271405 on 2020-05-17 is 96/53.,95/41
+"
+
+What is patient 18669873's respiratory rate on 2020-11-15?",18 respirations per minute,18
+"
+
+What is patient 12187678's heart rate on 2020-12-25?",67bpm,74
+"
+
+What is patient 17068892's respiratory rate on 2020-11-11?",19,28
+"
+
+What is patient 11188695's respiratory rate on 2020-05-18?",19 respirations per minute,14
+"
+
+What is patient 17068892's body temperature on 2020-11-11?",97.8F,99.2F
+"
+
+What is patient 16893981's heart rate on 2020-05-08?",83CPM,86
+"
+
+What is patient 11023786's respiratory rate on 2020-11-02?",18次/分,16
+"
+
+What is patient 12343035's heart rate on 2020-11-27?",89 beats per minute,107
+"
+
+What is patient 18613150's respiratory rate on 2020-05-21?",19,18
+"
+
+What is patient 13778554's oxygen saturation level on 2020-11-08?",97%,98%
+"
+
+What is patient 10975446's heart rate on 2020-08-09?",83 bpm,111
+"
+
+What is patient 19947284's oxygen saturation level on 2020-11-14?",97%,99%
+"
+
+What is patient 11490051's blood pressure reading on 2020-02-27?",134/62,132/63
+"
+
+What is patient 18613150's body temperature on 2020-05-21?",97.8F,98.5F
+"
+
+What is patient 16893981's oxygen saturation level on 2020-08-14?",97%,97%
+"
+
+What is patient 11188695's heart rate on 2020-05-18?",97bpm,103
+"
+
+What is patient 17068892's oxygen saturation level on 2020-03-02?",93%,98%
+"
+
+What is patient 11188695's respiratory rate on 2020-12-29?",3.,20
+"
+
+What is patient 17068892's respiratory rate on 2020-03-02?",15,24
+"
+
+What is patient 18613150's oxygen saturation level on 2020-07-29?",97%,95%
+"
+
+What is patient 11188695's oxygen saturation level on 2020-05-18?",97%,97%
+"
+
+What is patient 19947284's respiratory rate on 2020-11-14?",19 respirations per minute,18
+"
+
+What is patient 12187678's respiratory rate on 2020-12-25?",22 respirations per minute,18
+"
+
+What is patient 12187678's body temperature on 2020-12-25?",97.8F,98.2F
+"
+
+What is patient 18613150's blood pressure reading on 2020-07-29?","Blood pressure readings for patient 18613150 on 2020-07-29 are:
+- 124/68",128/72

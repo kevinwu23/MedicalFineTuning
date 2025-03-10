@@ -1,0 +1,920 @@
+input,model_response,answer
+"
+
+A 58-year-old woman with metastatic breast cancer is being evaluated for OJEMDA therapy. Based on her body surface area of 1.8 m², what is her recommended weekly dose in mg? Express the answer as a whole number.",270 mg,684 mg
+"
+
+A 58-year-old woman with metastatic breast cancer is prescribed KISUNLA for treatment. The pharmacy needs to prepare her IV infusion. What is the required final concentration range for KISUNLA after dilution with 0.9% Sodium Chloride? Express your answer in the format ""X-Y mg/mL"" where X and Y are numbers.",0.6-2.0 mg/mL,4-10 mg/mL
+"
+
+A 52-year-old woman with multiple sclerosis is taking ITOVEBI as prescribed when she experiences vomiting 30 minutes after her dose. What is the appropriate next step in dosing management? Provide your answer in the format ""Action today: [action], Next dose: [timing]""","Action today: Do not take another dose, Next dose: Tomorrow at usual time","Action today: Skip additional doses, Next dose: Resume regular schedule tomorrow"
+"
+
+A 15-year-old male with chronic obstructive pulmonary disease (COPD) is being evaluated for OHTUVAYRE maintenance therapy. Is OHTUVAYRE appropriate for this patient based on age requirements? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with primary biliary cholangitis (PBC) and mild hepatic impairment (Child-Pugh A) is being evaluated for LIVDELZI therapy. What dose adjustment, if any, is needed for her hepatic impairment? Answer ""no adjustment needed"" or specify the adjusted dose as a percentage of standard dose.",77% of standard dose,no adjustment needed
+"
+
+A 34-year-old woman with moderate atopic dermatitis is prescribed EBGLYSS for treatment. She is currently using a topical corticosteroid cream. Should she discontinue her topical corticosteroid before starting EBGLYSS? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with metastatic lung cancer is starting TEVIMBRA therapy and has tolerated her first infusion well. What is the minimum recommended infusion duration for her subsequent doses? Answer in minutes.",30 minutes,30 minutes
+"
+
+A 72-year-old woman with chronic condition is being evaluated for IQIRVO therapy. What dose adjustment, if any, is required due to her age? Answer with ""No adjustment needed"" or specify the required adjustment as a percentage of standard dose.",No adjustment needed,No adjustment needed
+"
+
+A 5-year-old boy with confirmed Duchenne muscular dystrophy is being evaluated for DUVYZAT therapy. Based on current FDA approval, is this patient eligible for DUVYZAT treatment? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 52-year-old man with mild hepatic impairment (Child-Pugh A) due to fatty liver disease is being evaluated for IQIRVO therapy. What dose adjustment, if any, is needed from the standard dosing? Answer ""No adjustment needed"" or specify the adjusted dose as a percentage of standard dose.",No adjustment needed,No adjustment needed
+"
+
+A 52-year-old woman with advanced breast cancer is starting RYTELO therapy. What is the recommended interval between doses? Answer in weeks.",3 weeks,4 weeks
+"
+
+A 16-year-old male with poorly controlled hypertension despite being on two antihypertensive medications is being evaluated for TRYVIO therapy. Based on the FDA approval, is TRYVIO appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man with chronic hepatitis C and decompensated cirrhosis with ascites and recent episodes of hepatic encephalopathy is being evaluated for IQIRVO therapy. Is IQIRVO appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with moderate to severe plaque psoriasis has completed her loading dose of HYMPAVZI. What is the recommended maintenance dose schedule? Specify the dose in mg and frequency of administration.",350 mg every 4 weeks,150 mg every week by subcutaneous injection
+"
+
+A 52-year-old woman with chronic respiratory disease is being started on OHTUVAYRE therapy. What is the recommended daily administration schedule? Express your answer in the format ""X times daily: [specific timing]""",2 times daily: once in the morning and once in the evening,2 times daily: once in the morning and once in the evening
+"
+
+A 35-year-old man presents to the emergency department with a large abscess on his right thigh that requires antibiotic therapy. The care team decides to initiate ZEVTERA treatment. What is the appropriate dosing regimen for this patient? Express the answer in mg followed by frequency (e.g., ""X mg every Y hours"").",667 mg every 8 hours,667 mg every 8 hours
+"
+
+A 58-year-old woman with myelodysplastic syndrome is started on RYTELO therapy for transfusion-dependent anemia. After how many weeks of treatment should RYTELO be discontinued if there is no reduction in her red blood cell transfusion requirements? Answer in number of weeks.",18 weeks,24 weeks
+"
+
+A 15-year-old male with suspected coronary artery disease is being evaluated for myocardial perfusion imaging. Is FLYRCADO PET imaging appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 75-year-old woman with chronic pain is being initiated on COBENFY therapy. What is the recommended initial daily dosage regimen? Express your answer in the format ""X mg/Y mg Z times daily"" where X and Y are numbers and Z is the frequency.",4 mg/2.4 mg twice daily,50 mg/20 mg 2 times daily
+"
+
+A 52-year-old woman with metastatic breast cancer missed her scheduled WINREVAIR dose 2 days ago due to transportation issues. What is the maximum number of days after the scheduled date within which the missed dose should be administered before requiring schedule adjustment? Answer as a single number in days.",7,3
+"
+
+A 52-year-old woman with multiple sclerosis is prescribed ITOVEBI for daily administration at 8:00 AM. Today at 4:00 PM, she realizes she forgot her morning dose. What is the appropriate recommendation for this missed dose? Answer with specific timing instructions.",Skip the missed dose and take the next dose at the regular time,Take the missed dose immediately since it is within 9 hours of the scheduled time
+"
+
+A 52-year-old man is admitted to the hospital with Staphylococcus aureus bacteremia and is being started on ZEVTERA therapy. What is the appropriate dosing frequency and amount in mg for the first 8 days of treatment? Express the answer as ""X mg every Y hours"".",667 mg every 8 hours,667 mg every 6 hours
+"
+
+A 67-year-old woman with stage 3 chronic kidney disease (eGFR 45 mL/min/1.73m²) is being started on LIVDELZI therapy. What is the recommended daily dose adjustment factor compared to patients with normal renal function? Express as a decimal (e.g., 0.5 for half dose, 1.0 for no adjustment).",1.0,1.0
+"
+
+A 62-year-old male weighing 55 kg with hemophilia A is experiencing inadequate bleeding control on his current HYMPAVZI maintenance dose. What is the appropriate adjusted maintenance dose? Specify the complete dose, route, and frequency.",90 mg subcutaneously weekly,300 mg subcutaneous injection weekly
+"
+
+A 52-year-old man with advanced disease is being initiated on ITOVEBI therapy. What is the recommended daily oral dose in mg? Specify the frequency of administration in your answer.",160 mg once daily,9 mg once daily
+"
+
+A 15-year-old male presents to the emergency department with fever, productive cough, and chest pain. After confirming community-acquired bacterial pneumonia (CABP), the team decides to initiate ZEVTERA therapy. What is the appropriate dosing regimen for this patient? Express the answer in mg/kg followed by the maximum dose per administration and frequency in hours.",20 mg/kg (maximum 667 mg) every 8 hours,13.3 mg/kg (up to 667 mg/dose) every 8 hours
+"
+
+A 32-year-old woman with moderate-to-severe atopic dermatitis is prescribed NEMLUVIO for the first time. What is the correct route of administration? Answer with the complete route of administration.",Subcutaneous injection,Subcutaneous injection
+"
+
+A 58-year-old woman with metastatic breast cancer has a body surface area of 2.1 m². What is the maximum allowable weekly dose of OJEMDA that can be prescribed for this patient? Answer in mg.",252 mg,600 mg
+"
+
+A 55-year-old woman with BCG-unresponsive non-muscle invasive bladder cancer is being evaluated for ANKTIVA therapy. Are there any absolute contraindications that would prevent starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes. Prior hypersensitivity to N-803 or any components of the product,"No, there are no absolute contraindications"
+"
+
+A 52-year-old man taking VORANIGO experiences significant adverse reactions requiring a second dose reduction. What is the appropriate reduced daily dose in mg? Express the answer as a number followed by ""mg once daily"".",10 mg once daily,10 mg once daily
+"
+
+A 52-year-old woman with moderate to severe plaque psoriasis is being initiated on HYMPAVZI therapy. What is the maximum approved weekly dose in mg that should not be exceeded? Express the answer as a number followed by ""mg"".",150 mg,300 mg
+"
+
+A 35-year-old woman with metastatic breast cancer is being evaluated for TEVIMBRA therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, state ""None.""",None,None
+"
+
+A 14-year-old female presents with newly diagnosed hormone receptor-positive, HER2-negative breast cancer with PIK3CA mutation and evidence of endocrine resistance. Is ITOVEBI an appropriate treatment option for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man with hypercholesterolemia is prescribed both LIVDELZI and cholestyramine (a bile acid sequestrant). If he takes cholestyramine at 8:00 AM, what is the earliest time he can take LIVDELZI? Answer in standard time format (e.g., ""X:XX AM/PM"").",11:00 AM,12:00 PM
+"
+
+A 35-year-old woman with moderate depression is prescribed IQIRVO 80 mg daily. She asks if she needs to take the medication with meals. What instructions should be given regarding food intake with IQIRVO? Answer with ""with food only"", ""without food only"", or ""with or without food"".","""With or without food""",with or without food
+"
+
+A 67-year-old man with overactive bladder is being evaluated for COBENFY therapy. He has a history of Child-Pugh Class B liver disease and occasional urinary retention. List all absolute contraindications that would prevent him from receiving COBENFY in this case, separated by commas.","Urinary retention, moderate or severe hepatic impairment, hypersensitivity to COBENFY or components","Urinary retention, moderate hepatic impairment (Child-Pugh Class B)"
+"
+
+A 52-year-old man with hypercholesterolemia is prescribed both IQIRVO and cholestyramine (a bile acid sequestrant). When should IQIRVO be administered in relation to cholestyramine? Express your answer in hours using the format ""at least X hours before OR at least Y hours after"" where X and Y are numbers.",At least 4 hours before OR at least 4 hours after,at least 4 hours before OR at least 4 hours after
+"
+
+A 16-year-old male with severe anxiety is being evaluated for potential IQIRVO therapy. Based on current FDA approval guidelines, is IQIRVO appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 72-year-old man with high-risk non-muscle invasive bladder cancer is starting induction therapy with ANKTIVA and BCG. What is the recommended weekly ANKTIVA dosage in mcg and frequency of administration for the induction period?",400 mcg once a week for 6 weeks,400 mcg administered intravesically with BCG once a week for 6 weeks
+"
+
+A 58-year-old woman with advanced breast cancer on ITOVEBI therapy develops Grade 3 neutropenia. What is the appropriate reduced daily dose in mg when implementing the first dose reduction? Answer as a number followed by ""mg"".",150 mg,6 mg
+"
+
+A 35-year-old woman with moderate-to-severe plaque psoriasis has just had her NEMLUVIO prefilled pen reconstituted in the clinic. What is the maximum time window, in hours, within which she must receive her injection? Express your answer as a single number.",4,4
+"
+
+A 2-month-old infant presents to the emergency department with fever, cough, and difficulty breathing. Chest X-ray shows infiltrates consistent with community-acquired bacterial pneumonia. Is ZEVTERA an appropriate treatment option for this patient based on FDA-approved age indications? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 28-year-old female presents to urgent care with dysuria, frequency, and suprapubic pain. After confirming an uncomplicated urinary tract infection, you decide to prescribe ORLYNVAH. What is the complete dosing regimen? Specify the number of tablets, frequency per day, and total duration in days.",One tablet twice a day for 5 days,1 tablet twice daily for 5 days
+"
+
+A 12-year-old male with paroxysmal nocturnal hemoglobinuria (PNH) weighing 45 kg is being evaluated for PIASKY treatment. Is this patient eligible for PIASKY based on age requirements? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 32-year-old woman with moderate-to-severe atopic dermatitis is being evaluated for EBGLYSS therapy. She mentions having experienced a severe anaphylactic reaction to a biologic medication in the past. Is EBGLYSS an appropriate treatment option for this patient? Answer with ""Yes"" or ""No"" and provide the specific rationale.","No, due to risk of anaphylaxis",No; EBGLYSS is contraindicated in patients with prior serious hypersensitivity to lebrikizumab-lbkz or any excipients
+"
+
+A 67-year-old man with BCG-unresponsive non-muscle invasive bladder cancer is starting ANKTIVA therapy. What is the maximum allowable duration of treatment in months, assuming no disease progression or unacceptable toxicity occurs?",12 months,37 months
+"
+
+A 52-year-old woman with moderate atopic dermatitis misses her scheduled morning dose of NEMLUVIO. When should her next dose be administered? Provide the answer in two parts: 1) when to give the missed dose, and 2) when to resume regular dosing.","1) As soon as possible
+2) Resume regular dosing schedule","1) Administer the missed dose as soon as possible
+2) Resume regular scheduled dosing after the missed dose is given"
+"
+
+A 4-month-old infant presents with a recently diagnosed low-grade glioma harboring a BRAF V600 mutation. Is this patient eligible for OJEMDA therapy? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 35-year-old woman with moderate depression is being evaluated for VYLOY therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 6-year-old boy with a BSA of 0.75 m² is being evaluated for OJEMDA therapy. Based on his BSA, which formulation of OJEMDA (oral suspension or tablets) should be prescribed? Answer with ""oral suspension"" or ""tablets"".",Oral suspension,oral suspension
+"
+
+A 52-year-old woman with severe anemia is starting WINREVAIR therapy. What is the recommended schedule for monitoring hemoglobin and platelet counts during initial treatment? Specify the monitoring frequency and duration in terms of doses.",Before each of the first 8 doses,"Before each dose for the first 5 doses, or longer if values are unstable, then periodically thereafter"
+"
+
+A 72-year-old man with high-risk non-muscle invasive bladder cancer is scheduled to receive intravesical ANKTIVA in combination with BCG therapy. What is the required bladder retention time for the treatment solution in hours?",2 hours,2 hours
+"
+
+A 35-year-old woman with facial wrinkles presents to a cosmetic clinic requesting LETYBO injections. She reports a history of allergic reactions to other botulinum toxin products and has a small red, inflamed area on her forehead. What are the absolute contraindications to LETYBO treatment in this patient? List all that apply, separated by commas.","Known hypersensitivity to botulinum toxin products, infection at injection sites","History of hypersensitivity to botulinum toxin preparations, presence of infection at the proposed injection site"
+"
+
+A 67-year-old man with COPD presents with a history of severe allergic reactions to multiple medications. He is being evaluated for OHTUVAYRE therapy. Based on his history of drug reactions, what specific type of adverse reaction would absolutely prevent him from receiving OHTUVAYRE? Answer with the specific medical term.",Anaphylaxis,Hypersensitivity
+"
+
+A 52-year-old woman with metastatic breast cancer is scheduled to receive her first dose of RYTELO. What is the required duration for administering the intravenous infusion? Answer in hours.",2 hours,2 hours
+"
+
+A 67-year-old man with complicated urinary tract infection is being evaluated for EXBLIFEP therapy. His most recent labs show an eGFR of 135 mL/min. What is the appropriate dosing regimen for this patient? Specify the dose in grams, frequency in hours, and infusion duration in hours in the format ""X grams every Y hours with Z-hour infusion""",2 grams every 8 hours with 3-hour infusion,2.5 grams every 8 hours with 4-hour infusion
+"
+
+A 72-year-old man with high-risk non-muscle invasive bladder cancer has completed induction therapy with BCG and ANKTIVA. What is the maintenance schedule for ANKTIVA administration? Specify the dose in mcg, frequency, and timing of treatment cycles.","400 mcg every 2 weeks for 3 doses at months 4, 7, 10, 13","400 mcg administered intravesically with BCG once a week for 3 weeks at months 4, 7, 10, 13 and 19"
+"
+
+A 67-year-old man with BCG-unresponsive nonmuscle invasive bladder cancer and carcinoma in situ is being evaluated for ANKTIVA therapy. What is the minimum age requirement in years for a patient to be eligible for ANKTIVA treatment? Answer as a single number.",18,18
+"
+
+A 32-year-old woman with metastatic non-small cell lung cancer is prescribed VORANIGO. She asks about timing her doses with meals. What instructions should be given regarding food intake with VORANIGO? Answer with ""with food only"", ""without food only"", or ""with or without food"".",With or without food,with or without food
+"
+
+A 12-year-old male patient (38 kg) with paroxysmal nocturnal hemoglobinuria is being evaluated for PIASKY treatment. What is the minimum body weight in kg required to initiate PIASKY therapy? Answer with a number only.",40,40
+"
+
+A 52-year-old man with complicated urinary tract infection is prescribed ZEVTERA for treatment. What is the required duration in hours for administering each intravenous infusion dose? Provide answer as a single number.",2,2
+"
+
+A 52-year-old woman with primary biliary cholangitis who has had an inadequate response to ursodeoxycholic acid is being evaluated for LIVDELZI therapy. What is the youngest age in years at which LIVDELZI can be prescribed? Answer as a single number.",18,18
+"
+
+A 32-year-old woman with moderate-to-severe plaque psoriasis is starting EBGLYSS therapy after completing her initial loading dose. What is the maintenance dosing frequency between Week 2 and Week 16? Express your answer in the format ""X mg every Y weeks"".",250 mg every 2 weeks,250 mg every 2 weeks
+"
+
+A 67-year-old man with end-stage renal disease on intermittent hemodialysis is prescribed EXBLIFEP. When should his daily dose of EXBLIFEP be administered in relation to his hemodialysis sessions? Specify timing using ""before"" or ""after"" dialysis.",After dialysis,After dialysis
+"
+
+A 16-year-old female presents to a cosmetic clinic requesting LETYBO injections for moderate glabellar lines. Based on current FDA approval, is this patient eligible for treatment? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man weighing 105 kg is being initiated on PIASKY therapy for his condition. What is the appropriate initial loading dose to be administered intravenously on Day 1? Answer in mg.",700 mg,"1,500 mg"
+"
+
+A 16-year-old female with newly diagnosed pulmonary arterial hypertension (PAH, WHO Group 1) is being evaluated for WINREVAIR therapy. Based on current FDA approval, is this patient eligible for WINREVAIR treatment? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 25-year-old woman with moderate-to-severe atopic dermatitis is being evaluated for NEMLUVIO therapy. What specific preventive health measures must be completed before initiating treatment? List all required immunizations according to current guidelines.","All age-appropriate vaccinations as recommended by current immunization guidelines, including completion of all COVID-19 vaccinations and boosters if indicated",All age-appropriate vaccinations as recommended by current immunization guidelines must be completed before starting NEMLUVIO therapy.
+"
+
+A 35-year-old woman with chronic plaque psoriasis has just applied ZELSUVMI to affected areas. What is the minimum time, in hours, that she should wait before taking a shower?",8 hours,1
+"
+
+A 32-year-old woman with resistant hypertension presents to your clinic and is being considered for TRYVIO therapy. She mentions she has been trying to conceive. List all absolute contraindications that would prevent starting TRYVIO in this patient, separated by commas.","Pregnancy, known hypersensitivity to aprocitentan or its excipients","Pregnancy, hypersensitivity to aprocitentan or its excipients"
+"
+
+A 35-year-old man presents to the ED with complicated urinary tract infection and normal renal function (eGFR 90 mL/min). If EXBLIFEP therapy is initiated, what is the appropriate dosing regimen? Specify the dose in grams, frequency, and infusion duration.",2.5 grams every 8 hours with 4-hour infusion,2.5 grams (2 grams cefepime and 0.5 grams enmetazobactam) every 8 hours by intravenous infusion over 2 hours
+"
+
+A 32-year-old woman with multiple sclerosis is being evaluated for ITOVEBI therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 32-year-old woman with atopic dermatitis has a documented history of severe allergic reactions to monoclonal antibodies. Should NEMLUVIO be prescribed for this patient? Answer with ""Yes"" or ""No"" and provide the primary rationale.","No, due to history of severe hypersensitivity reactions","No, due to known hypersensitivity to monoclonal antibodies which indicates potential hypersensitivity to nemolizumab-ilto"
+"
+
+A 52-year-old woman weighing 75 kg is being initiated on PIASKY therapy for her condition. What is the appropriate maintenance dose to be administered starting at day 29? Specify the dose in mg and include route and frequency of administration.",300 mg orally once daily,680 mg subcutaneously every 4 weeks
+"
+
+A 35-year-old woman who received LETYBO injections for facial wrinkles 2 months ago is requesting another treatment session due to an upcoming wedding. What is the minimum required interval between LETYBO treatment sessions? Answer in months.",3 months,3 months
+"
+
+A 72-year-old woman with severe renal impairment (eGFR 18 mL/min) presents with a complicated urinary tract infection requiring EXBLIFEP therapy. What is the appropriate dose and frequency of EXBLIFEP administration? Specify the dose in grams and frequency in hours, including infusion duration (e.g., ""X grams every Y hours with Z-hour infusion"").",2.5 grams every 24 hours with 4-hour infusion,1.25 grams every 12 hours with 2-hour infusion
+"
+
+A 52-year-old woman with advanced non-small cell lung cancer is being evaluated for HYMPAVZI therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 52-year-old woman with metastatic breast cancer is starting TEVIMBRA therapy and has experienced mild side effects. What dose adjustment is recommended for managing these side effects? Answer with a number representing the percentage reduction, or ""0"" if no reduction is recommended.",0,0
+"
+
+A 78-year-old woman with advanced cancer is being evaluated for TEVIMBRA therapy. Given her advanced age, what adjustment to the standard adult dosing regimen is required? Answer ""no adjustment"" if none is needed, otherwise specify the required modification.",No adjustment,no adjustment
+"
+
+A 55-year-old man weighing 75 kg is being initiated on PIASKY therapy for his condition. What is the appropriate initial loading dose to be administered on day 1? Specify the dose in mg and route of administration.",750 mg intravenously,"1,000 mg intravenously"
+"
+
+A 58-year-old woman with metastatic lung cancer is scheduled to receive her first dose of TEVIMBRA. What is the recommended duration for administering her initial infusion? Answer in minutes.",30 minutes,60 minutes
+"
+
+A 52-year-old woman with acute myeloid leukemia is being evaluated for LIVDELZI therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 52-year-old woman was recently diagnosed with primary biliary cholangitis (PBC) and is being started on LIVDELZI therapy. What is the recommended daily oral dosage for this patient? Answer in mg per day.",400 mg per day,10 mg per day
+"
+
+A 52-year-old woman with pulmonary arterial hypertension (PAH) is being evaluated for WINREVAIR therapy. What is the recommended target dosage for subcutaneous administration? Answer in mg/kg followed by frequency.",0.7 mg/kg every 4 weeks,0.7 mg/kg every 3 weeks
+"
+
+A 52-year-old woman with moderate to severe plaque psoriasis is being started on TRYVIO therapy. What is the recommended daily oral dose in mg? Specify the numerical value only.",100,12.5
+"
+
+A 4-year-old boy presents to the emergency department with fever, cough, and chest x-ray findings consistent with community-acquired bacterial pneumonia. If ZEVTERA is selected for treatment, what is the appropriate weight-based dosing regimen? Express the dose in mg/kg and frequency in hours.",20 mg/kg every 8 hours,20 mg/kg every 8 hours (maximum 667 mg/dose)
+"
+
+A 14-year-old patient with moderate-to-severe asthma is being initiated on HYMPAVZI therapy. What is the appropriate loading dose to be administered subcutaneously? Express your answer in mg.",600 mg,300 mg
+"
+
+A 58-year-old woman with advanced cancer is experiencing grade 3 neutropenia while on ITOVEBI therapy and requires a second dose reduction. What is the appropriate reduced daily dose in mg?",40 mg,3 mg
+"
+
+A 52-year-old woman with chronic kidney disease is being initiated on IQIRVO therapy. What is the recommended daily oral dosage in mg? Express the answer as a single number.",80,80
+"
+
+A 35-year-old man presents to the emergency department with a large abscess on his right thigh that shows signs of spreading cellulitis. After incision and drainage, he is started on ZEVTERA. What is the recommended duration of treatment for his acute bacterial skin and skin structure infection (ABSSSI)? Provide the range in the format ""X-Y days"" where X and Y are numbers.",5-14 days,5-14 days
+"
+
+A 52-year-old man taking VORANIGO experiences grade 3 adverse reactions. What is the appropriate reduced daily dose in mg for the first dose reduction? Specify the frequency of administration.",40 mg once daily,20 mg once daily
+"
+
+A 14-year-old male with confirmed hemophilia A and no history of factor VIII inhibitors presents with recurrent bleeding episodes. Is HYMPAVZI an appropriate prophylactic treatment option for this patient? Answer ""Yes"" or ""No"".",Yes,Yes
+"
+
+A 16-year-old male with unresectable esophageal squamous cell carcinoma is being evaluated for TEVIMBRA therapy. What is the minimum patient age in years required for TEVIMBRA treatment? Answer as a whole number.",0,18
+"
+
+A 32-year-old woman with paroxysmal nocturnal hemoglobinuria is being evaluated for PIASKY treatment. She was recently hospitalized with meningococcal meningitis and is still receiving IV antibiotics. List all absolute contraindications that would prevent initiating PIASKY therapy in this patient.",Unresolved serious Neisseria meningitidis infection,Active/unresolved serious Neisseria meningitidis infection
+"
+
+A 35-year-old woman with moderate asthma is being evaluated for WINREVAIR therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 32-year-old woman with moderate-to-severe ulcerative colitis has completed 16 weeks of EBGLYSS induction therapy with good response. What is the recommended maintenance dose moving forward? Specify the dose in mg and frequency in weeks using the format ""X mg every Y weeks"".",250 mg every 4 weeks,250 mg every 4 weeks
+"
+
+A 58-year-old man with moderate hepatic impairment (Child-Pugh Class B) is being evaluated for OHTUVAYRE therapy for his respiratory condition. What specific dosing consideration should be implemented? Answer with ""use with [X]"" where X is the appropriate term.",Use with caution,use with caution
+"
+
+A 52-year-old man with a body weight of 105 kg is being initiated on PIASKY therapy for his condition. What is the appropriate maintenance dose to be administered starting at day 29? Specify the dose in mg and include route and frequency of administration.",600 mg subcutaneously every 4 weeks,"1,020 mg subcutaneously every 4 weeks"
+"
+
+A 35-year-old woman with moderate depression is being evaluated for RYTELO therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 52-year-old woman with severe plaque psoriasis is starting PIASKY therapy and has received her initial IV loading dose. What is her subcutaneous dosing schedule for the next 3 weeks? List all doses in mg with corresponding days.","250 mg on Day 8, Day 15, and Day 22","340 mg on Days 2, 8, 15, and 22"
+"
+
+A 52-year-old female executive is seeking treatment for prominent glabellar lines that make her appear angry or tired. She is interested in LETYBO injections. What is the total recommended dose in Units for a single treatment session?",20 Units,20 Units
+"
+
+A 34-year-old woman with a complicated urinary tract infection is being evaluated for ZEVTERA therapy. She mentions having experienced a severe anaphylactic reaction to ceftriaxone in the past. What is the appropriate next step in management? Answer with ""prescribe"" or ""do not prescribe"" ZEVTERA.",Do not prescribe,do not prescribe
+"
+
+A 52-year-old man weighing 95 kg with moderate-to-severe atopic dermatitis is being initiated on NEMLUVIO therapy. What is the recommended maintenance dose and frequency? Express the answer as ""X mg every Y weeks"".",250 mg every 4 weeks,60 mg every 4 weeks
+"
+
+A 72-year-old man with end-stage renal disease (eGFR 12 mL/min) requires EXBLIFEP for a severe infection. What is the appropriate dosing regimen for the first 48 hours? Specify both the loading dose and maintenance dose in grams, including timing intervals.","2 g loading dose, followed by 1 g every 24 hours","Loading dose of 1.25 grams on day 1, followed by 0.625 grams at 24 hours"
+"
+
+A 35-year-old woman with moderate plaque psoriasis is being evaluated for IQIRVO therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 52-year-old woman with a complicated urinary tract infection is being evaluated for EXBLIFEP therapy. She reports having experienced anaphylaxis to penicillin in the past. What is the appropriate next step regarding EXBLIFEP administration? Answer with ""Proceed with treatment"" or ""Do not administer.""",Do not administer,Do not administer
+"
+
+A 32-year-old woman with moderate-to-severe ulcerative colitis is being initiated on EBGLYSS therapy. What is the correct loading dose regimen in mg to be administered at both Week 0 and Week 2? Express your answer as a single number.",500,500
+"
+
+A 35-year-old woman weighing 65 kg is being evaluated for NEMLUVIO therapy. What is the recommended initial loading dose and subsequent maintenance dosing schedule? Express your answer in the format ""X mg initially, then Y mg every Z weeks"" where X, Y, and Z are numbers.","350 mg initially, then 250 mg every 4 weeks","60 mg initially, then 30 mg every 4 weeks"
+"
+
+A 58-year-old woman with metastatic lung cancer is being initiated on TEVIMBRA therapy. What is the recommended dosing regimen for this patient? Express your answer in mg followed by frequency in weeks (e.g., X mg every Y weeks).",300 mg every 3 weeks,200 mg every 3 weeks
+"
+
+A 32-year-old woman with moderate to severe ulcerative colitis is prescribed TRYVIO. The patient asks about timing her doses with meals. Should TRYVIO be taken with food or on an empty stomach? Answer ""with food"", ""without food"", or ""either is acceptable"".",With food,Either is acceptable
+"
+
+A 67-year-old man with moderate renal impairment (eGFR 45 mL/min) is being evaluated for ITOVEBI therapy for his condition. What is the appropriate starting dose in mg per day? Express the answer as a single number followed by ""mg daily"".",100 mg daily,6 mg daily
+"
+
+A 62-year-old male with a body surface area of 1.45 m² is being initiated on OJEMDA therapy for his condition. What is the recommended weekly tablet dose in mg? Specify the frequency as ""once weekly"" in your answer.",600 mg once weekly,600 mg once weekly
+"
+
+A 16-year-old female presents to the emergency department with fever, flank pain, and dysuria, diagnosed with complicated urinary tract infection. Is she eligible for EXBLIFEP treatment? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 2-month-old infant with a body surface area (BSA) of 0.25 m² requires treatment with OJEMDA for their condition. What is the recommended dosage for this patient? Answer ""No established dosage"" if no dosage recommendation exists.",No established dosage,No established dosage
+"
+
+A 9-month-old infant with recurrent respiratory infections is being evaluated for treatment with ZELSUVMI. Is ZELSUVMI currently FDA-approved for use in this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 67-year-old woman with stage 3 chronic kidney disease (eGFR 45 mL/min/1.73m²) is being evaluated for OHTUVAYRE therapy. What dose adjustment is required for her renal function? Answer ""No adjustment required"" or specify the adjusted dose as a percentage of standard dose.",No adjustment required,No adjustment required
+"
+
+A 12-year-old boy presents to the emergency department with fever, productive cough, and chest pain. After diagnostic workup confirms community-acquired bacterial pneumonia (CABP), ZEVTERA therapy is initiated. What is the recommended duration of treatment? Provide the range in the format ""X-Y days"" where X and Y are numbers.",7-14 days,7-14 days
+"
+
+A 15-year-old male with low-risk myelodysplastic syndromes (MDS) is being evaluated for RYTELO therapy. Is RYTELO indicated for this patient based on age alone? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman presents to a cosmetic clinic requesting LETYBO treatment for prominent glabellar lines (frown lines). For optimal treatment of the glabellar complex, how many total injection sites should be used? Provide answer as a single number.",5,5
+"
+
+A 52-year-old woman with metastatic breast cancer is being evaluated for OJEMDA therapy. List all absolute contraindications that would prevent her from receiving this medication (write ""none"" if there are no absolute contraindications).",None,none
+"
+
+A 58-year-old man with metastatic cancer is prescribed FLYRCADO for treatment. What is the maximum total volume of FLYRCADO that can be administered to this patient in a 24-hour period? Answer in mL.",120 mL,6.1 mL
+"
+
+A 16-year-old male presents with severe prurigo nodularis and his dermatologist is considering NEMLUVIO therapy. Is this patient eligible for NEMLUVIO treatment based on age requirements? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 68-year-old female presents to the emergency department with fever, dysuria, and flank pain. Blood cultures are positive for E. coli, and she is diagnosed with complicated UTI with bacteremia. What is the recommended duration of EXBLIFEP treatment in days? Provide answer in the format ""X-Y days"" where X and Y are numbers.",10-14 days,7-14 days
+"
+
+A 35-year-old woman with chronic immune thrombocytopenia is being evaluated for WINREVAIR treatment. Her current laboratory results show varying platelet counts. What is the minimum platelet count required to initiate WINREVAIR therapy? Express your answer in thousands/mm3.",50 thousands/mm3,50 thousands/mm3
+"
+
+A 72-year-old man with high-grade non-muscle invasive bladder cancer has achieved a complete response at month 25 following initial treatment. If continuing with ANKTIVA maintenance therapy, what is the recommended dosing schedule for months 25-37? Specify the dose in mcg and frequency pattern for each maintenance month.","400 mcg administered once a week for 3 weeks at months 25, 28, 31, 34, and 37","400 mcg administered once a week for 3 weeks at months 25, 31, and 37"
+"
+
+A 32-year-old woman presents with severe alopecia areata affecting 75% of her scalp and is being evaluated for LEQSELVI therapy. What is the recommended total daily oral dosage in mg, expressed as ""X mg Y times daily""?",8 mg twice daily,8 mg twice daily
+"
+
+A 67-year-old man with moderate COPD presents to your clinic for medication management. You decide to prescribe OHTUVAYRE via nebulizer. What is the recommended daily dosing regimen? Specify the dose in mg and frequency per day.",13.9 mg once daily,3 mg twice daily
+"
+
+A 67-year-old man with suspected coronary artery disease is scheduled for a 2-day cardiac imaging protocol using FLYRCADO. What is the recommended administered activity for both rest and stress imaging? Express your answer as a range in MBq and include mCi in parentheses.",185-259 MBq (5-7 mCi),93 MBq to 111 MBq (2.5 mCi to 3 mCi)
+"
+
+A 52-year-old man with chronic myeloid leukemia is prescribed XOLREMDI and is also taking ketoconazole for a fungal infection. What is the appropriate daily dosage of XOLREMDI in mg when used concurrently with this strong CYP3A4 inhibitor?",200 mg per day,200 mg
+"
+
+A 52-year-old woman was recently diagnosed with pulmonary arterial hypertension (PAH) and is being evaluated for WINREVAIR therapy. What is the recommended initial dosage for this patient? Answer in mg/kg and specify the administration route and frequency.",0.7 mg/kg by subcutaneous injection every 3 weeks,0.3 mg/kg by subcutaneous injection every 3 weeks
+"
+
+A 52-year-old woman with major depressive disorder is being evaluated for VAFSEO therapy. What are all the available tablet strengths that can be prescribed? List all strengths in mg, separated by commas.","150 mg, 300 mg, 450 mg","150 mg, 300 mg, 450 mg"
+"
+
+A 52-year-old woman with chronic pain is starting COBENFY therapy and has tolerated the initial dose well. What is the next recommended dosage step and minimum duration before further increase? Answer in the format ""[X] mg/[Y] mg twice daily for at least [Z] days"" where X, Y, and Z are numbers.",50 mg/200 mg twice daily for at least 5 days,100 mg/20 mg twice daily for at least 5 days
+"
+
+A 32-year-old woman with a body surface area of 1.05 m² is being evaluated for OJEMDA tablet therapy for her condition. What is the appropriate weekly dosage? Answer in mg followed by frequency.",400 mg once weekly,400 mg once weekly
+"
+
+A 52-year-old woman with moderate persistent symptoms is being initiated on COBENFY therapy. What is the maximum recommended daily dosage? Express the answer in the format ""X mg/Y mg twice daily"" where X and Y are numbers.",400 mg/100 mg twice daily,125 mg/30 mg twice daily
+"
+
+A 2-year-old boy weighing 12 kg is diagnosed with a condition requiring MIPLYFFA in combination with miglustat therapy. What is the recommended oral dosage of MIPLYFFA in mg that should be administered three times daily? Provide the answer as a single number.",100,47
+"
+
+A 32-year-old man with paroxysmal nocturnal hemoglobinuria presents with fever, headache, and neck stiffness. Blood cultures are positive for Streptococcus pneumoniae. Is it appropriate to initiate VOYDEYA therapy at this time? Answer with ""Yes"" or ""No"".",No,No
+"
+
+A 4-year-old boy weighing 12 kg with chronic kidney disease (eGFR of 30 mL/minute) is being evaluated for MIPLYFFA therapy in combination with miglustat. What is the recommended dosage of MIPLYFFA in mg that should be administered twice daily?",100 mg,47 mg
+"
+
+A 52-year-old woman with osteoporosis is being evaluated for YORVIPATH therapy. Her recent labs show vitamin D levels within normal range. What is the minimum required albumin-corrected serum calcium level in mg/dL before initiating treatment? Express answer as a single number with one decimal place.",8.0,7.8
+"
+
+A 52-year-old woman with chronic kidney disease is being initiated on VOYDEYA therapy. What is the recommended initial oral dosing regimen? Express your answer in the format ""X mg Y times per day"" where X and Y are numbers.",150 mg twice per day,150 mg 3 times per day
+"
+
+A 58-year-old woman with advanced multiple myeloma is being initiated on IMDELLTRA therapy. What is the correct initial step-up dose to be administered on Day 1 of Cycle 1? Answer in mg.",1 mg,1 mg
+"
+
+A 52-year-old woman with metastatic breast cancer has completed the initial step-up dosing period of IMDELLTRA therapy and is ready to continue treatment. What is the recommended maintenance dose and frequency? Express as ""X mg every Y weeks"".",80 mg every 4 weeks,10 mg every 2 weeks
+"
+
+A 67-year-old man with end-stage renal disease and anemia is being evaluated for VAFSEO therapy. He started hemodialysis 6 weeks ago. What is the minimum required time he must remain on dialysis before being eligible to start VAFSEO? Answer in months.",3 months,3 months
+"
+
+A 52-year-old woman with chronic thrombocytopenia is being evaluated for DUVYZAT therapy. What is the minimum platelet count required to safely initiate treatment? Express your answer in x10^9/L.",150 x10^9/L,150 x10^9/L
+"
+
+A 19-year-old woman is being evaluated for potential VYLOY therapy. Based on the age ranges studied in clinical trials, is this patient within the studied age population? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 67-year-old woman with metastatic breast cancer is prescribed VYLOY treatment. What is the correct method of administration? Specify the exact route and type of administration in your answer.",Intravenous infusion,Intravenous infusion only
+"
+
+A 35-year-old woman has just received LETYBO injections for facial wrinkles at your clinic. You have leftover reconstituted medication. At what temperature range should you store the unused reconstituted LETYBO? Provide the answer in both Celsius and Fahrenheit in the format ""X-Y°C (A-B°F)"".",2-8°C (36-46°F),2-8°C (36-46°F)
+"
+
+A 52-year-old woman with moderate depression is being evaluated for VAFSEO therapy. What is the maximum allowable daily dose in mg that can be prescribed for this patient?",124 mg,600 mg
+"
+
+A 32-year-old woman with recurrent urinary tract infections presents to the ED with pyelonephritis. Her medical history includes uric acid kidney stones diagnosed 2 years ago. Is ORLYNVAH an appropriate treatment option for this patient? Answer ""Yes"" or ""No"" and provide the specific contraindication if applicable.","No, history of uric acid kidney stones",No; history of uric acid kidney stones is a contraindication for ORLYNVAH
+"
+
+A 16-year-old male weighing 52 kg is being started on AQNEURSA for his condition. What is the recommended evening dose in grams?",1.3 grams,1 gram
+"
+
+A 32-year-old woman presents with severe axillary hyperhidrosis that impacts her daily activities and social interactions. She is being prescribed SOFDRA for treatment. What is the recommended daily application regimen? Specify the number of pumps per underarm and time of day.",2 pumps per underarm once daily at bedtime,1 pump per underarm once daily at bedtime
+"
+
+A 20-month-old boy has been diagnosed with Niemann-Pick disease type C with neurological manifestations. His parents are discussing treatment options with MIPLYFFA in combination with miglustat. Is this patient currently eligible for MIPLYFFA therapy based on age requirements? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with schizophrenia is being initiated on COBENFY therapy. What is the recommended initial dosing regimen? Express your answer in the format ""X mg/Y mg Z times daily for at least N days"" where X, Y, Z, and N are numbers.",100 mg/10 mg twice daily for at least 2 days,50 mg/20 mg 2 times daily for at least 2 days
+"
+
+A 52-year-old woman with chronic kidney disease is being evaluated for YORVIPATH therapy. What is the recommended daily dosage range? Express the range in the format ""A-B mcg"" where A and B are numbers.",1-3 mcg,6-30 mcg
+"
+
+A 58-year-old woman with advanced cancer is starting IMDELLTRA therapy. For her first cycle of treatment, how long should she be monitored in the healthcare setting after receiving each infusion? Answer in the format ""X to Y hours"".",4 to 12 hours,22 to 24 hours
+"
+
+A 52-year-old woman with a chronic condition is prescribed XOLREMDI. When instructing the patient about medication administration timing, what specific directions should be given regarding meals? Format your answer in terms of both fasting and pre-meal timing requirements.",Take at least 30 minutes before meals and only after overnight fast,"On an empty stomach after overnight fast, at least 30 minutes before food"
+"
+
+A 12-year-old boy weighing 45 kg is diagnosed with a condition requiring MIPLYFFA in combination with miglustat. What is the appropriate oral dosage of MIPLYFFA in mg that should be administered per dose? Specify the frequency of administration in the format ""X mg Y times per day"".",150 mg 2 times per day,93 mg three times per day
+"
+
+A 52-year-old man weighing 85 kg is being started on NIKTIMVO therapy for his condition. What is the recommended interval between doses? Answer in weeks.",2 weeks,2 weeks
+"
+
+A 32-year-old woman with moderate plaque psoriasis is prescribed ZELSUVMI topical solution for her trunk lesions. After applying the medication, how long should she wait for the solution to dry before getting dressed? Answer in minutes.",5 minutes,10 minutes
+"
+
+A 58-year-old woman with metastatic breast cancer has received her initial dose of VYLOY at 800 mg/m2. What are the two possible maintenance dosing regimens? Express your answer in the format ""X mg/m2 every Y weeks OR Z mg/m2 every W weeks"".",800 mg/m2 every 4 weeks OR 600 mg/m2 every 3 weeks,600 mg/m2 every 3 weeks OR 400 mg/m2 every 2 weeks
+"
+
+A 9-year-old boy weighing 30 kg with spinal muscular atrophy is being started on AQNEURSA therapy. What is the total daily dose that should be prescribed in grams?",1.8 grams,3 grams
+"
+
+A 52-year-old woman with hyperhidrosis is being evaluated for SOFDRA therapy. She has a history of glaucoma and myasthenia gravis. List all of her current medical conditions that are absolute contraindications for SOFDRA use, separated by commas.","Glaucoma, myasthenia gravis","Glaucoma, myasthenia gravis"
+"
+
+A 58-year-old woman taking LAZCLUZE for her condition develops grade 3 adverse reactions. What is the appropriate reduced daily dose in mg when implementing the first dose reduction? Express the answer as a number followed by ""mg once daily"".",160 mg once daily,160 mg once daily
+"
+
+A 32-year-old woman with moderate depression is prescribed MIPLYFFA and asks about timing with meals. What instructions should be given regarding food intake with MIPLYFFA? Answer with ""with food only"", ""without food only"", or ""with or without food"".","""With or without food""",with or without food
+"
+
+A 35-year-old woman presents with multiple molluscum contagiosum lesions on her trunk and is prescribed ZELSUVMI. What is the recommended frequency of application? Answer as ""X times per day"" where X is a number.",2 times per day,1 time per day
+"
+
+A 10-year-old boy with moderate atopic dermatitis (weight 42 kg) is being evaluated for EBGLYSS therapy. Is this patient eligible for EBGLYSS treatment based on age requirements? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A pediatric patient with a history of bleeding episodes is being evaluated for HYMPAVZI prophylaxis treatment. What is the minimum patient age required for initiating this therapy? Answer in years.",1 year,12 years
+"
+
+A 14-year-old female patient weighing 52 kg is being evaluated for DUVYZAT therapy. What is the appropriate twice-daily dose in mg? Express the answer as a single number.",400,44.3
+"
+
+A 72-year-old man with end-stage renal disease (CrCL of 12 mL/min) is being evaluated for ORLYNVAH therapy for his condition. Based on his renal function, what is the appropriate prescribing decision? Answer with either ""recommended"" or ""not recommended"".",Not recommended,not recommended
+"
+
+A 58-year-old woman receiving RYTELO therapy for her condition develops Grade 3 neutropenia requiring a second dose reduction. What is the appropriate reduced dose in mg/kg?",4.7 mg/kg,4.4 mg/kg
+"
+
+A 62-year-old man weighing 78 kg is being evaluated for MIPLYFFA therapy in combination with miglustat. What is the recommended oral dosage of MIPLYFFA in mg that should be prescribed? Specify the amount and frequency in the format ""X mg Y times per day"".",200 mg twice per day,124 mg three times per day
+"
+
+A 25-year-old man with chronic kidney disease and anemia is being evaluated for VAFSEO therapy. He has been on peritoneal dialysis for 1 month. Is VAFSEO therapy appropriate for this patient based on current indications? Answer ""Yes"" or ""No"" only.",Yes,No
+"
+
+An 8-year-old boy with a condition that could be treated with SOFDRA presents to your clinic. Based on current FDA approval status, is SOFDRA an appropriate treatment option for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 35-year-old woman with vertigo is prescribed AQNEURSA for symptom management. What is the amount of medication contained in each unit-dose packet that she will receive? Answer in grams.",2 grams,1 gram
+"
+
+A 58-year-old woman receiving RYTELO therapy develops Grade 3 neutropenia. What is the appropriate reduced dose for her first dose reduction? Answer in mg/kg.",0.3 mg/kg,5.6 mg/kg
+"
+
+A 10-year-old boy with Grade 2 astrocytoma and an IDH1 mutation is being evaluated for VORANIGO therapy following surgical resection. Is this patient eligible for VORANIGO treatment based on age alone? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 67-year-old woman with advanced heart failure is being evaluated for AQNEURSA therapy. Are there any absolute contraindications to starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes; hypersensitivity to aqneursa or its components,"No, there are no contraindications"
+"
+
+A 35-year-old woman weighing 85 kg is being evaluated for REZDIFFRA therapy for her condition. What is the appropriate daily oral dose in mg? Express the answer as a single number.",400,80
+"
+
+A 35-year-old woman weighing 85 kg with chronic inflammatory disease is prescribed REZDIFFRA while also taking gemfibrozil (a moderate CYP2C8 inhibitor). What is the appropriate daily dosage of REZDIFFRA in mg? Specify the frequency as ""X mg once daily.""",80 mg once daily,60 mg once daily
+"
+
+A 52-year-old woman with major depressive disorder is being evaluated for LEQSELVI therapy. She is currently taking fluconazole for a fungal infection. Is LEQSELVI appropriate to prescribe? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 15-year-old male presents with newly diagnosed locally advanced unresectable gastric adenocarcinoma that is HER2-negative. Is VYLOY in combination with fluoropyrimidine- and platinum-containing chemotherapy an appropriate first-line treatment option for this patient? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 14-year-old male patient weighing 45 kg is being evaluated for VORANIGO therapy. What is the appropriate daily oral dose in mg? Express the answer as a single number.",45,40
+"
+
+A 15-year-old male with chronic graft-versus-host disease who has failed two prior systemic therapies is being evaluated for NIKTIMVO treatment. His current weight is 38 kg. What is the minimum weight in kg required for him to be eligible for NIKTIMVO therapy? Answer as a single number.",30,40
+"
+
+A 35-year-old woman with moderate depression is being evaluated for LAZCLUZE therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 16-year-old male with chronic pain is being evaluated for LUMISIGHT therapy. Based on current FDA approval status, is LUMISIGHT appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 12-year-old boy with treatment-resistant depression is being evaluated for potential medication options. Is REZDIFFRA an FDA-approved treatment option for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man with metastatic non-small cell lung cancer is being initiated on VORANIGO therapy. What is the recommended daily oral dose in mg? Specify the frequency of administration in your answer.",100 mg once daily,40 mg once daily
+"
+
+A 12-year-old boy weighing 14 kg with Niemann-Pick disease type C (NPC) is being evaluated for AQNEURSA therapy. Based on his current weight, is he eligible for AQNEURSA treatment? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with chronic myeloid leukemia is receiving LEQSELVI therapy. During routine monitoring, her absolute lymphocyte count is found to be 450 cells/mm3. What is the appropriate management of LEQSELVI therapy? Specify your answer as either ""continue"" or ""interrupt until [specify threshold].""",Interrupt until ALC ≥500 cells/mm3,Interrupt until ALC ≥500 cells/mm3
+"
+
+A 52-year-old woman with breast cancer is being evaluated for LUMISIGHT therapy for tumor visualization during surgery. She reports having experienced an allergic reaction to pegulicianine during a previous medical procedure. Should LUMISIGHT be administered? Answer with ""Yes"" or ""No"".",No,No
+"
+
+A 35-year-old woman with major depressive disorder is prescribed VOYDEYA and realizes she missed her morning dose 4 hours ago. Her next scheduled dose is in 2 hours. What is the appropriate action? Answer in the format: ""take missed dose now"" or ""skip missed dose and take next scheduled dose""",Skip missed dose and take next scheduled dose,skip missed dose and take next scheduled dose
+"
+
+A 52-year-old man weighing 75 kg is being started on REVUFORJ therapy and is not taking any medications that inhibit CYP3A4. What is the appropriate total daily dose in mg? Express the answer as a single number.",600,540
+"
+
+A 58-year-old woman with metastatic gastric cancer is scheduled to receive VYLOY and fluoropyrimidine/platinum chemotherapy on the same day. What is the correct sequence for administering these medications? State which medication should be given first.",VYLOY must be administered first,VYLOY should be administered first
+"
+
+A 58-year-old woman with chronic kidney disease and anemia is being treated with VAFSEO, but her hemoglobin remains below target range at 9.5 g/dL. What is the recommended dose adjustment increment in mg to achieve target hemoglobin levels?",150 mg,150 mg
+"
+
+A 58-year-old man with EGFR-mutated non-small cell lung cancer is being started on LAZCLUZE therapy in combination with amivantamab. The patient asks about timing his medication with meals. What instructions should be given regarding food intake when taking LAZCLUZE? Answer with ""with food only"", ""without food only"", or ""with or without food"".","""With food only""",with or without food
+"
+
+A 58-year-old woman with advanced breast cancer is being initiated on KISUNLA therapy. What is the recommended initial dosing regimen for the first three doses? Specify the dose in mg and frequency in weeks.",700 mg every 4 weeks,700 mg every 4 weeks
+"
+
+A 72-year-old woman with early Alzheimer's disease has a documented history of severe allergic reactions to monoclonal antibody treatments. Is KISUNLA a safe treatment option for this patient? Answer with ""Yes"" or ""No"".",No,No
+"
+
+A 10-month-old infant presents with relapsed acute leukemia with a confirmed KMT2A translocation. Is this patient eligible for REVUFORJ therapy? Answer ""Yes"" or ""No"" and explain the age requirement.",Yes. Must be at least 3 months old,No. REVUFORJ is only indicated for patients 1 year and older.
+"
+
+A 52-year-old woman with advanced breast cancer is starting treatment with IMDELLTRA. What is the recommended dose in mg for her second infusion on Day 8 of Cycle 1?",80 mg,10 mg
+"
+
+A 4-year-old boy weighing 15 kg is being evaluated for DUVYZAT therapy. What is the recommended twice-daily dose in both mg and mL? Format your answer as ""X mg (Y mL)"".",150 mg (7.5 mL),22.2 mg (2.5 mL)
+"
+
+A 55-year-old man with suspected coronary artery disease is scheduled for a same-day rest-stress myocardial perfusion imaging protocol using FLYRCADO. For the exercise stress portion of the study, what is the recommended administered activity? Express the range in both MBq and mCi, using the format ""X-Y MBq (A-B mCi)"".",370-555 MBq (10-15 mCi),333-352 MBq (9-9.5 mCi)
+"
+
+A 6-year-old boy weighing 35 kg with acute myeloid leukemia is prescribed REVUFORJ but is also taking voriconazole, a strong CYP3A4 inhibitor. What is the appropriate REVUFORJ dosage? Express the answer in mg/m2 and specify frequency.",270 mg/m2 twice weekly,95 mg/m2 orally twice daily
+"
+
+A 58-year-old woman taking LAZCLUZE develops grade 3 neutropenia and requires a second dose reduction. What is the appropriate reduced daily dose in mg? Specify the total daily dose and frequency (e.g., ""X mg once daily"").",80 mg once daily,80 mg once daily
+"
+
+A 35-year-old woman with moderate depression is being evaluated for IMDELLTRA therapy. Are there any absolute contraindications that would prevent starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes. Hypersensitivity to imdelltra or components and concurrent use with monoamine oxidase inhibitors,"No, there are no contraindications"
+"
+
+A 32-year-old woman with cerebellar ataxia is prescribed AQNEURSA at a dose of 2 grams. How many packets should be prepared for each dose? Express your answer as a number.",2,2
+"
+
+A 14-year-old male patient weighing 35 kg with chronic inflammatory condition requires VORANIGO therapy. What is the appropriate daily oral dose in mg? Express the answer as a single number.",35,20
+"
+
+A 52-year-old woman with advanced ovarian cancer is prescribed LEQSELVI and realizes she missed her morning dose 6 hours ago. What is the recommended course of action? Answer with specific instructions about the missed dose and next steps.",Skip the missed dose and take the next dose at the regular time,Skip the missed dose and take the next scheduled dose at the regular time
+"
+
+A 52-year-old woman with chronic lymphocytic leukemia is prescribed LIVDELZI. The patient asks about timing her doses with meals. What instructions should be given regarding food intake with LIVDELZI? Answer with ""with food only,"" ""without food only,"" or ""with or without food.""",With or without food,with or without food
+"
+
+A 16-year-old male with biopsy-confirmed nonalcoholic steatohepatitis (NASH) and moderate liver fibrosis is being evaluated for REZDIFFRA therapy. Is this patient currently eligible for REZDIFFRA treatment based on age? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man with type 2 diabetes is being started on YORVIPATH therapy. What is the recommended frequency of YORVIPATH administration per day? Answer as a number.",2,1
+"
+
+A 6-year-old boy weighing 35 kg with refractory acute myeloid leukemia is being evaluated for REVUFORJ therapy. He is not taking any medications that inhibit CYP3A4. What is the recommended dosage in mg/m2? Specify the frequency and route of administration in your answer.","270 mg/m2 intravenously on days 1, 8, 10, and 12",160 mg/m2 orally twice daily
+"
+
+A 12-year-old boy with severe autoimmune disease is being evaluated for EBGLYSS therapy. What specific preventive health measures must be completed before initiating treatment? List all required items.",All age-appropriate vaccinations as recommended by current immunization guidelines,All age-appropriate vaccinations according to current immunization guidelines
+"
+
+A 67-year-old man with suspected coronary artery disease is scheduled for a same-day rest-stress myocardial perfusion imaging protocol using FLYRCADO. What is the recommended dosage for the rest imaging portion? Express the answer as a range in both MBq and mCi.",185-259 MBq and 5-7 mCi,93 MBq to 111 MBq (2.5 mCi to 3 mCi)
+"
+
+A 15-year-old male presents with severe alopecia areata affecting 80% of his scalp. Is LEQSELVI an appropriate treatment option for this patient? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 67-year-old man with creatinine clearance of 25 mL/min due to diabetic nephropathy is being evaluated for XOLREMDI therapy. Is XOLREMDI appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with metastatic breast cancer is scheduled to receive her first dose of IMDELLTRA. What is the recommended duration for administering each intravenous infusion? Answer in hours.",2 hours,1 hour
+"
+
+A 52-year-old woman presents with symptoms of hypoparathyroidism and her physician is considering YORVIPATH as a treatment option. Based on current FDA approval, what is the appropriate age category for YORVIPATH administration? Answer with ""adults only"", ""pediatric only"", or ""adults and pediatric"".",Adults only,adults only
+"
+
+A 13-year-old male with moderate atopic dermatitis is being evaluated for EBGLYSS therapy. He weighs 38 kg. Is he eligible for treatment based on his current weight? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 16-year-old male weighing 52 kg is being started on AQNEURSA for his condition. What is the appropriate morning dose in grams?",1.04 grams,2 grams
+"
+
+A 52-year-old man weighing 85 kg is being started on NIKTIMVO therapy for his condition. What is the maximum single dose that can be administered to this patient? Answer in mg.",610 mg,35 mg
+"
+
+A 10-year-old male patient with WHIM syndrome is being evaluated for XOLREMDI treatment. Based on current age requirements, when will this patient become eligible for XOLREMDI therapy? Answer in years of age.",12 years of age,12 years of age
+"
+
+A 35-year-old woman with major depressive disorder is being evaluated for ZELSUVMI therapy. Are there any absolute contraindications to starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes. Hypersensitivity to zelsuvmi or components and concomitant use of MAOIs,"No, there are no contraindications"
+"
+
+A 35-year-old woman with chronic condition is prescribed LAZCLUZE but realizes she missed her morning dose 10 hours ago. What is the appropriate recommendation? Answer with either ""Take the missed dose"" or ""Skip the missed dose"".",Skip the missed dose,Take the missed dose
+"
+
+A 72-year-old man weighing 65 kg is being started on DUVYZAT for his condition. What is the appropriate twice-daily dose in both mg and mL? Express answer in format ""X mg (Y mL)"".",400 mg (2.5 mL),53.2 mg (6 mL)
+"
+
+A 12-year-old boy with treatment-resistant depression is being evaluated for potential medication options. Is IMDELLTRA an appropriate treatment choice for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with chronic liver disease is being evaluated to start DUVYZAT therapy. Which two laboratory tests must be obtained and evaluated before initiating treatment? List both tests separated by a comma.","Platelet count, HIV-1 status","Platelet counts, triglycerides"
+"
+
+A 28-year-old woman with paroxysmal nocturnal hemoglobinuria (PNH) and extravascular hemolysis is currently on eculizumab therapy. Her physician is considering adding VOYDEYA to her treatment regimen. Based on current FDA approval, is this patient eligible for VOYDEYA treatment? Answer ""Yes"" or ""No"".",Yes,Yes
+"
+
+A 35-year-old woman with chronic kidney disease is being evaluated for DUVYZAT therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 72-year-old woman with stage 4 chronic kidney disease (eGFR 25 mL/min) and metastatic breast cancer is being evaluated for LEQSELVI therapy. Is LEQSELVI appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 35-year-old woman with major depressive disorder is being prescribed REZDIFFRA. She asks about timing her doses with meals. What instructions should be given regarding food intake with REZDIFFRA? Answer with ""with food only"", ""without food only"", or ""with or without food"".","""With or without food""",with or without food
+"
+
+A 58-year-old woman with metastatic cancer is starting LAZCLUZE therapy. What is the recommended duration of treatment? Answer with the specific clinical endpoints that would warrant discontinuation.",Until disease progression or unacceptable toxicity,Treatment should continue until disease progression or unacceptable toxicity
+"
+
+A 52-year-old woman with locally advanced or metastatic RET-mutant medullary thyroid cancer is being evaluated for FLYRCADO therapy. Are there any absolute contraindications to starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes. Severe hypersensitivity to pralsetinib or any of the components,"No, there are no contraindications"
+"
+
+A 32-year-old woman with inflammatory bowel disease realizes she forgot to take her morning dose of TRYVIO 4 hours ago. What is the recommended course of action? Provide your answer in the format: ""Skip/Take missed dose"" followed by specific instructions about timing.",Take missed dose as soon as remembered,Skip missed dose and take next dose at regular scheduled time. Do not take two doses on the same day.
+"
+
+A 28-year-old woman presents to urgent care with dysuria, frequency, and suprapubic pain. After confirming uncomplicated UTI via urinalysis, you decide to prescribe ORLYNVAH. What is the recommended duration of therapy in days?",5 days,5 days
+"
+
+A 52-year-old woman with metastatic non-small cell lung cancer is being evaluated for VORANIGO therapy. Are there any absolute contraindications that would prevent starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes; hypersensitivity to VORANIGO or its components,"No, there are no absolute contraindications"
+"
+
+A 52-year-old woman with chronic constipation is being evaluated for YORVIPATH therapy. What is the recommended initial daily dose in mcg? Express the answer as a number followed by ""mcg"".",50 mcg,18 mcg
+"
+
+A 35-year-old woman with moderate plaque psoriasis has just finished showering and wants to apply SOFDRA to affected areas. How many minutes should she wait after showering before applying the medication? Answer as a single number in minutes.",30,30
+"
+
+A 7-year-old boy presents with severe axillary sweating that is affecting his daily activities and social interactions. His parents are inquiring about SOFDRA treatment. Based on current FDA approval, is this patient eligible for SOFDRA therapy? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 67-year-old man with end-stage renal disease on hemodialysis is being evaluated for TRYVIO therapy for his condition. Is TRYVIO appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 14-year-old male with treatment-resistant depression is being evaluated for potential medication options. Is LEQSELVI an appropriate treatment option for this patient? Answer with ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man requires imaging studies for suspected metastatic disease. If LUMISIGHT is being considered as the imaging agent, what is the appropriate dose based on his actual body weight of 85 kg? Answer in total mg.",170 mg,85 mg
+"
+
+A 55-year-old woman with osteoporosis is being evaluated for YORVIPATH therapy. She reports a previous severe allergic reaction to palopegteriparatide that required hospitalization. What is the appropriate next step in management? Answer with ""proceed"" or ""contraindicated"".",Contraindicated,contraindicated
+"
+
+A 35-year-old woman with major depressive disorder is being evaluated for REZDIFFRA therapy. List all absolute contraindications that would prevent her from receiving this medication (write ""none"" if there are no absolute contraindications).",None,none
+"
+
+A 35-year-old woman presents with multiple molluscum contagiosum lesions on her trunk and is prescribed ZELSUVMI treatment. What is the maximum duration of treatment in weeks? Express as a single number.",12,12
+"
+
+A 52-year-old man with chronic pain is being evaluated for VAFSEO therapy. His blood pressure readings over the past week have been consistently 165/100 mmHg despite being on antihypertensive medications. Is VAFSEO appropriate to prescribe in this case? Answer with ""Yes"" or ""No"" and provide the primary reason.","No, due to uncontrolled hypertension",No; uncontrolled hypertension is an absolute contraindication for VAFSEO
+"
+
+A 52-year-old man with chronic kidney disease is being started on DUVYZAT therapy. What is the correct timing of administration with respect to meals? Specify frequency and relationship to food in your answer.",Once daily with the evening meal,Twice daily with food
+"
+
+A 67-year-old man with suspected coronary artery disease is scheduled for same-day rest and pharmacologic stress myocardial perfusion imaging using FLYRCADO. What is the recommended administered activity for the stress portion of the study? Express your answer as a range in MBq and include mCi in parentheses.",259-925 MBq (7-25 mCi),222 MBq to 241 MBq (6 mCi to 6.5 mCi)
+"
+
+A 35-year-old woman with metastatic breast cancer is being evaluated for REVUFORJ therapy. Are there any absolute contraindications that would prevent starting this medication? Answer ""Yes"" or ""No"" and list any contraindications if present.",Yes; severe hypersensitivity to tucatinib,"No, there are no contraindications"
+"
+
+A 34-year-old woman with suspected breast cancer is being evaluated for LUMISIGHT imaging. Based on the clinical trial data, is she within the studied age range for this medication? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 52-year-old woman with major depressive disorder is being prescribed TRYVIO. What is the physical appearance and strength of the tablet she will receive? Describe the color, shape, and strength in mg.","Mustard yellow to yellow, round tablet debossed with “OL” above “150” on one side — 150 mg","12.5 mg yellow to orange round, film-coated tablet"
+"
+
+A 32-year-old woman with hyperhidrosis is prescribed SOFDRA for excessive underarm sweating. After her morning application of SOFDRA, what is the minimum time in hours she must wait before showering? Answer as a single number.",6,8
+"
+
+A 35-year-old woman taking ORLYNVAH for her condition realizes she missed her morning dose 6 hours ago. What specific instructions should be given to the patient regarding the missed dose? Provide answer in two parts: 1) what to do with missed dose, 2) what not to do.","1) Skip the missed dose and take the next dose at the regular time.
+2) Do not take two doses on the same day.","1) Take the missed dose as soon as possible
+2) Do not double the dose to make up for the missed dose"
+"
+
+An 82-year-old woman with chronic pain is being evaluated for LUMISIGHT therapy. What dose adjustment, if any, is required for her age? Answer with either ""No adjustment needed"" or specify the required adjustment as a percentage of standard dose.",No adjustment needed,No adjustment needed
+"
+
+A 58-year-old woman with anemia has been taking VOYDEYA 100 mg three times daily for 4 weeks. Her hemoglobin has increased by only 1.2 g/dL from baseline. What is the appropriate dose adjustment for VOYDEYA in mg per dose? Answer in the format ""X mg three times daily"" where X is a number.",150 mg three times daily,200 mg three times daily
+"
+
+A 62-year-old man with Child-Pugh C cirrhosis is being evaluated for VOYDEYA therapy for his condition. Based on his severe hepatic impairment, what is the appropriate prescribing decision? Answer with ""prescribe"" or ""do not prescribe"".",Do not prescribe,do not prescribe
+"
+
+A 32-year-old male with WHIM syndrome is being evaluated for XOLREMDI therapy. What is the available capsule strength for XOLREMDI? Provide the answer in mg per capsule.",300 mg per capsule,100 mg per capsule
+"
+
+A 52-year-old woman with metastatic breast cancer is being evaluated for LEQSELVI therapy. Her genetic testing reveals she is a CYP2C9 poor metabolizer. Is LEQSELVI appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with moderate to severe anemia is being treated with VAFSEO and requires dose adjustments. What is the minimum time interval required between dose increases? Answer in weeks.",4 weeks,4 weeks
+"
+
+A 58-year-old woman with advanced non-small cell lung cancer is being initiated on LAZCLUZE in combination with amivantamab. What is the recommended daily oral dose of LAZCLUZE in mg? Specify the frequency of administration.",80 mg once daily,240 mg once daily
+"
+
+A 52-year-old woman with major depressive disorder is being evaluated for XOLREMDI therapy. She is currently taking paroxetine, which is primarily metabolized by CYP2D6. What is the appropriate clinical action regarding these medications? Answer with ""continue both"", ""discontinue paroxetine"", or ""do not start XOLREMDI"".",Do not start XOLREMDI,do not start XOLREMDI
+"
+
+A 67-year-old man with newly diagnosed myelodysplastic syndrome (MDS) is being evaluated for RYTELO therapy. What is the recommended dosage and administration schedule? Specify the dose in mg/kg, infusion duration in hours, and frequency in weeks.",7 mg/kg as an intravenous infusion over 2 hours every 4 weeks,7.1 mg/kg administered as an intravenous infusion over 2 hours every 4 weeks
+"
+
+A community oncologist is reviewing demographic data for KISUNLA clinical trials to determine if the study population matches their practice demographics. What percentage of trial participants were aged 65 years or older? Express your answer as a whole number percentage (X%).",77%,90%
+"
+
+A 16-year-old female presents with symptoms of an uncomplicated urinary tract infection and limited treatment options. Is ORLYNVAH an appropriate treatment option for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 10-month-old boy presents with multiple small, flesh-colored, dome-shaped papules on his trunk that were diagnosed as molluscum contagiosum. Is ZELSUVMI appropriate for this patient based on age? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with metastatic breast cancer is prescribed ORLYNVAH for treatment. When instructing the patient about medication administration, what is the recommended timing in relation to meals? Answer with either ""with food"" or ""without food"".",Without food,with food
+"
+
+A 52-year-old man with chronic myeloid leukemia has a white blood cell count of 35 Gi/L and is being evaluated for REVUFORJ therapy. What is the target WBC count that must be achieved before initiating REVUFORJ? Answer in Gi/L.",25 Gi/L,Less than 25 Gi/L
+"
+
+A 16-year-old male with extensive stage small cell lung cancer who has progressed after platinum-based chemotherapy is being evaluated for IMDELLTRA therapy. Is IMDELLTRA indicated for this patient based on age? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old woman with metastatic breast cancer has completed her initial three doses of KISUNLA. What is the recommended maintenance dose going forward? Answer in mg and specify the frequency.",400 mg every four weeks,1400 mg every four weeks
+"
+
+A 52-year-old woman is scheduled to receive LETYBO injections for moderate to severe glabellar lines. What is the correct volume to be administered per injection site? Answer in mL.",0.1 mL,0.1 mL
+"
+
+A 32-year-old woman with primary axillary hyperhidrosis is prescribed SOFDRA gel for topical application. What volume of gel in mL and amount of sofpironium in mg is delivered with each pump actuation? Express your answer in the format ""X mL containing Y mg"" where X and Y are numbers.",0.2 mL containing 10 mg,0.67 mL containing 72 mg
+"
+
+A 72-year-old man weighing 85 kg is being started on XOLREMDI therapy for his condition. What is the appropriate daily oral dose in mg? Specify the numeric value only.",600,400
+"
+
+A 52-year-old woman with chronic endocrine disorder is being initiated on YORVIPATH therapy. What is the maximum recommended daily dose in mcg? Express the frequency as ""once daily,"" ""twice daily,"" or ""three times daily.""",150 mcg once daily,30 mcg once daily
+"
+
+A geriatric oncologist is reviewing eligibility criteria for KISUNLA therapy. A 57-year-old male with advanced cancer is being considered for treatment. Based on the age criteria from clinical trials, is this patient eligible for KISUNLA therapy? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 52-year-old woman with chronic gastrointestinal disease is currently on YORVIPATH therapy and requires a dose adjustment. What is the minimum amount by which her dose should be adjusted? Answer in mcg.",50 mcg,3 mcg
+"
+
+A 52-year-old woman with metastatic breast cancer is scheduled to receive her first dose of NIKTIMVO. What is the recommended duration for administering each intravenous infusion? Answer in minutes.",30 minutes,30 minutes
+"
+
+A 52-year-old man with Child-Pugh class C cirrhosis and moderate psoriasis is being evaluated for TRYVIO therapy. Is TRYVIO appropriate for this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 52-year-old man weighing 105 kg with chronic inflammatory condition is being treated with REZDIFFRA and gemfibrozil (a moderate CYP2C8 inhibitor). What is the appropriate daily dosage of REZDIFFRA for this patient? Answer in mg per day.",80 mg per day,80 mg per day
+"
+
+A 52-year-old man with chronic neuropathic pain is started on YORVIPATH and requires dose adjustments. What is the minimum required interval between dose increases? Answer in days.",7 days,7 days
+"
+
+A 52-year-old man weighing 105 kg with major depressive disorder is being evaluated for REZDIFFRA therapy. What is the appropriate daily oral dose in mg? Express the answer as a single number.",100,100
+"
+
+A 15-year-old male presenting with symptoms of schizophrenia is being evaluated for COBENFY treatment. Is COBENFY appropriate for this patient based on approved age indications? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 32-year-old woman with hyperhidrosis plans to start SOFDRA treatment for her axillary hyperhidrosis. She typically shaves her armpits daily. What is the minimum time she should wait after shaving before applying SOFDRA? Answer in hours.",At least 24 hours,8 hours
+"
+
+A 35-year-old woman with moderate obesity is being evaluated for MIPLYFFA therapy for weight management. List all absolute contraindications that would prevent her from starting this medication. If none exist, write ""None.""",None,None
+"
+
+A 14-year-old girl weighing 45 kg with chronic kidney disease is being evaluated for XOLREMDI therapy. What is the appropriate oral daily dose in mg? Specify the numeric value only.",150,300
+"
+
+A 52-year-old man receiving NIKTIMVO therapy develops Grade 3 AST elevation with Grade 1 total bilirubin. After his liver enzymes recover to Grade 2, what is the appropriate reduced dosage of NIKTIMVO? Express the answer in mg/kg and include the maximum dose in mg and frequency.",0.8 mg/kg (maximum 90 mg) every 2 weeks,0.2 mg/kg (maximum 23 mg) every 2 weeks
+"
+
+A 32-year-old woman with major depressive disorder is being prescribed VOYDEYA. The patient is concerned about timing her doses around meals. What instructions should be given regarding food intake with VOYDEYA? Answer with ""with food only"", ""without food only"", or ""with or without food"".","""With or without food""",with or without food
+"
+
+A 6-year-old boy weighing 20 kg is being evaluated for treatment with AQNEURSA. How many total doses per day should be administered? Answer as a single number.",2,2
+"
+
+A 52-year-old man with advanced myelofibrosis is starting REVUFORJ therapy and showing initial response. What is the minimum recommended duration of treatment in months, assuming no disease progression or unacceptable toxicity occurs? Provide answer as a single number.",6,6
+"
+
+A 67-year-old woman with CrCL of 20 mL/min is being evaluated for ORLYNVAH therapy for her condition. Based on her renal function, what dose adjustment is required? Answer ""no adjustment"" if none required or specify the adjusted dose as a percentage of standard dose.",60% of standard dose,no adjustment
+"
+
+A 67-year-old man is scheduled for diagnostic imaging and requires LUMISIGHT administration. Over what duration in minutes should the intravenous injection be administered? Provide the answer as a single number.",3,3
+"
+
+A 52-year-old man weighing 85 kg is being evaluated for NIKTIMVO therapy. What is the appropriate dose in mg for this patient? (Round to nearest whole number)",240 mg,35 mg
+"
+
+A 52-year-old woman with metastatic breast cancer is scheduled to begin KISUNLA therapy. What is the recommended duration for administering each intravenous infusion? Answer in minutes.",30 minutes,30 minutes
+"
+
+A 35-year-old woman with chronic pain is prescribed COBENFY for management. When instructing the patient about medication timing relative to meals, what should you tell her? Format your answer as ""at least X [before/after] meals"" where X includes both time and units.",At least 30 minutes after meals,at least 1 hour before meals OR at least 2 hours after meals
+"
+
+A 67-year-old man with end-stage renal disease on hemodialysis is being initiated on VAFSEO therapy for anemia management. What is the appropriate starting dose in mg? Specify the dose and frequency in the format ""X mg once daily.""",300 mg once daily,300 mg once daily
+"
+
+A 52-year-old man weighing 75 kg with chronic myeloid leukemia is prescribed REVUFORJ while concurrently taking ketoconazole for a fungal infection. What is the appropriate REVUFORJ dosage? Specify the dose in mg and frequency per day.",100 mg once daily,160 mg orally twice daily
+"
+
+A 14-year-old boy with refractory leukemia is being evaluated for KISUNLA therapy. Is KISUNLA currently FDA-approved for use in this patient? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 35-year-old woman has been prescribed LETYBO injections for moderate to severe glabellar lines. After reconstituting the medication in your clinic, what is the maximum timeframe within which you must administer the injection? Answer in hours.",24 hours,24 hours
+"
+
+A 52-year-old man with metastatic cancer is being evaluated to start VYLOY therapy. What is the recommended initial dosage for his first treatment? Answer in mg/m2.",960 mg/m2,800 mg/m2
+"
+
+A 6-year-old boy diagnosed with Niemann-Pick disease type C is being evaluated for AQNEURSA treatment. His weight is 14 kg. Is he eligible for AQNEURSA based on weight requirements? Answer ""Yes"" or ""No"".",Yes,No
+"
+
+A 7-year-old boy weighing 25 kg with a condition requiring DUVYZAT therapy is being evaluated. What is the appropriate twice-daily dose in mg and mL? Format your answer as ""X mg (Y mL) twice daily"" where X and Y are numbers.",150 mg (2.5 mL) twice daily,31 mg (3.5 mL) twice daily
+"
+
+A 35-year-old woman with hyperlipidemia is being evaluated for NIKTIMVO therapy. List all absolute contraindications that would prevent her from receiving this medication. If none exist, write ""None.""",None,None
+"
+
+A 6-year-old boy weighing 25 kg is diagnosed with a condition requiring MIPLYFFA in combination with miglustat. What is the recommended oral dosage of MIPLYFFA in mg that should be administered per dose? Specify the frequency of administration in your answer using the format ""X mg Y times per day"".",150 mg 2 times per day,62 mg three times per day
+"
+
+A 16-year-old male with locally advanced non-small cell lung cancer is being evaluated for LAZCLUZE therapy. Is this patient eligible for LAZCLUZE treatment based on age criteria alone? Answer ""Yes"" or ""No"".",No,No
+"
+
+A 35-year-old woman with moderate acne is prescribed ZELSUVMI topical gel treatment. What is the exact volume in mL that should be dispensed from each tube (Tube A and Tube B) for a single application? Express your answer as a single number.",0.5,0.5
+"
+
+A 72-year-old woman with chronic pain is being evaluated for COBENFY therapy. What is the maximum recommended daily dosage? Express the answer in mg/mg format for both doses given per day (e.g., ""X mg/Y mg + X mg/Y mg"").",700 mg/80 mg + 700 mg/80 mg,100 mg/20 mg + 100 mg/20 mg
+"
+
+A 67-year-old woman with non-CF bronchiectasis is prescribed OHTUVAYRE inhalation suspension. What is the concentration of the medication in each unit-dose ampule? Express your answer in mg/mL.",50 mg/8 mL (6.25 mg/mL),1.2 mg/mL
+"
+
+A 67-year-old man requires imaging studies for suspected metastatic disease and is scheduled to receive LUMISIGHT. How many hours before the imaging procedure should LUMISIGHT be administered? Express your answer as a range in the format ""X-Y hours"".",2-4 hours,2-6 hours

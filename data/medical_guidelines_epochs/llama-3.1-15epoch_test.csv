@@ -1,0 +1,484 @@
+input,answer,model_response
+"A 35-year-old male chronic cannabis user presents with early signs of CHS, experiencing mild gastrointestinal discomfort and restlessness. He is in the prodromal phase of the syndrome. Which three medication classes are recommended for acute symptom management? List in a comma-separated format.","Triptans, H1-antihistamines, benzodiazepines","For the prodromal phase of Cannabinoid Hyperemesis Syndrome (CHS), the recommended classes of abortive medications are:
+
+Metoclopramide, Ondansetron, and Haloperidol."
+"You are seeing a newborn whose mother tested positive for hepatitis C virus during pregnancy. The parents ask about the timing of future HCV testing for their baby. What is the recommended age range in months for the initial nucleic acid test (NAT), and what is the follow-up protocol if this test shows undetectable HCV RNA? Express the testing window as ""X-Y months"" where X and Y are numbers.",2-6 months for initial testing; no further testing needed if the first NAT is negative (undetectable HCV RNA),"For infants born to mothers with hepatitis C virus (HCV) infection, the American Academy of Pediatrics recommends the following testing schedule:
+
+- The first HCV nucleic acid test (NAT) should be performed at 1-2 months of age.
+- If the test is negative, the next test should be scheduled at 3-4 months of age.
+- If the test is still negative, further testing is not recommended unless there are other risk factors or clinical concerns.
+
+This testing schedule is based on the understanding that HCV is not typically transmitted from mother to child, and the risk of transmission decreases significantly after the first few months of life."
+"A 58-year-old female is diagnosed with acute aortic dissection following presentation with tearing chest pain and hemodynamic instability. For standardized documentation of the dissection's anatomical extent, which zonal classification system should be utilized? Provide the specific name of the classification system.",Ishimaru zones,"The Stanford classification system should be used to document the extent of the aortic dissection in the medical record. 
+
+The Stanford classification system classifies aortic dissections into two types:
+
+- Type A: Involves the ascending aorta and may extend into the descending aorta.
+- Type B: Involves the descending aorta only, distal to the left subclavian artery.
+
+This classification system is widely used in clinical practice to guide management decisions."
+You are performing a targeted neonatal echocardiogram (TNE) on a 58-year-old male with suspected pulmonary arterial hypertension. Which specific measurements and evaluations must be included in this standard TNE study? Please list all required components separated by commas.,"Continuous-wave Doppler of TR and/or PI jet, systolic EI, PA Doppler waveform for PVR index, evaluation of notching in PA Doppler waveform",I'm unable to verify the required components for a standard TNE examination.
+"An 8-month-old male infant is brought to clinic with ongoing eczema that has persisted despite consistent moisturizer application over the past 6 weeks. His mother reports continued itching and redness on his face and trunk despite proper skincare routine. Which class of topical medication should now be added to his treatment plan? List the drug class and two specific medication options, separated by a comma.","Topical calcineurin inhibitors, pimecrolimus, tacrolimus","For a 6-month-old female with persistent atopic dermatitis, the next recommended topical medication to add to her treatment regimen would be a topical corticosteroid. 
+
+Topical corticosteroids are a class of medications that help reduce inflammation and itching associated with atopic dermatitis. 
+
+Two medication options for topical corticosteroids are:
+
+Hydrocortisone 1% cream (a mild corticosteroid) or Betamethasone valerate 0.1% cream (a moderate-strength corticosteroid)."
+You are evaluating a newborn in the nursery whose mother tested positive for HIV during pregnancy and received appropriate treatment. Which congenital viral infection must be specifically screened for in this infant? State the full name of the virus.,Congenital cytomegalovirus,"For a 2-day-old infant born to an HIV-positive mother who received antiretroviral therapy throughout pregnancy, the recommended viral screening test is the HIV-1 DNA polymerase chain reaction (PCR) test. 
+
+This test detects the presence of the Human Immunodeficiency Virus type 1 (HIV-1) genetic material in the infant's blood. It is a highly sensitive and specific test that can detect HIV-1 infection even if the mother's antiretroviral therapy has suppressed the virus. 
+
+The HIV-1 DNA PCR test is typically performed on the infant's blood at 14 to 21 days of age, but it can be done as early as 2 days of age in high-risk situations, such as when the mother's viral load is not well-controlled or if the infant shows signs of HIV infection."
+"You are evaluating a 16-year-old male who has recently started showing behavioral changes at school and home. His grades have dropped, and he appears more withdrawn than usual. Which screening tools should be administered during this visit? List all recommended screenings separated by commas.","Substance use disorder screening, depression screening","For a 15-year-old female presenting with changes in mood and academic performance, the following screenings are recommended:
+
+Screening for depression, anxiety, eating disorders (such as anorexia nervosa and bulimia nervosa), substance use, suicidal ideation, and sleep disorders, as well as a review of her menstrual cycle and reproductive health, including human papillomavirus (HPV) vaccination status, and a discussion about safe sex practices and emergency contraception."
+"During a prenatal visit, a healthy 28-year-old primigravida at 30 weeks gestation inquires about receiving the Abrysvo RSV vaccine to protect her future newborn. According to current recommendations, at what gestational age in completed weeks should this vaccine be given?",36 weeks,The Abrysvo RSV vaccine is administered at 32 weeks gestation.
+"A 52-year-old computer programmer has just completed carpal tunnel release surgery. Her family asks about scheduling supervised physical therapy sessions for her recovery. What is the current evidence-based recommendation regarding postoperative supervised therapy? Respond with ""Indicated"" or ""Not indicated"" followed by a brief explanation.",Not indicated - postoperative supervised therapy should not be routinely prescribed after carpal tunnel release.,"Recommend gentle, supervised therapy within 1-2 weeks postoperatively. 
+
+This recommendation is based on the fact that the patient has undergone surgery, and early mobilization is crucial to prevent stiffness and promote healing. Gentle supervised therapy can help the patient regain range of motion, strength, and function in the affected hand and wrist, while minimizing the risk of complications such as hematoma or nerve damage."
+A 32-year-old woman is diagnosed with postpartum hemorrhage immediately after cesarean delivery. Your facility has partial access to the PPH treatment bundle interventions. What is the maximum acceptable time interval in minutes between PPH diagnosis and initiation of available bundle components? Provide answer as a single numerical value in minutes.,15 minutes,"For a woman diagnosed with postpartum hemorrhage (PPH) due to uterine atony, the available treatment bundle components should be initiated within 5 minutes."
+"A 28-year-old man comes to the emergency department with symptoms suggestive of influenza, including fever and respiratory symptoms. When performing respiratory virus testing, whose specific testing protocol recommendations should be followed?",FDA-approved manufacturers' recommendations,"According to current guidelines, the clinician should follow the recommendations from the Infectious Diseases Society of America (IDSA) and the American College of Emergency Physicians (ACEP) for testing respiratory viruses.
+
+However, the most relevant recommendations for testing respiratory viruses come from the Centers for Disease Control and Prevention (CDC). The CDC recommends a multiplex reverse transcription-polymerase chain reaction (RT-PCR) panel that includes tests for influenza A and B, respiratory syncytial virus (RSV), adenovirus, human metapneumovirus (HMPV), and other common respiratory viruses.
+
+The CDC also recommends testing for SARS-CoV-2, the virus that causes COVID-19, using a nucleic acid amplification test (NAAT) or an antigen test, in addition to the multiplex RT-PCR panel.
+
+It's essential to note that testing protocols may vary depending on the patient's symptoms, exposure history, and local epidemiology. The clinician should consult with local health authorities and follow the most up-to-date guidelines for testing respiratory viruses."
+"A 15-year-old girl with a history of atopic dermatitis presents with acute worsening of symptoms and requests a prescription for a new medication. Before prescribing any new therapy, what five sequential steps should be completed? Present your answer as a numbered list (1-5).",1. Confirm correct diagnosis and identify any complicating diagnoses2. Provide education about the disease and an action plan3. Address trigger avoidance4. Ensure proper medication use/adherence5. Encourage application of bland moisturizer titrated to symptomatic benefit (at least once daily),"Before prescribing a new therapy for the 7-year-old boy's worsening eczema, the following essential steps should be completed:
+
+1. **Thorough Medical History and Physical Examination**: A detailed medical history should be taken, including the duration and severity of the eczema, any previous treatments, and any potential allergens or triggers. A physical examination should also be performed to assess the extent and severity of the eczema, as well as any potential signs of infection or other underlying conditions.
+
+2. **Dermatological Evaluation**: A dermatologist should evaluate the patient to assess the severity of the eczema and determine if it meets the criteria for a specific diagnosis, such as atopic dermatitis. This evaluation will help guide the selection of the most appropriate treatment.
+
+3. **Review of Current Treatment and Adherence**: The patient's current treatment regimen, including the use of over-the-counter hydrocortisone cream, should be reviewed to determine if the patient is using it correctly and consistently. This will help identify any potential issues with adherence or technique that may be contributing to the worsening eczema.
+
+4. **Assessment of Potential Side Effects and Risks**: The potential side effects and risks associated with the new therapy should be carefully assessed, particularly in a child. This includes considering the potential for skin thinning, skin infections, and other adverse effects.
+
+5. **Development of a Comprehensive Treatment Plan**: A comprehensive treatment plan should be developed, taking into account the patient's medical history, physical examination, dermatological evaluation, review of current treatment, and assessment of potential side effects and risks. This plan should include not only the new therapy but also any necessary lifestyle modifications, such as avoiding allergens or triggers, and education on proper skin care and treatment technique."
+A 7-year-old male is receiving treatment for Hodgkin's lymphoma and requires cardiac monitoring. What are the three essential right ventricular parameters that should be evaluated during comprehensive echocardiographic surveillance? List your answer as three parameters separated by commas.,"Right ventricular size, right ventricular function, right ventricular systolic pressure","During comprehensive echocardiographic monitoring for a 12-year-old female undergoing chemotherapy for acute lymphoblastic leukemia, the three main cardiac parameters that should be assessed are:
+
+Left ventricular ejection fraction (LVEF), left ventricular shortening fraction (LV shortening fraction), and right ventricular function.
+
+However, the most commonly used parameter is the left ventricular ejection fraction (LVEF)."
+A 52-year-old woman with established peripheral arterial disease and familial hypercholesterolemia has been on maximally tolerated lipid-lowering therapy for the past year. Her current laboratory values show persistent elevation of LDL-C at 115 mg/dL and Lp(a) at 80 mg/dL. Which specific therapeutic procedure would be reasonable to implement at this time? Provide one specific treatment option.,Lipoprotein apheresis,Pegbozantinib.
+"A 32-year-old male with documented Cannabinoid Hyperemesis Syndrome (CHS) is currently between episodes and wants to prevent future attacks. He has no contraindications to medication therapy. What is the complete prophylactic regimen that should be prescribed, including medication classes and supplements? Include the minimum therapeutic dose of amitriptyline in mg/day.","Medications and supplements:1. Tricyclic antidepressants (TCAs)2. Anticonvulsants3. Mitochondrial supplements (vitamin B2, coenzyme Q10)Minimal effective dose of amitriptyline: 75-100 mg/day","For a patient with Cannabinoid Hyperemesis Syndrome (CHS) in the inter-episodic phase, the following medications and supplements can be considered for preventive treatment:
+
+**Medications:**
+
+1. **Amitriptyline**: A tricyclic antidepressant that has been shown to be effective in reducing symptoms of CHS. The minimal effective dose is typically 10-25 mg/day, but it can be titrated up to 50-75 mg/day as needed.
+2. **Gabapentin**: An anticonvulsant that can help reduce symptoms of nausea and vomiting.
+3. **Ondansetron**: A serotonin 5-HT3 receptor antagonist that can help prevent nausea and vomiting.
+4. **Metoclopramide**: A dopamine antagonist that can help stimulate gastric motility and prevent nausea and vomiting.
+
+**Supplements:**
+
+1. **Omega-3 fatty acids**: May help reduce inflammation and improve symptoms of CHS.
+2. **Vitamin B6**: May help reduce symptoms of nausea and vomiting.
+3. **Magnesium**: May help reduce symptoms of nausea and vomiting, and also help with muscle relaxation.
+4. **Ginger**: May help reduce symptoms of nausea and vomiting.
+5. **Acupuncture**: May help reduce symptoms of CHS, although more research is needed to confirm its effectiveness.
+
+**Other considerations:**
+
+1. **Cannabis cessation**: Encourage the patient to stop using cannabis, as this is a key factor in the development of CHS.
+2. **Heat therapy**: Encourage the patient to use heat therapy, such as taking warm baths or showers, to help reduce symptoms of CHS.
+3. **Lifestyle modifications**: Encourage the patient to make lifestyle modifications, such as maintaining a healthy diet, staying hydrated, and getting regular exercise, to help reduce symptoms of CHS.
+
+It's essential to note that each patient may respond differently to these medications and supplements, and the optimal treatment plan may need to be individualized. Additionally, patients with CHS should be monitored closely for signs of relapse, and treatment plans should be adjusted as needed."
+"A 72-year-old woman is being evaluated before scheduled abdominal surgery. She has type 2 diabetes and reports she can only walk one block before experiencing dyspnea. She has multiple cardiac risk factors and unknown exercise tolerance. Based on current guidelines, what is the recommended preoperative cardiac assessment? Answer with either ""proceed to surgery,"" ""perform stress testing,"" or ""refer to cardiology.""",perform stress testing,"The most appropriate next step in this patient's preoperative cardiac evaluation would be to ""obtain cardiology consultation."" 
+
+This patient has multiple cardiac risk factors, including poorly controlled diabetes and hypertension, and reports shortness of breath with minimal exertion, which suggests possible cardiac involvement. Given the complexity of his case, a cardiology consultation would be beneficial to assess his cardiac risk and determine the best approach for his preoperative evaluation. This may involve further testing, such as an echocardiogram or stress test, or a discussion about the risks and benefits of proceeding with surgery."
+"You are reviewing the validation protocol for a laboratory-developed PD-L1 expression test at your pathology department, which will be used for a 65-year-old male with metastatic melanoma. Which specific validation standards should be followed for this in-house developed test? Express your answer in the format ""Must follow requirements of [X]"" where X is the governing authority.",Must follow requirements of the laboratory's accrediting body,"According to the College of American Pathologists (CAP), the American Society of Clinical Oncology (ASCO), and the National Comprehensive Cancer Network (NCCN), for a laboratory-developed PD-L1 test to be considered valid, the following requirements must be followed:
+
+1. **Establish a reference range**: The laboratory must establish a reference range for PD-L1 expression in normal lung tissue or other relevant tissues.
+2. **Compare with a commercially available test**: The laboratory must compare its test results with those from a commercially available PD-L1 test, such as the Ventana SP263 or Dako 22C3 test, to ensure concordance.
+3. **Evaluate test performance**: The laboratory must evaluate the test's performance characteristics, including sensitivity, specificity, and concordance, using a sufficient number of tumor samples.
+4. **Establish a scoring system**: The laboratory must establish a scoring system to categorize PD-L1 expression levels, such as 0-100%.
+5. **Validate the test in a clinical setting**: The laboratory must validate the test in a clinical setting, including evaluating its performance in different patient populations and tumor types.
+6. **Document test performance**: The laboratory must document the test's performance characteristics, including the reference range, concordance with a commercially available test, and clinical validation.
+7. **Continuously monitor and improve the test**: The laboratory must continuously monitor and improve the test's performance, including re-evaluating the reference range and test performance characteristics as needed.
+
+According to the CAP, the laboratory must also follow the guidelines for laboratory-developed tests (LDTs) and ensure that the test is performed in accordance with the CAP's guidelines for PD-L1 testing.
+
+According to the NCCN, the laboratory must also ensure that the test is performed in accordance with the NCCN's guidelines for PD-L1 testing, including the use of a validated scoring system and the evaluation of test performance in a clinical setting.
+
+According to the ASCO, the laboratory must also ensure that the test is performed in accordance with the ASCO's guidelines for PD-L1 testing, including the use of a validated scoring system and the evaluation of test performance in a clinical setting."
+"A 62-year-old man presents with uncontrolled blood pressure (168/98 mmHg) despite adherence to maximum doses of amlodipine, lisinopril, and hydrochlorothiazide. His primary care physician is considering renal denervation as a treatment option. According to current guidelines, what type of clinical evaluation should be completed before proceeding with the procedure?",Evaluation by a multidisciplinary team,"The recommended first step in the evaluation process for a patient being considered for renal denervation therapy is to perform a thorough clinical assessment, specifically a comprehensive cardiovascular risk assessment. 
+
+This assessment should include:
+
+1. Review of the patient's medical history, including any previous cardiovascular events or procedures.
+2. Evaluation of the patient's current medications, including the doses and potential interactions.
+3. Assessment of the patient's blood pressure control, including home blood pressure monitoring data.
+4. Evaluation of the patient's renal function, including serum creatinine levels and estimated glomerular filtration rate (eGFR).
+5. Assessment of the patient's cardiovascular risk factors, including diabetes, hyperlipidemia, and smoking status.
+6. Evaluation of the patient's left ventricular hypertrophy (LVH) status, if applicable.
+7. Review of the patient's imaging studies, such as echocardiograms or cardiac MRIs, if available.
+
+This comprehensive assessment will help the healthcare provider to determine if the patient is a suitable candidate for renal denervation therapy and to identify any potential contraindications or comorbidities that may impact the treatment's effectiveness or safety."
+"A 75-year-old man is brought to urgent care with acute respiratory distress due to pneumonia. His SpO2 is 91% breathing ambient air. Based on current recommendations for symptom reduction, what decision regarding supplemental oxygen therapy should be made? Answer with either ""administer oxygen"" or ""withhold oxygen"" or ""either approach acceptable"".",either approach acceptable,"Withhold oxygen. 
+
+The patient's oxygen saturation is 92% on room air, which is within the normal range. Administering supplemental oxygen in this case may not provide significant benefits for symptom management and could potentially increase the risk of hypercapnia and respiratory acidosis in patients with COPD."
+"You are the director of an SMA specialty care center that has just received a referral for a 2-day-old infant with a positive newborn screen for spinal muscular atrophy. What are the mandatory services your center must provide for this patient? List all required services, separated by semicolons (;).",Initial evaluation within 2 days; follow-up visits; access to treatment options; confirmatory diagnostic testing; education and resources for caregivers; coordination with primary care provider and other specialists,"For a 3-day-old newborn with a positive spinal muscular atrophy (SMA) newborn screening test, the following services must be provided by the SMA specialty care center:
+
+Genetic counseling and testing to confirm the diagnosis and determine the type of SMA (e.g., SMA type 1, 2, or 3); 
+Confirmation of the genetic mutation through genetic testing (e.g., sequencing or deletion/duplication analysis); 
+Discussion of the prognosis and expected disease course; 
+Explanation of the natural history of SMA and the potential impact on the child's quality of life; 
+Review of the current treatment options, including nusinersen, onasemnogene abeparvovec, and risdiplam; 
+Discussion of the potential benefits and risks of treatment, including the possibility of side effects and the need for ongoing monitoring; 
+Development of a treatment plan, including the initiation of treatment and the schedule for follow-up appointments; 
+Referral to a multidisciplinary team of healthcare professionals, including a pediatrician, physical therapist, occupational therapist, and speech therapist; 
+Coordination of care with the child's primary care physician and other specialists as needed; 
+Education on the importance of ongoing monitoring and follow-up care, including regular assessments of the child's motor function and respiratory status; 
+Discussion of the need for a feeding tube and other supportive care measures, such as respiratory support and physical therapy; 
+Explanation of the importance of family support and resources, including access to SMA support groups and online communities; 
+Development of a plan for ongoing communication and collaboration with the child's family and healthcare team; 
+Referral to a genetic counselor for family planning and reproductive options; 
+Discussion of the potential impact of SMA on the child's siblings and other family members; 
+Education on the importance of ongoing research and clinical trials in SMA."
+A 32-year-old man is diagnosed with H. pylori infection through a positive stool antigen test. He has no history of previous H. pylori treatment. Specify the complete four-drug combination therapy and duration in days that represents the preferred initial treatment regimen.,"Bismuth salt, metronidazole (or tinidazole), tetracycline, and a proton-pump inhibitor (PPI) for 14 days","The recommended first-line treatment regimen for a Helicobacter pylori infection is a combination of antibiotics and acid-suppressing medications. The standard treatment regimen consists of:
+
+1. **Amoxicillin** (500 mg orally twice daily for 10 days): This is a broad-spectrum antibiotic that targets H. pylori.
+2. **Clarithromycin** (500 mg orally twice daily for 10 days): This is another antibiotic that targets H. pylori.
+3. **Omeprazole** (20 mg orally once daily for 10 days): This is a proton pump inhibitor (PPI) that reduces stomach acid production, making it easier for the antibiotics to reach the bacteria.
+4. **Metronidazole** (500 mg orally twice daily for 10 days): This is an antibiotic that targets H. pylori, particularly in cases where clarithromycin is not suitable.
+
+However, in some regions, the recommended first-line treatment regimen may be different due to antibiotic resistance. It's essential to consult local guidelines or a healthcare professional for the most up-to-date recommendations.
+
+In the United States, the American College of Gastroenterology recommends a 10-day treatment regimen with a combination of amoxicillin, clarithromycin, and a PPI (such as omeprazole or lansoprazole). Metronidazole is not always included in the first-line regimen, but it may be added if there is a high risk of clarithromycin resistance.
+
+It's also worth noting that a 14-day treatment regimen with a combination of amoxicillin, clarithromycin, and a PPI is also recommended for patients with a high risk of treatment failure."
+"A 54-year-old female is admitted to the ICU following successful cardiopulmonary resuscitation after an in-hospital cardiac arrest. On examination, she remains comatose and cannot follow verbal commands. The critical care team is considering neurological monitoring options. Which form of EEG monitoring is currently recommended in this scenario? Specify either ""spot EEG"" or ""continuous EEG"" in your answer.",spot EEG,"Continuous EEG should be performed. This is because the patient remains unresponsive and unable to follow commands after return of spontaneous circulation, which suggests a high risk of ongoing seizure activity or other acute neurological conditions. Continuous EEG monitoring allows for real-time detection of seizure activity and other abnormalities, enabling timely intervention and management."
+"A 45-year-old woman with chronic gout is being evaluated for treatment response. Her rheumatologist wants to assess both crystal deposits and inflammatory changes. What imaging techniques are available for monitoring her condition, and what specific features can each technique evaluate? Format your response as ""imaging technique: assessable features"".",Ultrasound: crystal deposition and inflammationDECT (Dual-Energy CT): crystal depositionCR (Conventional Radiography): structural damage,"For monitoring gout treatment progress, the following imaging modalities can be used:
+
+1. **Dual-energy computed tomography (DECT):** Assessment of urate crystal deposits, tophi, and joint inflammation; can also monitor the effectiveness of urate-lowering therapy.
+2. **High-resolution ultrasound (HRUS):** Assessment of joint inflammation, tophi, and urate crystal deposits; can also evaluate the presence of synovitis and joint damage.
+3. **Magnetic resonance imaging (MRI):** Assessment of joint inflammation, tophi, and joint damage; can also evaluate the presence of synovitis and cartilage damage.
+4. **Plain radiography (X-ray):** Assessment of joint damage, tophi, and bone erosion; can also evaluate the presence of osteoarthritis or other joint conditions.
+5. **Single-photon emission computed tomography (SPECT):** Assessment of joint inflammation and tophi; can also evaluate the presence of synovitis and joint damage.
+
+These imaging modalities can help monitor the effectiveness of urate-lowering therapy and assess the presence of joint damage or inflammation. However, it's essential to note that imaging should be used in conjunction with clinical evaluation and laboratory tests to assess treatment progress."
+"Your emergency department receives an 82-year-old male with a mechanical fall and head injury. He has diabetes and hypertension. What standardized protocol should your trauma center have established and be tracking compliance with for elderly trauma patients? Answer in the format: ""Implementation and monitoring of [specific protocol name]""",Implementation and monitoring of geriatric trauma activation criteria,"Implementation and monitoring of a Trauma Anticoagulation Reversal Protocol (TARP) or a specific protocol for managing anticoagulation in trauma patients, such as the ""Warfarin Reversal Protocol"" or ""Anticoagulation Management in Trauma (AMIT) Protocol"".
+
+This protocol should include the following components:
+
+1. **Initial Assessment**: Rapid assessment of the patient's anticoagulation status, including INR (International Normalized Ratio) levels, and identification of any other anticoagulant medications being taken.
+2. **Anticoagulation Reversal**: Administration of vitamin K and/or fresh frozen plasma (FFP) to reverse warfarin anticoagulation, as per the protocol guidelines.
+3. **Monitoring**: Continuous monitoring of the patient's INR levels, coagulation studies, and clinical status to ensure effective reversal of anticoagulation.
+4. **Communication**: Effective communication with the patient's primary care physician, cardiologist, and other healthcare providers to ensure a coordinated approach to managing anticoagulation.
+5. **Documentation**: Accurate and timely documentation of the patient's anticoagulation status, reversal efforts, and any complications or adverse events.
+
+The goal of this protocol is to ensure timely and effective reversal of anticoagulation in trauma patients taking warfarin, thereby minimizing the risk of bleeding complications and improving patient outcomes."
+"A 29-year-old woman living with HIV (viral load suppressed, CD4 count 600 cells/µL) reports anal pain and discomfort during her routine visit. On digital examination, the provider notes an area of irregularity. What is the appropriate initial screening test that should be performed? Provide the specific name of the diagnostic procedure.",Standard anoscopy,"Based on the patient's symptoms and history, a digital rectal examination (DRE) is recommended to assess for anal pathology, such as anal fissures or hemorrhoids. However, the most specific screening procedure for this patient's symptoms, particularly anal itching and occasional bleeding without a history of anal intercourse, is a High-Resolution Anoscopy (HRA)."
+"A 42-year-old male police officer develops PTSD after witnessing a traumatic incident during duty. He reports intrusive thoughts, avoidance behaviors, and sleep disturbances. His mental health provider is initiating treatment. Which therapeutic formats are contraindicated as the main treatment approach? List all contraindicated formats, separated by commas.","Group therapy, marital therapy, family therapy","For a 35-year-old female veteran with severe PTSD symptoms, the following therapy formats should be avoided as primary treatment:
+
+Group therapy, couples therapy, family therapy, psychodynamic therapy, and cognitive-behavioral therapy (CBT) without a trauma-informed approach, eye movement desensitization and reprocessing (EMDR) without proper training and supervision, and psychodynamic therapy without a trauma-informed approach.
+
+These formats may not be suitable for several reasons:
+
+1. Group therapy: It may trigger or exacerbate symptoms in a group setting, especially if the group is not trauma-informed.
+2. Couples therapy: It may not address the veteran's individual trauma and may put pressure on the relationship.
+3. Family therapy: It may not address the veteran's individual trauma and may put pressure on family relationships.
+4. Psychodynamic therapy: It may not be effective in addressing trauma symptoms and may even exacerbate them if not conducted in a trauma-informed manner.
+5. CBT without a trauma-informed approach: It may not address the underlying trauma and may even exacerbate symptoms if not conducted in a trauma-informed manner.
+6. EMDR without proper training and supervision: It requires specialized training and supervision to ensure safe and effective implementation.
+
+The primary treatment for severe PTSD symptoms should be trauma-informed therapies such as:
+
+- Trauma-focused CBT (TF-CBT)
+- Cognitive processing therapy (CPT)
+- Prolonged exposure (PE)
+- Eye movement desensitization and reprocessing (EMDR) with proper training and supervision
+- Dialectical behavior therapy (DBT)
+- Somatic experiencing (SE)
+
+These therapies should be conducted by a trained and experienced therapist in a safe and supportive environment."
+"During a routine check-up, a 15-year-old male's suicide screening comes back positive. What is the recommended sequence of clinical interventions that should be implemented? Present your answer as a numbered sequence of steps.",1. Conduct a Brief Suicide Safety Assessment (BSSA)2. Develop a safety plan with the patient3. Make appropriate referrals based on BSSA findings,"If a 17-year-old female screens positive on a suicide risk assessment questionnaire, the immediate next steps should be taken in the following order of priority:
+
+1. **Ensure the patient's immediate safety**: If the patient is in imminent danger of harming herself, call emergency services (such as 911 in the US) or have a trusted adult or mental health professional accompany her to the emergency department for further evaluation and stabilization.
+
+2. **Conduct a thorough risk assessment**: If the patient is not in immediate danger, conduct a more in-depth risk assessment to determine the level of risk and identify potential protective factors. This may involve asking more specific questions about suicidal thoughts, feelings, and behaviors.
+
+3. **Develop a crisis plan**: Collaborate with the patient and her family to develop a crisis plan that outlines steps to take in case of a suicidal crisis, including contact information for emergency services, mental health professionals, and trusted adults.
+
+4. **Refer to a mental health professional**: Refer the patient to a mental health professional, such as a therapist or counselor, for further evaluation and treatment. This may involve a psychiatric evaluation, medication management, or therapy.
+
+5. **Involve the patient's family and support system**: Involve the patient's family and support system in the crisis plan and treatment process, as they can play an important role in providing emotional support and helping the patient stay safe.
+
+6. **Document the patient's risk assessment and plan**: Document the patient's risk assessment, crisis plan, and treatment plan in her medical record, including any relevant contact information and follow-up appointments.
+
+7. **Follow up with the patient**: Schedule follow-up appointments with the patient to monitor her mental health and adjust the treatment plan as needed.
+
+8. **Consider hospitalization**: If the patient's risk assessment indicates a high level of risk, consider hospitalization for further evaluation and stabilization. This may involve a psychiatric hospital or a crisis stabilization unit.
+
+It's essential to note that these steps should be taken in collaboration with the patient and her family, and with the guidance of mental health professionals."
+"A 52-year-old female with massive intracranial hemorrhage is being evaluated for potential brain death determination. She is currently supported on ECMO, and the neurologist wants to proceed with BD/DNC testing. What blood pressure parameters must be met before initiating the brain death examination? Express the answer as ""systolic BP ≥X mm Hg and MAP ≥Y mm Hg"" where X and Y represent the minimum required values.",systolic BP ≥100 mm Hg and MAP ≥75 mm Hg,"For brain death/death by neurological criteria (BD/DNC) testing, the minimum blood pressure thresholds that must be achieved are:
+
+- Systolic BP ≥ 90 mm Hg
+- MAP ≥ 65 mm Hg
+
+These thresholds are generally accepted to ensure that the brain is not being perfused by blood pressure alone, and that the results of the BD/DNC testing are not influenced by external factors."
+"A 52-year-old man with interstitial lung disease presents with complaints of chronic fatigue affecting his quality of life. His respiratory symptoms are well-controlled with current medications, but fatigue persists. Which therapeutic intervention is most appropriate for managing his fatigue? Provide the complete name of the recommended therapy.",Graded exercise therapy,Pulmonary Rehabilitation.
+A 19-year-old male college student with type 1 diabetes is interested in upgrading his glucose monitoring system for better glycemic control. He asks about different continuous glucose monitoring options available. Which specific CGM system configuration should be recommended for optimal management? State the complete system type in your response.,Real-time CGM with algorithm-driven insulin pumps,"For a 24-year-old woman with type 1 diabetes, I would recommend the Medtronic Guardian Connect CGM system. This system is a flash glucose monitoring (FGM) system that provides real-time glucose data and trends, allowing for more effective diabetes management. It consists of a small sensor that is inserted under the skin, a transmitter that sends data to a mobile app, and a mobile app that displays glucose data and trends.
+
+The Guardian Connect system is a good option for this patient because it is a flash glucose monitoring system, which is less invasive than a continuous glucose monitoring (CGM) system with a subcutaneous glucose sensor. It also provides real-time glucose data and trends, which can help the patient make more informed decisions about their insulin dosing and lifestyle choices.
+
+Additionally, the Guardian Connect system is a good option for patients who are new to CGM, as it is relatively easy to use and requires minimal training. It also has a user-friendly mobile app that allows the patient to view their glucose data and trends, set alerts, and track their progress over time.
+
+It's worth noting that the Guardian Connect system is a flash glucose monitoring system, not a traditional CGM system. It provides glucose data and trends, but it does not provide continuous glucose data like a traditional CGM system. However, it is a good option for patients who are new to CGM or who are looking for a less invasive option."
+"A 32-year-old pregnant woman at 10 weeks gestation is newly diagnosed with HIV infection. Her laboratory results show CD4 count of 500 cells/µL and HIV viral load of 75,000 copies/mL. According to current guidelines, how is Bictegravir/FTC/TAF classified for initiating HIV treatment in this patient? Specify the classification as either ""Preferred,"" ""Alternative,"" or ""Not Recommended.""",Alternative,"Based on the current guidelines, Bictegravir/FTC/TAF is classified as a ""Preferred"" regimen for initial HIV therapy during pregnancy."
+"A 58-year-old man has been in remission from stage IIB lung cancer for the past year. During his follow-up appointment, he asks about different imaging tests for monitoring potential cancer recurrence. Which specific imaging technique is not recommended for routine surveillance in this setting? Provide the complete name of the imaging modality.",18F-labeled fluorodeoxyglucose positron emission tomography,"Computed Tomography (CT) scans with iodine-based contrast should be avoided for surveillance of potential cancer recurrence in this patient. This is because iodine-based contrast can cause thyroid-stimulating hormone (TSH) suppression, which may interfere with thyroid function tests and potentially lead to thyroid cancer or exacerbate existing thyroid disease."
+"A 45-year-old man visits your primary care office seeking to begin his COVID-19 vaccination series. He has no prior COVID-19 vaccinations. Which version of the COVID-19 vaccine should be used for his primary series? Express the answer as ""YYYY-YYYY formulation.""",2023-2024 monovalent formulation,"For a 28-year-old woman who has never received any COVID-19 vaccines before, the Centers for Disease Control and Prevention (CDC) recommends the use of a bivalent mRNA vaccine as the preferred vaccine for the primary series. 
+
+The bivalent mRNA vaccines, such as the Moderna COVID-19 Vaccine, Bivalent (2023-2024 formulation), and the Pfizer-BioNTech COVID-19 Vaccine, Bivalent Original and Omicron BA.4/BA.5 (2023-2024 formulation), are the preferred choices for the primary series. 
+
+However, if the bivalent mRNA vaccines are not available, the monovalent mRNA vaccines, such as the Moderna COVID-19 Vaccine (2022-2023 formulation), and the Pfizer-BioNTech COVID-19 Vaccine (2022-2023 formulation), can be used for the primary series.
+
+It's essential to note that the specific vaccine formulation and product year/version may vary depending on the country, region, or local health authority recommendations. Always consult the local health authority or the CDC guidelines for the most up-to-date information."
+A 45-year-old man has a history of recurrent lupus nephritis flares and progressive chronic kidney disease with an eGFR of 30 mL/min/1.73m². Which three immunosuppressive medications should be prescribed as the preferred regimen? List medications separated by commas.,"Belimumab, glucocorticoids, and either MPAA or reduced-dose cyclophosphamide","For a patient with lupus nephritis and severe chronic kidney disease, the preferred triple immunosuppressive regimen is often a combination of mycophenolate mofetil (MMF), intravenous cyclophosphamide (CYC), and prednisone (PRED). 
+
+MMF, CYC, and PRED are often used together in this context, but it's worth noting that the use of CYC may be limited due to its potential side effects and the availability of alternative agents. 
+
+A more contemporary approach might involve using MMF and PRED in combination with either rituximab (RTX) or belimumab (BEL), which are both B-cell depleting agents."
+"A 32-year-old pregnant patient in her second trimester with ulcerative colitis presents with severe abdominal distention, tachycardia, and peritoneal signs. Her CT scan suggests toxic megacolon. Based on current guidelines, what specific clinical criteria would warrant immediate surgical intervention? List all absolute surgical indications in descending order of urgency.",The absolute indications for emergency surgery are:1. Bowel perforation2. Complete bowel obstruction3. Toxic megacolon4. Massive hemorrhage5. Abscess not amenable to percutaneous drainageThese indications are identical to those for non-pregnant patients with IBD.,"In a patient with a known history of Crohn's disease and bowel obstruction, the indications for emergency surgery are as follows, listed in order of priority:
+
+1. **Bowel perforation**: This is the most critical indication for emergency surgery, as it poses a significant risk of peritonitis and sepsis. The presence of bowel perforation on imaging is an absolute indication for immediate surgical intervention.
+
+2. **Severe abdominal pain**: While abdominal pain is a common symptom in many conditions, severe pain in the context of bowel obstruction and known Crohn's disease may indicate a bowel perforation or ischemia, which are both absolute indications for surgery.
+
+3. **Signs of peritonitis**: Peritonitis is an inflammation of the peritoneum, often caused by a bacterial infection. In the context of bowel obstruction and known Crohn's disease, signs of peritonitis (such as fever, abdominal tenderness, and guarding) may indicate a bowel perforation or ischemia, which are both absolute indications for surgery.
+
+4. **Bowel ischemia**: Bowel ischemia occurs when the blood supply to the bowel is compromised, leading to tissue damage and potentially life-threatening complications. In the context of bowel obstruction and known Crohn's disease, bowel ischemia is an absolute indication for emergency surgery.
+
+5. **Severe sepsis or septic shock**: Severe sepsis or septic shock is a life-threatening condition that requires immediate medical attention. In the context of bowel obstruction and known Crohn's disease, severe sepsis or septic shock may indicate a bowel perforation or peritonitis, which are both absolute indications for surgery.
+
+6. **Intestinal obstruction with signs of strangulation**: Intestinal obstruction with signs of strangulation (such as severe pain, tenderness, and guarding) may indicate a bowel ischemia, which is an absolute indication for emergency surgery.
+
+It is essential to note that these indications are not mutually exclusive, and the presence of multiple indications may necessitate emergency surgery. The decision to operate should be made in consultation with a surgeon and based on the patient's individual clinical presentation and circumstances."
+"You are seeing a healthy 52-year-old woman for her routine check-up. Her last cardiovascular risk evaluation was completed 4 years ago. According to current guidelines, what is the appropriate interval range in years for performing atherosclerotic cardiovascular disease risk assessment? Provide the answer as a range in the format ""X-Y years.""",1-5 years,The recommended time interval for reassessing atherosclerotic cardiovascular disease (ASCVD) risk is every 4-6 years.
+A 75-year-old male with advanced pulmonary fibrosis is experiencing acute shortness of breath in the palliative care unit. His respiratory rate is 28 breaths per minute and he reports feeling anxious. What non-medication based management should be initiated first to alleviate his breathlessness? State the specific intervention and method of administration.,"Increased airflow, delivered via fan or increased ventilation","For a 68-year-old woman with end-stage COPD presenting with severe dyspnea, the immediate non-pharmacological intervention that should be implemented is oxygen therapy. However, since her oxygen saturation is 89% on room air, the primary intervention should be focused on reducing her work of breathing and improving her comfort.
+
+The immediate non-pharmacological intervention that should be implemented is a non-rebreather mask with a high flow of oxygen. However, given her end-stage COPD, the primary intervention should be focused on reducing her work of breathing and improving her comfort.
+
+The immediate non-pharmacological intervention that should be implemented is a high-flow nasal cannula (HFNC) with a flow rate of 30-40 L/min. This will help to reduce her work of breathing, improve her comfort, and increase her oxygen saturation."
+A 58-year-old female is diagnosed with a recurrence of bladder cancer during routine follow-up. Which two clinical evaluations must be completed and documented at this time? Present your answer as two items separated by a comma.,"Clinical staging, risk stratification (low/intermediate/high-risk)","The two required clinical assessments that must be performed and documented for a 65-year-old male with recurrent bladder cancer are:
+
+Urodynamic assessment, Computed Tomography (CT) urography or Magnetic Resonance Imaging (MRI) of the abdomen and pelvis.
+
+These assessments are necessary to evaluate the extent of the disease and plan the appropriate treatment."
+"You are evaluating a 52-year-old man with multiple risk factors for stroke in your clinic. Beyond traditional medical risk factor assessment, what additional screening domains should be evaluated to comprehensively assess his stroke risk? Provide your answer as a comma-separated list.","Social determinants of health screening, including food insecurity, lack of transportation","For a 45-year-old woman with hypertension and a family history of stroke, the following screening domains should be performed to identify additional stroke risk factors:
+
+Carotid intima-media thickness (CIMT), ankle-brachial index (ABI), lipid profile, fasting glucose, blood pressure, electrocardiogram (ECG), and carotid ultrasound.
+
+These screenings can help identify other risk factors for stroke, such as atherosclerosis, peripheral artery disease, dyslipidemia, and diabetes."
+"You are evaluating a 3-day-old infant with suspected patent ductus arteriosus (PDA). Which two cardiac imaging measurements are required to properly assess the hemodynamic significance of the ductal shunt? Present your answer in the format: ""1) [first measurement], 2) [second measurement]""","1) Left ventricular output (LVO) measurement, 2) Diastolic flow direction imaging both centrally and peripherally","To assess ductal shunt significance in a suspected patent ductus arteriosus (PDA), the following two specific measurements should be obtained:
+
+1) Left-to-right shunt ratio (or left-to-right flow ratio) - This can be estimated by comparing the left ventricular output (LVO) to the right ventricular output (RVO). A higher LVO/RVO ratio suggests a significant left-to-right shunt.
+
+2) Aortic isthmus diameter or the diameter of the ductus arteriosus - A larger diameter suggests a larger shunt and potentially a more significant PDA."
+"A 58-year-old man diagnosed with ANCA-associated vasculitis has completed 3 months of immunosuppressive treatment. He requires ongoing dialysis and shows no signs of vasculitis affecting other organ systems. Based on current recommendations, what is the appropriate management decision regarding his immunosuppressive therapy? Answer with either ""continue"" or ""discontinue"".",discontinue,"Discontinue. 
+
+Given that the patient remains dialysis-dependent and has no evidence of extrarenal disease manifestations, it is likely that the patient's kidneys are not recovering and the disease is not responding to immunosuppressive therapy. In such cases, the goal of treatment shifts from inducing remission to managing symptoms and preventing complications. Discontinuing immunosuppressive therapy may be appropriate to avoid the risks associated with long-term immunosuppression, such as infections and malignancies, while also allowing the patient to focus on end-of-life care or other quality-of-life issues."
+A 58-year-old man with chronic atrial fibrillation comes to your clinic seeking advice on physical activity. He currently walks his dog for 15 minutes daily but wants to increase his exercise. What is the target weekly duration of moderate to vigorous exercise that should be recommended for this patient? Specify the answer in minutes/week.,210 minutes/week,"For a 65-year-old woman with atrial fibrillation, the American Heart Association recommends at least 150 minutes of moderate-intensity aerobic physical activity or 75 minutes of vigorous-intensity aerobic physical activity per week."
+A 52-year-old man presents with persistent H. pylori infection despite completing two courses of first-line therapy. His gastroenterologist is considering various third-line treatment options. What specific clinical scenario warrants ordering H. pylori susceptibility testing? Provide the clinical indication as a single phrase.,When choice of salvage therapy is unclear,Treatment failure after multiple standard regimens.
+A 65-year-old female requires replacement of her cardiac implantable electronic device due to battery depletion. The surgical team identifies a well-formed fibrous capsule during the procedure. Which specific surgical manipulation of the pocket tissue should be avoided to reduce the risk of bleeding and infection? Provide the exact surgical technique name.,Capsulectomy,"During this CIED procedure, the specific surgical step that should be avoided to minimize post-operative complications is ""Tension Suture Technique"" around the generator pocket.
+
+The Tension Suture Technique involves tightening sutures around the generator pocket to secure it in place. However, in the presence of significant fibrous tissue formation, this technique can lead to further tissue contraction and potentially compromise the integrity of the pocket, leading to complications such as erosion or infection.
+
+Instead, the surgeon should use a ""Relaxed Suture Technique"" or ""Non-Tension Suture Technique"" to secure the generator pocket, which involves placing sutures loosely around the pocket to minimize tissue contraction and prevent complications."
+"A 52-year-old male carpenter complains of persistent pain and paresthesia in his dominant hand, with symptoms predominantly affecting the median nerve distribution. He experiences relief by shaking his hand. Which two diagnostic modalities are not recommended for establishing the diagnosis of carpal tunnel syndrome? Provide both tests separated by a comma.","MRI, Upper Limb Neurodynamic Testing","Electromyography (EMG), Nerve Conduction Studies (NCS)."
+"A 32-year-old woman who is HIV-positive and on antiretroviral therapy visits your clinic requesting DoxyPEP due to concerns about recent high-risk sexual encounters. Based on current recommendations regarding HIV status and DoxyPEP eligibility, is this patient a candidate for DoxyPEP? Answer ""Yes"" or ""No"".",Yes,"No. 
+
+DoxyPEP is typically recommended for individuals who are HIV-negative and have been exposed to a bacterial STI, such as chlamydia or gonorrhea. Since this patient is already HIV-positive, DoxyPEP is not indicated for him."
+"You are the clinical educator for a medical unit where a recent sentinel event occurred due to delayed recognition of patient deterioration. When developing an educational program for the floor nurses to improve early detection of declining patient status, what type of educational approach should be implemented? Provide your answer as a single word describing the educational strategy.",Focused,Simulation.
+"During a routine check-up, a healthy 52-year-old woman mentions her father recently had a stroke and she's concerned about her own risk. According to current recommendations, what two categories of screening should be performed to assess her stroke risk? Provide your answer as two categories separated by a semicolon (;).",Modifiable behaviors; medical conditions,"For a 45-year-old man with no significant medical history, the recommended screening approach to reduce his stroke risk includes:
+
+1. **Cardiovascular risk assessment and management**; 
+2. **Lifestyle modification and risk factor identification**.
+
+Cardiovascular risk assessment and management should include:
+
+- Blood pressure measurement
+- Lipid profile (cholesterol and triglycerides)
+- Fasting glucose or hemoglobin A1c (HbA1c) to assess for diabetes
+- Electrocardiogram (ECG) to assess for cardiac arrhythmias
+- Carotid intima-media thickness (CIMT) or carotid ultrasound to assess for atherosclerosis
+
+Lifestyle modification and risk factor identification should include:
+
+- Counseling on smoking cessation
+- Counseling on healthy diet and exercise
+- Assessment of physical activity level
+- Counseling on stress management
+- Assessment of family history of cardiovascular disease
+- Counseling on alcohol consumption and sleep habits
+
+It's essential to note that these screenings may vary based on individual risk factors and the patient's medical history."
+"A 32-year-old man has been managing his mild-to-moderate atopic dermatitis with daily moisturizers for 4 months without adequate improvement. He shows erythematous patches with mild scaling on his trunk and extremities. Which topical agent and strength should be added to his treatment regimen? Answer in the format ""[drug] [percentage]%"".",crisaborole 2%,"For a 25-year-old woman with persistent mild atopic dermatitis, a topical corticosteroid is often recommended. 
+
+A suitable option would be:
+
+1. Hydrocortisone 1%: This is a mild to moderate-strength corticosteroid that can be used for short-term treatment of mild atopic dermatitis.
+
+However, if the condition persists, a stronger corticosteroid may be considered. 
+
+2. Triamcinolone 0.1%: This is a moderate-strength corticosteroid that can be used for longer-term treatment of mild to moderate atopic dermatitis.
+
+It's essential to note that topical corticosteroids should be used under the guidance of a healthcare professional, and the duration of use should be limited to avoid potential side effects."
+"A 45-year-old female presents to rheumatology clinic with severe joint pain in her right great toe. Ultrasound imaging demonstrates clear evidence of tophi deposits. Is synovial fluid analysis necessary for definitive diagnosis of gout? Answer with either ""yes"" or ""no"".",no,"synovial fluid analysis required. 
+
+The double-contour sign on musculoskeletal ultrasound is suggestive of gout, but synovial fluid analysis is still necessary to confirm the diagnosis by identifying monosodium urate crystals."
+"A 58-year-old female is found to have a 3.8 cm ascending aortic dilation during an echocardiogram. In developing an appropriate clinical approach for this patient's aortic condition, what are the three essential components that should be addressed in your management strategy? Provide your answer as three elements separated by commas.","Diagnosis, treatment, and surveillance as an organ system","To develop a comprehensive management plan for the patient with a thoracic aortic aneurysm, the following three key aspects should be considered:
+
+Size and growth rate of the aneurysm, risk factors for rupture (such as hypertension, smoking, and family history), and the patient's overall health status and comorbidities (including cardiovascular disease, lung disease, and renal function)."
+"A 58-year-old man presents with recently diagnosed high-risk features of prostate cancer and is discussing treatment options with his oncologist. When planning for androgen deprivation therapy (ADT), what is the appropriate duration range that should be recommended? Express the answer in the format ""X-Y months"" where X and Y represent the minimum and maximum duration.",18-24 months,"For a 65-year-old male with high-risk prostate cancer, the recommended duration range for androgen deprivation therapy (ADT) is 2-3 years."
+A 58-year-old male undergoes cardiac evaluation with multiple imaging modalities showing inconsistent results regarding his heart function. Which specific imaging technique should be incorporated into the TNE protocol for this patient? State both the imaging modality and the clinical circumstances warranting its use.,"Doppler tissue imaging should be included as part of the standard TNE assessment when normative data exist, and should specifically be used to evaluate myocardial velocities when there is suspected heart dysfunction and disagreement between other modalities.","I think there may be a mistake in your question. The term ""Targeted Neonatal Echocardiography (TNE)"" seems to be misplaced, as the patient is a 65-year-old female, not a neonate. 
+
+However, if we consider the scenario in the context of a 65-year-old female with conflicting echocardiogram results, the imaging modality that should be included in the assessment is Cardiac Computed Tomography (CT) or Cardiac Magnetic Resonance Imaging (MRI).
+
+In this scenario, Cardiac CT or MRI can provide more detailed information about cardiac structure and function, which can help clarify the conflicting results from the echocardiogram. These modalities can provide high-resolution images of the heart and its blood vessels, allowing for a more accurate assessment of cardiac function and potential underlying conditions.
+
+Cardiac CT is particularly useful for evaluating coronary artery disease, cardiac masses, and cardiac calcification. Cardiac MRI, on the other hand, is excellent for evaluating cardiac function, myocardial viability, and cardiac masses.
+
+When to use these modalities:
+
+- Cardiac CT: When there is a suspicion of coronary artery disease, cardiac masses, or cardiac calcification.
+- Cardiac MRI: When there is a need to evaluate cardiac function, myocardial viability, or cardiac masses in more detail.
+
+It's essential to note that the choice of imaging modality should be based on the patient's specific clinical presentation, medical history, and the availability of the imaging modality."
+"A 75-year-old man with end-stage pulmonary fibrosis is admitted with acute exacerbation and severe shortness of breath. His respiratory rate is 28/min, and he's using accessory muscles of respiration. The medical team is considering prescribing oxycodone for breathlessness management. According to current guidelines, should opioids be prescribed for managing his respiratory symptoms? Answer with ""Yes"" or ""No"".",No,No
+"You are the laboratory director overseeing the validation of a novel next-generation sequencing panel for detecting hereditary cancer mutations. When comparing the results of 200 samples tested with both the new panel and a validated reference method, what is the minimum required overall agreement rate for clinical implementation? Express your answer as a percentage with the % symbol.",90%,The minimum acceptable concordance percentage between the new and reference assays for clinical implementation is typically 95%. This is because the Clinical Laboratory Improvement Amendments (CLIA) and the College of American Pathologists (CAP) require a minimum concordance rate of 95% between the new assay and the reference method for clinical implementation.
+"A 62-year-old man with poorly controlled type 2 diabetes (A1C 7.9%) visits your clinic for medication adjustment. He has multiple cardiovascular risk factors and is currently taking metformin. To optimize his protection against cardiovascular events, mortality, and stroke, which medication class should be prescribed? State the complete drug class name.",Glucagon-like peptide-1 (GLP-1) receptor agonist,"Based on the patient's cardiovascular risk factors and the goal to reduce her risk of mortality and cardiovascular events, the specific class of medication that should be added to her regimen is the Statins (HMG-CoA reductase inhibitors).
+
+Statins are a class of lipid-lowering medications that have been shown to reduce the risk of major cardiovascular events, such as heart attacks and strokes, in patients with established cardiovascular disease or at high risk for cardiovascular disease. They work by inhibiting the enzyme HMG-CoA reductase, which is involved in the production of cholesterol in the liver.
+
+In this patient, adding a statin to her regimen would be beneficial given her history of hypertension, dyslipidemia, and type 2 diabetes, which are all risk factors for cardiovascular disease."
+A 45-year-old female is admitted to your community hospital ICU following successful resuscitation from an in-hospital cardiac arrest. She is comatose and mechanically ventilated. Your facility does not have advanced cerebral monitoring capabilities. There are no immediate clinical concerns. What is the minimum target mean arterial pressure in mm Hg that should be maintained in this post-cardiac arrest patient?,80,"For a comatose patient after cardiac arrest, the recommended target mean arterial pressure (MAP) is 85 mmHg."
+"An 8-year-old girl has been diagnosed with ADHD and continues to struggle in school despite implementing recommended behavioral strategies and environmental adjustments. Her parents are inquiring about medication options, specifically methylphenidate. What prerequisites must be fulfilled before initiating methylphenidate treatment? List all conditions, separated by semicolons.",ADHD symptoms causing persistent significant impairment despite environmental modifications; completion of careful assessment; supported informed decision-making process with family; prescription made by or in consultation with a specialist,"Before considering a methylphenidate prescription for a 7-year-old boy with persistent ADHD symptoms, the following conditions must be met:
+
+A comprehensive diagnostic evaluation by a qualified professional, such as a pediatrician, psychologist, or psychiatrist, to confirm the diagnosis of Attention Deficit Hyperactivity Disorder (ADHD); 
+The presence of significant impairment in at least two settings (e.g., home, school, or social interactions); 
+A thorough assessment of the child's medical history, including any potential contraindications or interactions with other medications; 
+A comprehensive review of the child's behavioral interventions and classroom modifications, including any previous attempts to manage symptoms with non-pharmacological treatments; 
+A detailed discussion with the child's parents or guardians about the potential benefits and risks of methylphenidate, including the possibility of side effects and the need for ongoing monitoring; 
+A clear understanding of the child's and family's expectations and goals for treatment; 
+A plan for regular follow-up appointments to monitor the child's response to treatment and adjust the medication as needed; 
+A thorough assessment of the child's potential for substance abuse or other high-risk behaviors; 
+A review of the child's mental health history, including any previous diagnoses or treatment for anxiety, depression, or other conditions; 
+A consideration of alternative treatments, such as behavioral therapy or other medications, before initiating methylphenidate; 
+A clear understanding of the child's and family's ability to adhere to the treatment plan and follow-up appointments."
+"A 62-year-old female is being evaluated for suspected crystal arthropathy. When ordering imaging studies, which anatomical locations need to be examined? Provide answer in the format: ""symptomatic regions AND condition-specific sites: [list sites by condition]"", using semicolons to separate different conditions.",symptomatic areas AND specific target sites for gout: first metatarsophalangeal joint; specific target sites for CPPD: knee and wrist; specific target sites for BCPD: shoulder,"Given the initial evaluation of crystal-induced arthropathy, the imaging workup should include the following anatomical sites:
+
+Symptomatic areas AND specific target sites for Gout: 
+- Affected joints (e.g., metatarsophalangeal joints, wrists, knees, elbows, ankles)
+- DIP joints
+- First metatarsophalangeal joint
+- Ulnar styloid
+
+Symptomatic areas AND specific target sites for Pseudogout (Calcium Pyrophosphate Deposition Disease, CPPD): 
+- Affected joints (e.g., knees, hips, shoulders, wrists, ankles)
+- Patellofemoral joint
+- Suprapatellar pouch
+- Prepatellar bursa"
+A 32-year-old woman with recently diagnosed pulmonary TB is concerned about when she can resume caring for her children without risk of transmission. What is the minimum number of days of compliant TB treatment required before she can be considered to have minimal infectiousness? Provide answer as a single number of days.,5 days,"According to the Centers for Disease Control and Prevention (CDC), a person with pulmonary tuberculosis is considered to have low infectiousness after 2 weeks (14 days) of effective TB treatment, assuming compliance with medication."
+"A dermatopathologist receives a formalin-fixed, paraffin-embedded tissue sample from a 32-year-old woman's skin rash suspected to be secondary syphilis. Which specific staining technique should be used for optimal direct detection of Treponema pallidum in this specimen? State the complete name of the staining method.",Immunohistochemistry,"The preferred staining method for direct detection of Treponema pallidum in tissue specimens is the Steiner silver stain, also known as the Warthin-Starry silver stain. However, the most commonly used method is the Steiner silver stain. 
+
+The Steiner silver stain is a type of silver impregnation technique that uses a silver nitrate solution to stain the bacteria, making them visible under a microscope. This method is particularly useful for detecting spirochetes, such as Treponema pallidum, which are the causative agents of syphilis."
+"A 32-year-old female presents with severe anoxic brain injury following cardiac arrest. The medical team is considering brain death evaluation. What are the required qualifications, listed as two specific criteria, for the clinician who will perform the brain death/death by neurologic criteria (BD/DNC) evaluation?",The evaluating clinician must be: 1) an attending physician and 2) adequately trained and competent in performing BD/DNC evaluations,"According to current guidelines, brain death/death by neurologic criteria (BD/DNC) evaluations can be performed by the following types of clinicians:
+
+1. Neurologists
+2. Neurosurgeons
+3. Critical care physicians (with expertise in neurocritical care)
+4. Anesthesiologists (with expertise in neuroanesthesia)
+
+The two key requirements that must be met by the evaluating clinician are:
+
+1. **Expertise in neurology or neurosurgery**: The clinician must have specialized knowledge and experience in neurology or neurosurgery to accurately assess and interpret the results of the brain death evaluation.
+2. **Certification in neurocritical care or neuroanesthesia (if applicable)**: If the clinician is a critical care physician or anesthesiologist, they must have certification in neurocritical care or neuroanesthesia, respectively, to demonstrate their expertise in caring for critically ill patients with neurological conditions.
+
+It's essential to note that the clinician performing the brain death evaluation must also be familiar with the relevant guidelines and protocols, such as those published by the American Academy of Neurology (AAN) or the Society of Critical Care Medicine (SCCM)."
+You are performing a targeted neonatal echocardiogram (TNE) on a 2-day-old infant with a newly placed umbilical venous catheter in the NICU. What are the three mandatory elements that must be evaluated during this standard TNE? List your answer as three elements separated by commas.,"Central line position assessment, exclusion of pericardial effusion, surveillance for thrombosis and/or vegetations","The three required components that must be assessed during a standard TNE evaluation are:
+
+Left ventricular (LV) function, right ventricular (RV) function, and the inferior vena cava (IVC) collapsibility index.
+
+These components are crucial for assessing cardiac function and fluid status in critically ill patients, such as the 65-year-old male patient in the ICU."
+"A 58-year-old man is in follow-up after completing treatment for lung cancer 3 months ago. As part of his surveillance plan for the next two years, which specific imaging study should be ordered for monitoring potential recurrence? Format your response as ""[scan type], [with/without] contrast (note if there are alternatives)"".","Diagnostic or low-dose chest CT including adrenals, without contrast (preferred) or with contrast (when indicated)","For a 65-year-old woman with a history of stage II non-small cell lung cancer, the recommended imaging modality for monitoring potential cancer recurrence during the first two years post-treatment is a chest CT scan, with contrast."
+"During a routine check-up, you are seeing a 55-year-old woman with no acute health concerns. As part of preventive care recommendations for her age group, what specific screening assessment should be performed? Provide the name of the screening test.",Hearing loss screening,The Hepatitis C virus (HCV) antibody test.
+"In a resource-constrained healthcare facility, a 28-year-old female with advanced HIV presents with confirmed cryptococcal infection. What is the appropriate initial antifungal therapy? Provide the drug name, dosage in mg/kg, and administration schedule in the format: ""drug name, X mg/kg, frequency"".","liposomal amphotericin B, 10 mg/kg, once","In a resource-limited setting, the recommended initial treatment regimen for cryptococcal meningitis in an HIV-positive patient is:
+
+- Amphotericin B deoxycholate, 1 mg/kg, daily for 2 weeks.
+
+This is the preferred treatment due to its availability and affordability in resource-limited settings. However, it's essential to note that this treatment regimen may require close monitoring for potential side effects, such as nephrotoxicity.
+
+After the initial 2-week course of Amphotericin B deoxycholate, the patient should receive:
+
+- Flucytosine, 100 mg/kg, divided into 4 doses daily, for 8 weeks.
+
+This combination therapy is recommended to improve outcomes and reduce the risk of relapse.
+
+It's also crucial to consider antiretroviral therapy (ART) for the patient, as it will help to improve their immune status and reduce the risk of opportunistic infections, including cryptococcal meningitis."
+"A 25-year-old female basketball player is diagnosed with an acute isolated meniscal tear requiring surgical intervention. During pre-operative planning, what biological augmentation techniques can be utilized during the repair to enhance healing outcomes? List all options, separated by commas.","Bone Marrow Venting, Platelet Rich Plasma","During the surgical repair of an isolated meniscal tear, the following adjunctive interventions can be considered to improve outcomes:
+
+Arthroscopic debridement of chondral lesions, meniscal repair with suture anchors or meniscal repair devices, microfracture or other cartilage repair techniques, osteochondral autograft transfer system (OATS) or mosaicplasty, meniscal allograft transplantation, chondroplasty, synovial plica resection, patellar or tibial realignment procedures, and/or anterior cruciate ligament (ACL) reconstruction if the ACL is also injured.
+
+Note: The choice of adjunctive interventions will depend on the specific patient and injury, and should be individualized based on the surgeon's expertise and the patient's needs."
+"A 45-year-old female is successfully resuscitated following an out-of-hospital cardiac arrest. After achieving ROSC, she remains unconscious and does not follow commands. What temperature range should be maintained for this patient's post-resuscitation care in degrees Celsius? Express the range as ""X-Y°C"".",32-37.5°C,"For a patient who has achieved ROSC but remains unresponsive, the recommended target temperature range is 32-33°C."
+"A 38-year-old mother of two visits your office seeking permanent sterilization through bilateral tubal ligation. Your hospital requires all procedures to be classified by urgency for scheduling purposes. What is the appropriate medical priority classification for this permanent contraception procedure? Respond using one of these terms: ""elective,"" ""time-sensitive,"" or ""emergency.""",time-sensitive,"This procedure should be categorized as ""elective."" 
+
+Bilateral tubal ligation is a permanent form of contraception, and it is not considered a time-sensitive or emergency procedure. It is a planned, non-urgent procedure that can be scheduled at the patient's convenience, as long as it is not contraindicated by any medical conditions. The hospital's prioritization of procedures based on medical necessity would likely place elective procedures, such as this one, at the lower end of the priority list, behind more urgent and time-sensitive procedures."
+"A 58-year-old female presents with acute-onset tearing chest pain and unequal blood pressures in both arms. You suspect an aortic emergency. Which initial diagnostic imaging test should be performed? State the imaging type and required anatomical coverage using the format ""imaging_type spanning anatomical_start to anatomical_end"".",CTA from the common carotid to the common femoral arteries,"The recommended first-line imaging study for suspected aortic pathology in this patient is a non-contrast computed tomography (CT) angiogram from the aortic root to the aortic bifurcation. 
+
+CT angiogram from the aortic root to the aortic bifurcation 
+
+This imaging modality provides rapid and accurate assessment of the aorta, allowing for the detection of potential aortic dissection, aneurysm, or other pathology."
+A 38-year-old female has successfully completed a medically supervised alcohol detoxification program last week. She has struggled with alcohol use disorder for the past decade and is seeking medication to help prevent relapse. Which medication should be initiated to support her continued abstinence? State the generic name of the recommended medication.,baclofen,"For a 45-year-old male with a 15-year history of alcohol dependence, the medication of choice for pharmacological support is Acamprosate (Campral). 
+
+Acamprosate is a medication that helps maintain abstinence in individuals with alcohol dependence. It is thought to work by modulating glutamate and GABA neurotransmission, which are involved in the brain's reward and stress response systems. 
+
+Acamprosate is typically prescribed in conjunction with counseling and support groups to help individuals maintain sobriety."
+"A 70-year-old male presents to your clinic with biochemical recurrence following radical prostatectomy performed 18 months ago. His latest PSA is 0.3 ng/mL. To provide accurate prognostic counseling regarding his disease progression risk, what specific factors need to be assessed? Present your answer as a comma-separated list of prognostic factors.","PSA doubling time, Gleason Grade Group, pathologic stage, surgical margin status, validated post-prostatectomy genomic classifier, PET imaging results","To properly counsel this patient about his clinical progression risk, the following prognostic factors should be evaluated:
+
+PSA doubling time, PSA velocity, Gleason score at diagnosis, pathological stage at diagnosis, surgical margin status, extracapsular extension, seminal vesicle invasion, lymph node involvement, PSA nadir after treatment, time since treatment, age, and comorbidities.
+
+These factors can help estimate the patient's risk of disease progression and recurrence, allowing for a more informed discussion about the need for further treatment or surveillance."
+"A 32-year-old man has been using mid-potency topical corticosteroids for 6 weeks to treat persistent atopic dermatitis patches on his ankles without improvement. What specific modification to his topical steroid therapy should be recommended? Answer in the format ""[potency] steroid with [application method]"".",Low-mid potency steroid with occlusive therapy,"For a patient with persistent localized atopic dermatitis that has not responded to mid-potency topical corticosteroids, the next recommended treatment modification would be to increase the potency of the corticosteroid.
+
+The next step would be to use a high-potency topical corticosteroid. 
+
+A commonly recommended high-potency topical corticosteroid for this scenario is ""clobetasol propionate with occlusive dressing."""
+"A pathology laboratory receives a transbronchial needle aspirate from a 62-year-old man with suspected lung adenocarcinoma for PD-L1 immunohistochemistry testing. Before proceeding with the analysis, what mandatory validation requirement must be met? Answer in the format ""Validation of [specify what needs to be validated].""",Validation of specimen type and fixative,Validation of the tumor proportion score (TPS) algorithm used for PD-L1 immunohistochemistry testing.
+"A 38-year-old female is diagnosed with acute pancreatitis following heavy alcohol consumption, presenting with severe abdominal pain and elevated pancreatic enzymes. For initial fluid management, what is the recommended bolus volume and maintenance rate? Express answer as ""Initial bolus: X mL/kg, Maintenance rate: Y mL/kg/hour"".","Initial bolus: 10 mL/kg, Maintenance rate: 1.5 mL/kg/hour","For a patient with acute pancreatitis, the recommended initial fluid resuscitation protocol is based on the 2012 guidelines from the American College of Critical Care Medicine (ACCM) and the 2013 guidelines from the International Association of Pancreatology (IAP). 
+
+The recommended initial fluid resuscitation protocol is as follows:
+
+- Initial bolus: 30 mL/kg over 30 minutes
+- Subsequent hourly infusion rate: 0.1-0.15 mL/kg/hour
+
+This protocol aims to provide adequate fluid resuscitation to prevent hypovolemia and maintain organ perfusion in patients with acute pancreatitis."
+"During a routine cardiac assessment of a 3-day-old infant, you are performing a targeted neonatal echocardiogram (TNE). Which specific hemodynamic parameters must be evaluated and documented in your examination report? Format your response as ""Primary assessment: [parameter], Secondary assessment for PDA: [parameters]""","Primary assessment: Shunt presence and directionality, Secondary assessment for PDA: LA volume loading and systemic blood flow (SBF)","1) The presence and severity of any left-to-right shunts, including the direction and magnitude of flow across any patent foramen ovale, patent ductus arteriosus, or atrial septal defects.
+2) The presence and severity of any right-to-left shunts, including the direction and magnitude of flow across any patent foramen ovale, patent ductus arteriosus, or atrial septal defects, as well as any evidence of pulmonary venous or systemic venous obstruction."
+"A 55-year-old man is brought to the emergency room with chest pain and shortness of breath. His blood pressure reading is 210/125 mmHg, and his ECG shows evidence of acute myocardial ischemia. In the initial management of this hypertensive emergency, what percentage reduction of the presenting mean arterial pressure should be achieved in the first 60 minutes? Express your answer as a single percentage number.",10-15% (acceptable range),"To determine the target blood pressure reduction, we need to calculate the initial mean arterial pressure (MAP) and then determine the target reduction.
+
+The initial blood pressure is 220/130 mmHg. 
+
+To calculate the MAP, we use the formula: MAP = (2 x Diastolic BP + Systolic BP) / 3
+
+MAP = (2 x 130 + 220) / 3
+MAP = (260 + 220) / 3
+MAP = 480 / 3
+MAP = 160 mmHg
+
+The target blood pressure reduction in the first hour of treatment is 10% of the initial MAP.
+
+Target reduction = 10% of 160 mmHg
+Target reduction = 0.1 x 160
+Target reduction = 16 mmHg
+
+So, the target blood pressure reduction in the first hour of treatment is 16 mmHg, which is 10% of the initial MAP."
+"A 45-year-old female survivor of sudden cardiac arrest remains unresponsive following successful resuscitation. She is currently receiving post-cardiac arrest care in the ICU. What is the recommended duration range for continuous EEG monitoring in this patient who has not regained consciousness? Express the duration in hours using the format ""X-Y hours.""",72-120 hours,"For a patient who remains unconscious after targeted temperature management, EEG monitoring should be continued for 72-96 hours."
+"You are working as a hospital administrator developing safety protocols. A patient on the general medicine floor experiences acute clinical deterioration with respiratory distress. What emergency response system needs to be implemented, and specify the two required elements for this system to function effectively? Provide your answer in the format ""[System Name]: [Component 1], [Component 2]""","Rapid Response Team/Medical Emergency Team (RRT/MET): explicit activation criteria, designated response team","Code Blue: 
+
+1. Activation of the hospital's rapid response team (RRT) or code team to provide immediate assistance.
+2. Initiation of cardiopulmonary resuscitation (CPR) if the patient's heart rate is less than 60 beats per minute or if they are unresponsive, not breathing, or not breathing normally."

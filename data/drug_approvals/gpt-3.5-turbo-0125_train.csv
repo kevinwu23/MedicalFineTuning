@@ -1,0 +1,916 @@
+input,model_response,answer
+"
+
+How long should each NIKTIMVO infusion be administered?",30 minutes,30 minutes
+"
+
+For what minimum duration should REVUFORJ be administered in patients without disease progression or unacceptable toxicity?",6 months,6 months
+"
+
+For how long should patients continue taking LAZCLUZE?",Until disease progression or unacceptable toxicity,Until disease progression or unacceptable toxicity
+"
+
+Has IMDELLTRA been evaluated for safety and effectiveness in pediatric patients?",No,No
+"
+
+What is the maximum total volume of FLYRCADO that can be administered in one day?",6.1 mL,6.1 mL
+"
+
+What is the minimum age requirement for HYMPAVZI treatment?",12 years of age,12 years of age
+"
+
+Can EBGLYSS be used with topical corticosteroids?",Yes,Yes
+"
+
+How frequently should ZELSUVMI be applied?",Once daily,Once daily
+"
+
+What is the primary contraindication for NEMLUVIO?",Known hypersensitivity to nemolizumab-ilto or to any of the excipients in NEMLUVIO,Known hypersensitivity to nemolizumab-ilto or to any of the excipients in NEMLUVIO
+"
+
+What is the second dose reduction level of LAZCLUZE when adjusting for adverse reactions?",80 mg once daily,80 mg once daily
+"
+
+What is the loading dose of HYMPAVZI?",300 mg (two 150 mg subcutaneous injections),300 mg (two 150 mg subcutaneous injections)
+"
+
+How should NEMLUVIO be administered?",By subcutaneous injection,By subcutaneous injection
+"
+
+What is the indicated age group for VOYDEYA treatment?",Adults only,Adults only
+"
+
+What is the indicated age range for VAFSEO treatment?",Adults only,Adults only
+"
+
+What is the recommended starting dosage of COBENFY for geriatric patients?",50 mg/20 mg twice daily with slower titration,50 mg/20 mg twice daily with slower titration
+"
+
+What is the maximum treatment duration for ZELSUVMI?",Up to 12 weeks,Up to 12 weeks
+"
+
+How should LAZCLUZE tablets be taken with respect to food?",With or without food,With or without food
+"
+
+What is the primary contraindication for OHTUVAYRE?",Hypersensitivity to ensifentrine or any component of the product,Hypersensitivity to ensifentrine or any component of the product
+"
+
+For patients weighing ≥50 kg with inadequate bleeding control, what adjusted maintenance dose of HYMPAVZI can be considered?",150 mg subcutaneous injection weekly,300 mg subcutaneous injection weekly
+"
+
+What is the recommended dosage range for YORVIPATH?",6 to 30 mcg once daily,6 to 30 mcg once daily
+"
+
+When can the VOYDEYA dose be increased to 200 mg three times a day?","If hemoglobin increases by less than 1 g/dL after 2 weeks, dose increase to 200 mg three times a day can be considered","If hemoglobin has not increased by >2 g/dL after 4 weeks, if patient required transfusion during previous 4 weeks, or to achieve appropriate Hgb response based on clinical judgment"
+"
+
+Can VOYDEYA be taken with or without food?",Can be taken with or without food,Can be taken with or without food
+"
+
+What medical conditions are contraindications for SOFDRA use?","Glaucoma, paralytic ileus, unstable cardiovascular status in acute hemorrhage, severe ulcerative colitis, toxic megacolon, myasthenia gravis, and Sjögren's syndrome","Glaucoma, paralytic ileus, unstable cardiovascular status in acute hemorrhage, severe ulcerative colitis, toxic megacolon, myasthenia gravis, and Sjögren's syndrome"
+"
+
+What is the recommended oral dosage of MIPLYFFA for patients weighing 8-15 kg?",47 mg three times a day,47 mg three times a day
+"
+
+What is the dosing frequency of EBGLYSS between Week 2 and Week 16?",250 mg every 2 weeks,250 mg every 2 weeks
+"
+
+What is the recommended dosage of REVUFORJ for patients weighing less than 40 kg when taking strong CYP3A4 inhibitors?",95 mg/m2 orally twice daily,95 mg/m2 orally twice daily
+"
+
+What is the recommended dosage of NIKTIMVO for patients weighing at least 40 kg?",0.3 mg/kg (maximum 35 mg) every 4 weeks,0.3 mg/kg (maximum 35 mg) every 2 weeks
+"
+
+What is the maximum daily dose of VAFSEO that can be prescribed?",600 mg,600 mg
+"
+
+What is the recommended oral dosage of MIPLYFFA for patients weighing 30-55 kg?",93 mg three times a day,93 mg three times a day
+"
+
+What is the recommended daily dose of VORANIGO for adult patients?",40 mg orally once daily,40 mg orally once daily
+"
+
+What is the recommended dosage of REVUFORJ for patients weighing 40 kg or more without strong CYP3A4 inhibitors?",270 mg orally once daily,270 mg orally twice daily
+"
+
+Are there any contraindications for IMDELLTRA?","No, there are no contraindications","No, there are no contraindications"
+"
+
+What is the contraindication for initiating VOYDEYA treatment?",Unresolved serious infection caused by encapsulated bacteria,Unresolved serious infection caused by encapsulated bacteria
+"
+
+What is the initial step-up dose of IMDELLTRA on Cycle 1 Day 1?",1 mg,1 mg
+"
+
+What is the recommended dosage of REVUFORJ for patients weighing less than 40 kg without strong CYP3A4 inhibitors?",160 mg/m2 orally twice daily,160 mg/m2 orally twice daily
+"
+
+What is the indicated age range for OHTUVAYRE treatment?",Adult patients only,Adult patients only
+"
+
+Does OHTUVAYRE require dosage adjustment in patients with mild to moderate renal impairment?",No dosage adjustment required,No dosage adjustment required
+"
+
+Are dose reductions recommended for TEVIMBRA?",No,No
+"
+
+How long should patients wait after shaving before applying SOFDRA?",At least 8 hours,At least 8 hours
+"
+
+How long should ZELSUVMI be allowed to dry after application?",10 minutes,10 minutes
+"
+
+How many injection sites are recommended for LETYBO treatment of glabellar lines?",5 sites,5 sites
+"
+
+Are there any absolute contraindications for OJEMDA?","No, there are no absolute contraindications","No, there are no absolute contraindications"
+"
+
+What is the recommended infusion duration for each dose of IMDELLTRA?",1 hour,1 hour
+"
+
+What white blood cell (WBC) count must be achieved before starting REVUFORJ?",Less than 25 Gi/L,Less than 25 Gi/L
+"
+
+What is the standard recommended dosage of OHTUVAYRE for adult COPD patients?",3 mg (one ampule) twice daily administered by oral inhalation,3 mg (one ampule) twice daily administered by oral inhalation
+"
+
+What is the indicated age range for VORANIGO treatment?",Adult and pediatric patients 12 years and older,Adult and pediatric patients 12 years and older
+"
+
+Has the safety and effectiveness of SOFDRA been established in children under 9 years of age?",No,No
+"
+
+What is the recommended dosage of MIPLYFFA for patients with renal impairment (eGFR 15 to <50 mL/minute) weighing 8-15 kg?",47 mg two times a day,47 mg two times a day
+"
+
+What is the maintenance dose schedule for HYMPAVZI?",150 mg subcutaneously every 14 days,150 mg every week by subcutaneous injection
+"
+
+What is the recommended dosing frequency of OHTUVAYRE throughout the day?",Twice daily - once in the morning and once in the evening,Twice daily - once in the morning and once in the evening
+"
+
+What is the indicated age range for ZELSUVMI?",1 year of age and older,1 year of age and older
+"
+
+What is the maximum duration for using reconstituted LETYBO?",24 hours after reconstitution,24 hours after reconstitution
+"
+
+What is the maintenance dose of NEMLUVIO for adult patients weighing 90kg or more?",60 mg every 4 weeks,60 mg every 4 weeks
+"
+
+What is the indicated age range for SOFDRA treatment?",Adult and pediatric patients weighing ≥15 kg,9 years of age and older
+"
+
+What is the recommended amount of ZELSUVMI to dispense from each tube for application?",0.5 mL from each tube,0.5 mL from each tube
+"
+
+What should be done if a patient misses a dose of LAZCLUZE within 12 hours of the scheduled time?",Take the missed dose,Take the missed dose
+"
+
+What are the contraindications for MIPLYFFA?",None,None
+"
+
+Can MIPLYFFA be taken with or without food?","Yes, it can be taken with or without food","Yes, it can be taken with or without food"
+"
+
+What is the minimum age for which LAZCLUZE is indicated?",18 years (adults only),18 years (adults only)
+"
+
+What is the maximum approved weekly dose of HYMPAVZI?",300 mg weekly,300 mg weekly
+"
+
+What is the minimum age for which REVUFORJ is indicated?",1 year and older,1 year and older
+"
+
+What is the recommended dose of IMDELLTRA on Cycle 1 Day 8?",10 mg,10 mg
+"
+
+What is the indicated age range for FLYRCADO use?",Adult patients only,Adult patients only
+"
+
+How long must patients be on dialysis before starting VAFSEO?",At least three months,At least three months
+"
+
+How much SOFDRA gel is delivered in each pump actuation?",0.67 mL of 12.5% gel or 0.75 mL of 10% gel,0.67 mL of gel containing 72 mg sofpironium
+"
+
+How long can subsequent infusions of TEVIMBRA be administered if the first infusion is tolerated?",30 minutes,30 minutes
+"
+
+How long should patients wait after showering before applying SOFDRA?",At least 30 minutes,At least 30 minutes
+"
+
+What should be done if a dose of VOYDEYA is missed?","Take it as soon as remembered unless within 3 hours of next dose; if within 3 hours of next dose, skip missed dose and take at next regularly scheduled time. Do not take more than 2 doses within 3 hours of each other.","Take it as soon as remembered unless within 3 hours of next dose; if within 3 hours of next dose, skip missed dose and take at next regularly scheduled time"
+"
+
+What is the indicated age group for NEMLUVIO?",Adults (18 years and older),Adults (18 years and older)
+"
+
+How frequently can LETYBO be administered?",No more frequently than every three months,No more frequently than every three months
+"
+
+What is the recommended daily dosage of SOFDRA for axillary hyperhidrosis?",One pump per underarm once daily at bedtime,One pump per underarm once daily at bedtime
+"
+
+Has ZELSUVMI been proven safe and effective in children under 1 year of age?",No,No
+"
+
+How long should patients be monitored after receiving IMDELLTRA on Cycle 1 Day 1 and Day 8?",22 to 24 hours,22 to 24 hours
+"
+
+What is the minimum age for patients to receive TEVIMBRA?",18 years (adult patients),18 years (adult patients)
+"
+
+Are there any absolute contraindications for HYMPAVZI?",None,None
+"
+
+What is the initial dose of NEMLUVIO for adult patients weighing less than 90kg?","60 mg (two 30 mg injections), followed by 30 mg every 4 weeks","60 mg (two 30 mg injections), followed by 30 mg every 4 weeks"
+"
+
+What are the contraindications for ZELSUVMI?",None,None
+"
+
+What is the recommended oral dosage of MIPLYFFA for patients weighing 15-30 kg?",62 mg three times a day,62 mg three times a day
+"
+
+What is the recommended daily dose of VORANIGO for pediatric patients 12 years and older weighing 40 kg or more?",40 mg orally once daily,40 mg orally once daily
+"
+
+Are there any contraindications for VORANIGO?",None,None
+"
+
+How should the dosage of OHTUVAYRE be adjusted for patients with moderate hepatic impairment?",Use with caution due to increased exposure,Use with caution due to increased exposure
+"
+
+What is the maintenance dose of EBGLYSS after Week 16?",250 mg every 4 weeks,250 mg every 4 weeks
+"
+
+How long should the first infusion of TEVIMBRA be administered?",60 minutes,60 minutes
+"
+
+What is the first dose reduction level of LAZCLUZE when adjusting for adverse reactions?",160 mg once daily,160 mg once daily
+"
+
+What are the contraindications for REVUFORJ?",None,None
+"
+
+How often can the YORVIPATH dose be increased?",No more often than every 7 days,No more often than every 7 days
+"
+
+What is the recommended dosage of REVUFORJ for patients weighing 40 kg or more when taking strong CYP3A4 inhibitors?",160 mg orally twice daily,160 mg orally twice daily
+"
+
+How should VOYDEYA be used in patients with severe hepatic impairment?",Avoid use in patients with severe hepatic impairment (Child-Pugh C),Avoid use in patients with severe hepatic impairment (Child-Pugh C)
+"
+
+What is the indicated age range for IMDELLTRA treatment?",Adults (18 years and older),Adults only
+"
+
+What should be completed before starting EBGLYSS treatment?",All age-appropriate vaccinations,All age-appropriate vaccinations
+"
+
+What is the recommended oral dosage of MIPLYFFA for patients weighing more than 55 kg?",124 mg three times a day,124 mg three times a day
+"
+
+What is the concentration of OHTUVAYRE in each unit-dose ampule?",3 mg/2.5 mL (1.2 mg/mL),3 mg/2.5 mL (1.2 mg/mL)
+"
+
+What is the recommended total dose of LETYBO for treating glabellar lines?",20 Units per treatment session,20 Units per treatment session
+"
+
+In what patient populations has HYMPAVZI been approved for use?","Patients with hemophilia A without factor VIII inhibitors or hemophilia B without factor IX inhibitors, regardless of inhibitor status",Patients with hemophilia A without factor VIII inhibitors or hemophilia B without factor IX inhibitors
+"
+
+What is the recommended starting dosage of COBENFY for adult patients?",50 mg/20 mg twice daily for at least two days,50 mg/20 mg twice daily for at least two days
+"
+
+What is the minimum age for which MIPLYFFA is indicated?",2 years of age,2 years of age
+"
+
+What is the recommended storage temperature for reconstituted LETYBO?",Between 2°C to 8°C (36°F to 46°F),Between 2°C to 8°C (36°F to 46°F)
+"
+
+What serum calcium level must be achieved before starting YORVIPATH?",≥7.8 mg/dL,≥7.8 mg/dL
+"
+
+What is the indicated age group for YORVIPATH?",Adults only,Adults only
+"
+
+What is the recommended FLYRCADO dosage for both rest and stress imaging in a 2-day protocol?",93 MBq to 111 MBq (2.5 mCi to 3 mCi),93 MBq to 111 MBq (2.5 mCi to 3 mCi)
+"
+
+How frequently can the VAFSEO dose be increased?",No more frequently than once every 4 weeks,No more frequently than once every 4 weeks
+"
+
+What is the recommended FLYRCADO dosage for pharmacologic stress imaging in a 1-day protocol?",222 MBq to 241 MBq (6 mCi to 6.5 mCi),222 MBq to 241 MBq (6 mCi to 6.5 mCi)
+"
+
+What is the minimum age for which OJEMDA is indicated?",6 months of age,6 months of age
+"
+
+What are the available tablet strengths for VAFSEO?","150 mg, 300 mg, 450 mg, and 600 mg","150 mg, 300 mg, and 450 mg"
+"
+
+What is the recommended dose of TEVIMBRA for adult patients?",200 mg every 3 weeks,200 mg every 3 weeks
+"
+
+What is the starting oral dose of VOYDEYA?",150 mg three times a day,150 mg three times a day
+"
+
+What is the full treatment dose of IMDELLTRA after the step-up period?",10 mg every 2 weeks,10 mg every 2 weeks
+"
+
+What is the recommended starting dose of VAFSEO for adults with CKD on dialysis?",200 mg orally once daily,300 mg orally once daily
+"
+
+How long should patients wait after applying SOFDRA before showering?",At least 8 hours,At least 8 hours
+"
+
+For patients with a BSA of 1.40 m² or greater, what is the recommended weekly tablet dose of OJEMDA?",600 mg once weekly,600 mg once weekly
+"
+
+What is the recommended FLYRCADO dosage for exercise stress imaging in a 1-day protocol?",333 MBq to 352 MBq (9 mCi to 9.5 mCi),333 MBq to 352 MBq (9 mCi to 9.5 mCi)
+"
+
+What age group is LIVDELZI approved for?",Adults only,Adults only
+"
+
+What is the maximum treatment duration for ANKTIVA?",37 months,37 months
+"
+
+Is there any difference in TEVIMBRA's effectiveness between elderly and younger adult patients?",No overall differences in safety or effectiveness were observed,No overall differences in safety or effectiveness were observed
+"
+
+What is the minimum age requirement for DUVYZAT treatment?",6 years of age and older,6 years of age and older
+"
+
+How frequently should RYTELO be administered in the treatment cycle?",Every 4 weeks,Every 4 weeks
+"
+
+Is LEQSELVI contraindicated in patients who are CYP2C9 poor metabolizers?","No, it is not contraindicated",Yes
+"
+
+What should be completed before starting treatment with NEMLUVIO?",All age-appropriate vaccinations as recommended by current immunization guidelines,All age-appropriate vaccinations as recommended by current immunization guidelines
+"
+
+What are the absolute contraindications for VAFSEO?","Known hypersensitivity to VAFSEO or its components, and uncontrolled hypertension",Known hypersensitivity to VAFSEO or its components and uncontrolled hypertension
+"
+
+What are the contraindications for VYLOY?",None,None
+"
+
+What is the size of each unit-dose packet of AQNEURSA?",1 gram,1 gram
+"
+
+What is the primary contraindication for EBGLYSS?",Prior serious hypersensitivity to lebrikizumab-lbkz or any excipients,Prior serious hypersensitivity to lebrikizumab-lbkz or any excipients
+"
+
+How long before imaging should LUMISIGHT be administered?",2 to 6 hours,2 to 6 hours
+"
+
+What is the maintenance dose of PIASKY for patients weighing between 40 kg and 100 kg?",680 mg subcutaneously every 4 weeks,680 mg subcutaneously every 4 weeks
+"
+
+Does LIVDELZI require dose adjustment in patients with mild hepatic impairment?",No dose adjustment is recommended,No dose adjustment is recommended
+"
+
+How long after applying ZELSUVMI should patients wait before swimming, bathing, or washing?",1 hour,1 hour
+"
+
+What is the minimum weight requirement for patients to receive NIKTIMVO?",40 kg,40 kg
+"
+
+What should be done if a dose of WINREVAIR is missed?","Administer within 3 days of scheduled date; if beyond 3 days, adjust schedule to maintain 3-week dosing intervals","Administer within 3 days of scheduled date; if beyond 3 days, adjust schedule to maintain 3-week dosing intervals"
+"
+
+What are the contraindications for TEVIMBRA?",None,None
+"
+
+Is dosage adjustment of ORLYNVAH required for patients with CrCL ≥ 15 mL/min?",No dosage adjustment required,No dosage adjustment required
+"
+
+What is the absolute contraindication for YORVIPATH?",Severe hypersensitivity to palopegteriparatide or any components of YORVIPATH,Severe hypersensitivity to palopegteriparatide or any components of YORVIPATH
+"
+
+What is the recommended dosage of RYTELO for adult patients with MDS?",7.1 mg/kg administered as an intravenous infusion over 2 hours every 4 weeks,7.1 mg/kg administered as an intravenous infusion over 2 hours every 4 weeks
+"
+
+What is the reduced dosage of NIKTIMVO for patients who experience Grade 3 AST or ALT elevation with total bilirubin ≤ Grade 1?",6 mg once daily,0.2 mg/kg (maximum 23 mg) every 2 weeks
+"
+
+Has a recommended dosage of OJEMDA been established for patients with BSA less than 0.3 m²?",No,No
+"
+
+Can LEQSELVI be taken with moderate or strong CYP2C9 inhibitors?","No, it is contraindicated","No, it is contraindicated"
+"
+
+How should XOLREMDI be taken with respect to meals?",On a full stomach with food,"On an empty stomach after overnight fast, at least 30 minutes before food"
+"
+
+What is the recommended injection volume of LETYBO per injection site?",0.1 mL per injection site,0.1 mL per injection site
+"
+
+What is the minimum age requirement for XOLREMDI treatment?",12 years of age,12 years of age
+"
+
+What is the minimum age group for which ITOVEBI is indicated?",Adults only,Adults only
+"
+
+What is the minimum time gap required between taking LIVDELZI and bile acid sequestrants?",At least 4 hours before or 4 hours after,At least 4 hours before or 4 hours after
+"
+
+Is TRYVIO recommended for patients with moderate to severe hepatic impairment?","No, it is not recommended","No, it is not recommended"
+"
+
+When taking bile acid sequestrants, how should IQIRVO administration be timed?",At least 4 hours before or 4 hours after the bile acid sequestrant,At least 4 hours before or 4 hours after the bile acid sequestrant
+"
+
+Can TRYVIO be taken with or without food?","Yes, it can be taken with or without food","Yes, it can be taken with or without food"
+"
+
+What is the recommended ZEVTERA dosage for adult patients with SAB during the first 8 days?",667 mg every 6 hours,667 mg every 6 hours
+"
+
+Are there any absolute contraindications for IQIRVO?",None,None
+"
+
+Can REZDIFFRA be taken with or without food?",Can be taken with or without food,Can be taken with or without food
+"
+
+What is the recommended ZEVTERA dosage for pediatric patients aged 3 months to less than 12 years with CABP?",20 mg/kg (up to 667 mg/dose) every 8 hours,20 mg/kg (up to 667 mg/dose) every 8 hours
+"
+
+What is the recommended infusion duration for ZEVTERA in adult patients?",2 hours,2 hours
+"
+
+What is the initial loading dose of EBGLYSS at Week 0 and Week 2?",500 mg (two 250 mg injections),500 mg (two 250 mg injections)
+"
+
+Is KISUNLA approved for use in pediatric patients?",No,No
+"
+
+What is the recommended DUVYZAT dosage for patients weighing 20-40 kg?",31 mg twice daily (3.5 mL twice daily),31 mg twice daily (3.5 mL twice daily)
+"
+
+When should VYLOY be administered if given on the same day as chemotherapy?",VYLOY must be administered first,VYLOY must be administered first
+"
+
+What is the minimum age group for which RYTELO is indicated?",Adults only,Adults only
+"
+
+How long should the RYTELO infusion be administered?",Over 2 hours,Over 2 hours
+"
+
+What is the total daily dose of AQNEURSA for patients weighing between 25 kg to less than 35 kg?",3 grams,3 grams
+"
+
+What is the morning dose of AQNEURSA for patients weighing 35 kg or more?",2 grams,2 grams
+"
+
+Are there any absolute contraindications for NIKTIMVO?",None,None
+"
+
+When should COBENFY be taken in relation to meals?",At least one hour before a meal or at least two hours after a meal,At least one hour before a meal or at least two hours after a meal
+"
+
+What is the recommended starting dose of ITOVEBI for patients with moderate renal impairment?",6 mg orally once daily,6 mg orally once daily
+"
+
+What is the initial dosage of KISUNLA for the first three doses?",800 mg every four weeks,700 mg every four weeks
+"
+
+Can LEQSELVI be prescribed to pediatric patients?","No, safety and effectiveness have not been established","No, safety and effectiveness have not been established"
+"
+
+What is the recommended DUVYZAT dosage for patients weighing 10-20 kg?",22.2 mg twice daily (2.5 mL twice daily),22.2 mg twice daily (2.5 mL twice daily)
+"
+
+What is the minimum age for which IQIRVO is approved?",2 years of age,18 years and older (adults)
+"
+
+Are there any absolute contraindications for DUVYZAT?",None,None
+"
+
+What is the recommended daily dose of XOLREMDI for patients weighing more than 50 kg?",400 mg orally once daily,400 mg orally once daily
+"
+
+What is the minimum age requirement for EBGLYSS treatment?",12 years of age,12 years of age
+"
+
+Should LEQSELVI dosing be adjusted if a dose is missed?",Skip the missed dose and resume at next scheduled dose,Skip the missed dose and resume at next scheduled dose
+"
+
+What is the evening dose of AQNEURSA for patients weighing 35 kg or more?",1 gram,1 gram
+"
+
+In what increments should the VAFSEO dose be adjusted to achieve target hemoglobin levels?",150 mg increments,150 mg increments
+"
+
+What was the age range of patients studied in clinical trials for VYLOY?",20 to 86 years,20 to 86 years
+"
+
+Are there any absolute contraindications for LIVDELZI?",None,None
+"
+
+Can VORANIGO be taken with or without food?","Yes, it can be taken with or without food","Yes, it can be taken with or without food"
+"
+
+What is the standard daily dosage of LIVDELZI for adult PBC patients?",10 mg once daily,10 mg once daily
+"
+
+What is the maximum single dose of NIKTIMVO that can be administered?",20 mg,35 mg
+"
+
+What is the standard daily dosage of LAZCLUZE for adult patients?",240 mg once daily,240 mg once daily
+"
+
+What is the approved age range for WINREVAIR treatment?",Adults (18 years and older),Adults (18 years and older)
+"
+
+Can LIVDELZI be taken with or without food?","Yes, it can be taken with or without food","Yes, it can be taken with or without food"
+"
+
+What is the first dose reduction level of RYTELO for patients experiencing Grade 3 or 4 adverse reactions?",5.6 mg/kg,5.6 mg/kg
+"
+
+What is the standard daily dosage of ITOVEBI for adult patients?",9 mg orally once daily,9 mg orally once daily
+"
+
+What is the recommended daily dosage of IQIRVO for adult patients?",400 mg orally once daily,80 mg once daily
+"
+
+What is the recommended EXBLIFEP dosage for patients with eGFR greater than or equal to 130 mL/min?",2.5 grams every 8 hours with 4-hour infusion,2.5 grams every 8 hours with 4-hour infusion
+"
+
+For patients on hemodialysis, when should EXBLIFEP be administered?",After completion of hemodialysis session on hemodialysis days,After completion of hemodialysis session on hemodialysis days
+"
+
+What is the indicated age range for LETYBO treatment?",Adult patients only,Adult patients only
+"
+
+How long should the LUMISIGHT injection be administered over?",3 minutes,3 minutes
+"
+
+How frequently should YORVIPATH be administered?",Once daily with only one injection,Once daily with only one injection
+"
+
+What is the maximum weekly dose of OJEMDA regardless of body surface area?",124 mg,600 mg
+"
+
+What is the primary contraindication for ZEVTERA?",Known history of severe hypersensitivity to ZEVTERA or other members of the cephalosporin class,Known history of severe hypersensitivity to ZEVTERA or other members of the cephalosporin class
+"
+
+For what duration should ORLYNVAH be prescribed in uncomplicated UTI?",5 days,5 days
+"
+
+What is the minimum body weight requirement for PIASKY treatment?",40 kg,40 kg
+"
+
+What is the primary contraindication for KISUNLA?",Known serious hypersensitivity to donanemab-azbt or any of the excipients,Known serious hypersensitivity to donanemab-azbt or any of the excipients
+"
+
+Are there any absolute contraindications for REZDIFFRA?",None,None
+"
+
+Are there any contraindications for ANKTIVA?",None,None
+"
+
+What is the adjusted dosage of REZDIFFRA for patients under 100 kg when taking moderate CYP2C8 inhibitors?",60 mg once daily,60 mg once daily
+"
+
+What is the dosage of ANKTIVA for additional maintenance treatment after month 25?","400 mcg administered once a week for 3 weeks at months 25, 31, and 37","400 mcg administered once a week for 3 weeks at months 25, 31, and 37"
+"
+
+For patients requiring a 2-gram dose of AQNEURSA, how many packets should be prepared?",Two packets,Two packets
+"
+
+Are there any absolute contraindications for LAZCLUZE?",None,None
+"
+
+What is the minimum platelet count required before initiating DUVYZAT treatment?",150 x 10^9/L,150 x 10^9/L
+"
+
+What is the primary contraindication for EXBLIFEP?",History of serious hypersensitivity reactions to the components of EXBLIFEP or other beta-lactam antibacterial drugs,History of serious hypersensitivity reactions to the components of EXBLIFEP or other beta-lactam antibacterial drugs
+"
+
+Is LUMISIGHT approved for use in geriatric patients?","Yes, it is approved for use in patients of all ages, including geriatric patients","Yes, with no dosage adjustments required"
+"
+
+What is the recommended daily dosage of REZDIFFRA for patients weighing less than 100 kg?",80 mg orally once daily,80 mg orally once daily
+"
+
+What is the indicated age range for AQNEURSA use?",Adults and pediatric patients weighing ≥15 kg,Adults and pediatric patients weighing ≥15 kg
+"
+
+What is the indicated age group for ORLYNVAH treatment?",Adults with metastatic triple-negative breast cancer (mTNBC) who have not received prior treatment for metastatic disease,Adult women only
+"
+
+What is the recommended ZEVTERA dosage for pediatric patients aged 12 to less than 18 years with CABP?",667 mg every 8 hours,13.3 mg/kg (up to 667 mg/dose) every 8 hours
+"
+
+What is the maintenance dose of PIASKY for patients weighing 100 kg or more?","1,020 mg subcutaneously every 4 weeks","1,020 mg subcutaneously every 4 weeks"
+"
+
+What is the maintenance dosage of KISUNLA after the first three doses?",1400 mg every four weeks,1400 mg every four weeks
+"
+
+What is the recommended duration of EXBLIFEP treatment for complicated UTI?","7 days, or up to 14 days for patients with concurrent bacteremia","7 days, or up to 14 days for patients with concurrent bacteremia"
+"
+
+What are the subsequent dosing options for VYLOY after the initial dose?",600 mg/m2 every 3 weeks or 400 mg/m2 every 2 weeks,600 mg/m2 every 3 weeks or 400 mg/m2 every 2 weeks
+"
+
+What is the second dosage reduction of VORANIGO for adult patients experiencing adverse reactions?",10 mg once daily,10 mg once daily
+"
+
+What is the primary contraindication for LUMISIGHT?",History of hypersensitivity reaction to pegulicianine,History of hypersensitivity reaction to pegulicianine
+"
+
+How many doses per day of AQNEURSA should patients weighing 15 to less than 25 kg receive?",2 doses,2 doses
+"
+
+What is the indicated age range for TRYVIO treatment?",Adults only,Adults only
+"
+
+What is the subcutaneous loading dose schedule for PIASKY after the initial IV dose?","340 mg subcutaneously on Days 2, 8, 15, and 22","340 mg on Days 2, 8, 15, and 22"
+"
+
+What is the first dose reduction level of ITOVEBI for managing adverse reactions?",6 mg daily,6 mg daily
+"
+
+What is the maximum recommended daily dose of YORVIPATH?",1 mg once daily,30 mcg once daily
+"
+
+For what BSA range should OJEMDA oral suspension be used instead of tablets?",0.30-0.89 m²,0.30-0.89 m²
+"
+
+How frequently should NIKTIMVO be administered?",Every 2 weeks,Every 2 weeks
+"
+
+How frequently should hemoglobin and platelet counts be monitored when starting WINREVAIR?","Before each dose for the first 5 doses, or longer if values are unstable, and periodically thereafter","Before each dose for the first 5 doses, or longer if values are unstable, and periodically thereafter"
+"
+
+What is the minimum age for which LUMISIGHT has been established as safe and effective?",Adult patients 18 years and older,Adult patients only (18 years and older)
+"
+
+How long after reconstitution must NEMLUVIO be used?",Within 4 hours,Within 4 hours
+"
+
+What is the adjusted dosage of REZDIFFRA for patients 100 kg or more when taking moderate CYP2C8 inhibitors?",80 mg once daily,80 mg once daily
+"
+
+Can IQIRVO be taken with or without food?","Yes, it can be taken with or without food","Yes, it can be taken with or without food"
+"
+
+What is the recommended EXBLIFEP dosage for patients with eGFR less than 15 mL/min?","Loading dose of 1.25 grams on first day, followed by 0.625 grams every 24 hours","Loading dose of 1.25 grams on first day, followed by 0.625 grams every 24 hours"
+"
+
+What is the recommended DUVYZAT dosage for patients weighing 60 kg or more?",53.2 mg twice daily (6 mL twice daily),53.2 mg twice daily (6 mL twice daily)
+"
+
+Is dosage adjustment of IQIRVO needed for patients with mild hepatic impairment?",No dosage adjustment is recommended,No dosage adjustment is recommended
+"
+
+Are there any absolute contraindications for ITOVEBI?",None,None
+"
+
+What is the initial loading dose of PIASKY for patients weighing between 40 kg and 100 kg?","1,000 mg intravenously","1,000 mg intravenously"
+"
+
+What is the primary contraindication for XOLREMDI?",Use with drugs that are highly dependent on CYP2D6 for clearance,Use with drugs that are highly dependent on CYP2D6 for clearance
+"
+
+Are there any absolute contraindications for RYTELO?",None,None
+"
+
+Has the safety and effectiveness of REZDIFFRA been established in pediatric patients?",No,No
+"
+
+What is the recommended adult dosage of ZEVTERA for treating ABSSSI?",667 mg every 8 hours,667 mg every 8 hours
+"
+
+What is the recommended daily dosage of REZDIFFRA for patients weighing 100 kg or more?",100 mg orally once daily,100 mg orally once daily
+"
+
+What is the recommended dosage increase schedule for COBENFY after the initial dose?","Increase to 100 mg/20 mg twice daily for at least five days, then may increase to 125 mg/30 mg twice daily based on tolerability and response","Increase to 100 mg/20 mg twice daily for at least five days, then may increase to 125 mg/30 mg twice daily based on tolerability and response"
+"
+
+What is the recommended OJEMDA tablet dose for patients with BSA between 0.90-1.12 m²?",400 mg once daily,400 mg once weekly
+"
+
+What is the target dose of WINREVAIR for PAH treatment?",0.7 mg/kg every 3 weeks by subcutaneous injection,0.7 mg/kg every 3 weeks by subcutaneous injection
+"
+
+What is the recommended daily dosage of TRYVIO for adult patients?",12.5 mg once daily,12.5 mg once daily
+"
+
+Does LIVDELZI require dose adjustment in patients with renal impairment?","No, the recommended dosage is the same","No, the recommended dosage is the same"
+"
+
+What is the first dosage reduction of VORANIGO for adult patients experiencing adverse reactions?",20 mg once daily,20 mg once daily
+"
+
+What concentration range should KISUNLA be diluted to before administration?",4 mg/mL to 10 mg/mL,4 mg/mL to 10 mg/mL
+"
+
+What are the absolute contraindications for TRYVIO?",Pregnancy and hypersensitivity to aprocitentan or its excipients,Pregnancy and hypersensitivity to aprocitentan or its excipients
+"
+
+What is the recommended duration of ZEVTERA treatment for pediatric patients with CABP?",7 to 14 days,7 to 14 days
+"
+
+What is the initial loading dose of PIASKY for patients weighing over 100 kg?","1,500 mg intravenously","1,500 mg intravenously"
+"
+
+What are the contraindications for AQNEURSA?",None,None
+"
+
+What is the minimum age for which ZEVTERA is indicated in treating CABP?",3 months,3 months
+"
+
+Is TRYVIO recommended for patients with kidney failure or on dialysis?","No, it is not recommended","No, it is not recommended"
+"
+
+What is the recommended use of ORLYNVAH for patients with severe renal impairment (CrCL < 15 mL/min)?",Not recommended,Not recommended
+"
+
+What is the recommended daily dosage of LEQSELVI for adult patients with severe alopecia areata?",8 mg twice daily,8 mg twice daily
+"
+
+What patient age group is LEQSELVI indicated for?",Adults only,Adults only
+"
+
+What is the minimum age of patients studied with KISUNLA in clinical trials?",59 years,59 years
+"
+
+What is the minimum dose increment when adjusting YORVIPATH?",3 mcg,3 mcg
+"
+
+How should VYLOY be administered to patients?",By intravenous infusion only,By intravenous infusion only
+"
+
+What is the induction dosage of ANKTIVA?",400 mcg administered intravesically with BCG once a week for 6 weeks,400 mcg administered intravesically with BCG once a week for 6 weeks
+"
+
+How should DUVYZAT be administered with respect to food?",Orally twice daily with food,Orally twice daily with food
+"
+
+How long should each KISUNLA infusion be administered?",Approximately 30 minutes,Approximately 30 minutes
+"
+
+Are there any absolute contraindications for WINREVAIR?",None,None
+"
+
+Should ORLYNVAH be taken with or without food?",With food,With food
+"
+
+Should patients continue taking TRYVIO if they miss a dose?",Skip the missed dose and take the next dose at the regular time. Do not take two doses on the same day.,Skip the missed dose and take the next dose at the regular time. Do not take two doses on the same day.
+"
+
+What was the age range of patients studied in clinical trials of LUMISIGHT?",36 to 95 years,36 to 95 years
+"
+
+What is the recommended action for LEQSELVI dosing if a patient's absolute lymphocyte count falls below 500 cells/mm3?",Interrupt treatment until ALC is ≥500 cells/mm3,Interrupt treatment until ALC is ≥500 cells/mm3
+"
+
+What is the indicated age group for ANKTIVA treatment?",Adult patients,Adult patients
+"
+
+What is the indicated age range for COBENFY?",Adults only,Adults only
+"
+
+What is the minimum age requirement for PIASKY treatment?",12 years of age and older,13 years and older
+"
+
+After what duration should RYTELO be discontinued if a patient shows no decrease in red blood cell transfusion burden?",After 24 weeks of treatment (administration of 6 doses),After 24 weeks of treatment (administration of 6 doses)
+"
+
+What is the starting dose of WINREVAIR for adult PAH patients?",0.3 mg/kg by subcutaneous injection every 3 weeks,0.3 mg/kg by subcutaneous injection every 3 weeks
+"
+
+Is dosage adjustment of IQIRVO required for elderly patients over 65 years?",No dosage adjustment is necessary,No dosage adjustment is necessary
+"
+
+What should be done with ITOVEBI dosing if a patient vomits after taking their dose?","Do not take an additional dose that day, resume usual dosing schedule the next day",Do not take an additional dose that day and resume usual dosing schedule the next day
+"
+
+What is the minimum patient weight required for AQNEURSA treatment?",15 kg,15 kg
+"
+
+What is the indicated age group for REZDIFFRA treatment?",Adults only,Adults only
+"
+
+What is the recommended FLYRCADO dosage for rest imaging in a 1-day protocol?",93 MBq to 111 MBq (2.5 mCi to 3 mCi),93 MBq to 111 MBq (2.5 mCi to 3 mCi)
+"
+
+What is the maximum recommended dosage of COBENFY for geriatric patients?",100 mg/20 mg twice daily,100 mg/20 mg twice daily
+"
+
+What is the adjusted dosage of XOLREMDI when used with strong CYP3A4 inhibitors?",200 mg daily,200 mg daily
+"
+
+What is the recommended dose of LUMISIGHT for adult patients?",1 mg/kg actual body weight,1 mg/kg actual body weight
+"
+
+What is the initial dose of VYLOY for adult patients?",800 mg/m2,800 mg/m2
+"
+
+What are the absolute contraindications for ORLYNVAH?","History of hypersensitivity to components, known blood dyscrasias, known uric acid kidney stones, and concomitant use with ketorolac tromethamine","History of hypersensitivity to components, known blood dyscrasias, known uric acid kidney stones, and concomitant use with ketorolac tromethamine"
+"
+
+What is the recommended daily dose of XOLREMDI for patients weighing 50 kg or less?",300 mg orally once daily,300 mg orally once daily
+"
+
+What percentage of KISUNLA clinical trial patients were 65 years and older?",90%,90%
+"
+
+How long should ANKTIVA be retained in the bladder during treatment?",2 hours,2 hours
+"
+
+What is the recommended duration of ZEVTERA treatment for adult patients with ABSSSI?",5 to 14 days,5 to 14 days
+"
+
+What is the maintenance dosage schedule for ANKTIVA?","400 mcg administered intravesically with BCG once a week for 3 weeks at months 4, 7, 10, 13 and 19","400 mcg administered intravesically with BCG once a week for 3 weeks at months 4, 7, 10, 13 and 19"
+"
+
+What is the recommended DUVYZAT dosage for patients weighing 40-60 kg?",44.3 mg twice daily (5.5 mL twice daily),44.3 mg twice daily (5 mL twice daily)
+"
+
+What is the approved age group for VYLOY treatment?",Adults only,Adults only
+"
+
+What platelet count is required to initiate WINREVAIR treatment?","Must be ≥50,000/mm3 (≥50 x 109/L)","Must be ≥50,000/mm3 (≥50 x 109/L)"
+"
+
+What is the starting dose of YORVIPATH?",18 mcg once daily,18 mcg once daily
+"
+
+What are the absolute contraindications for LETYBO?","Known hypersensitivity to botulinum toxin preparations or components, and infection at injection sites","Known hypersensitivity to botulinum toxin preparations or components, and infection at injection sites"
+"
+
+Is XOLREMDI recommended for patients with severe renal impairment?","No, it is not recommended","No, it is not recommended"
+"
+
+What is the minimum weight requirement for EBGLYSS treatment?",40 kg,40 kg
+"
+
+How should the dose of ITOVEBI be modified if a patient misses a dose within 9 hours of their usual time?",Take the missed dose as soon as possible within 9 hours,Take the missed dose as soon as possible within 9 hours
+"
+
+What is the second dose reduction level of RYTELO for patients experiencing Grade 3 or 4 adverse reactions?",4.4 mg/kg,4.4 mg/kg
+"
+
+What is the recommended EXBLIFEP dosage for patients with severe renal impairment (eGFR 15-29 mL/min)?",1.25 grams every 12 hours with 2-hour infusion,1.25 grams every 12 hours with 2-hour infusion
+"
+
+What should be done if a dose of ORLYNVAH is missed?","Take the dose as soon as possible, but do not double the dose","Take the dose as soon as possible, but do not double the dose"
+"
+
+Is LEQSELVI recommended for use in patients with severe renal impairment?",No,No
+"
+
+What form and strength is TRYVIO available in?","12.5 mg yellow to orange round, film-coated tablets","12.5 mg yellow to orange round, film-coated tablets"
+"
+
+What is the second dose reduction level of ITOVEBI for managing adverse reactions?",3 mg daily,3 mg daily
+"
+
+Is IQIRVO recommended for use in patients with decompensated cirrhosis?",No,No
+"
+
+What are the absolute contraindications for COBENFY?","Urinary retention, moderate/severe hepatic impairment, gastric retention, hypersensitivity to COBENFY or trospium chloride, and untreated narrow-angle glaucoma","Urinary retention, moderate/severe hepatic impairment, gastric retention, hypersensitivity to COBENFY or trospium chloride, and untreated narrow-angle glaucoma"
+"
+
+What are the contraindications for FLYRCADO?",None,None
+"
+
+What is the recommended daily dose of VORANIGO for pediatric patients 12 years and older weighing less than 40 kg?",20 mg orally once daily,20 mg orally once daily
+"
+
+What is the capsule strength available for XOLREMDI?",100 mg capsules,100 mg capsules
+"
+
+What baseline tests are required before starting DUVYZAT treatment?",Platelet counts and triglycerides,Platelet counts and triglycerides
+"
+
+What is the recommended weekly dosage of OJEMDA based on body surface area?",380 mg/m² once weekly,380 mg/m² once weekly
+"
+
+What are the absolute contraindications for initiating PIASKY treatment?",Unresolved serious Neisseria meningitidis infection and serious hypersensitivity to crovalimab or excipients in PIASKY,Unresolved serious Neisseria meningitidis infection and serious hypersensitivity to crovalimab or excipients
+"
+
+What is the standard recommended dosage of ORLYNVAH for treating uncomplicated UTIs?",One tablet (500 mg sulopenem etzadroxil and 500 mg probenecid) orally twice daily for 5 days,One tablet (500 mg sulopenem etzadroxil and 500 mg probenecid) orally twice daily for 5 days
+"
+
+What is the standard dosage of EXBLIFEP for patients with normal renal function (eGFR 60-129 mL/min)?",2.5 grams (2 grams cefepime and 0.5 grams enmetazobactam) every 8 hours by intravenous infusion over 2 hours,2.5 grams (2 grams cefepime and 0.5 grams enmetazobactam) every 8 hours by intravenous infusion over 2 hours
+"
+
+What is the minimum age requirement for EXBLIFEP treatment?",18 years of age and older,18 years of age and older
+"
+
+What is the maximum recommended dosage of COBENFY for adult patients?",125 mg/30 mg twice daily,125 mg/30 mg twice daily
+"
+
+What should be done if a dose of NEMLUVIO is missed?",Administer the dose as soon as possible and resume dosing at the regular scheduled time,Administer the dose as soon as possible and resume dosing at the regular scheduled time
